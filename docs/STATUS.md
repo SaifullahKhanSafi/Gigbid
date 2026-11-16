@@ -22,7 +22,7 @@
 
 - Official GigSim reply/hire rates, planted-attack results on instructor data, official November 2 policy change and hidden test metrics.
 - Independently human-labelled judge calibration, blind human preference panel and human-validated proposal quality.
-- Public live URL, a published package/technical article/video URL and public Phoenix trace URLs until those services/accounts are connected or content is published.
+- Public live application, registry package, hosted MCP endpoint and public Phoenix trace UI. The technical article, video, install instructions and sanitized JSON traces are now published in the GitHub repository; see [public links](PUBLIC_LINKS.md).
 - An on-time submission: the PDF's November 12 deadline was before work began. No backdating is performed.
 
 Do not submit the system as fully satisfying all grading requirements while these gaps remain. Use REQUIREMENTS and the submission checklist to finish the account/data-dependent work with the TA.

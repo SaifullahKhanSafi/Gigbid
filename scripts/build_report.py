@@ -429,7 +429,7 @@ def build():
         "The local application is usable at port 8000, with private reviewer credentials excluded from Git. Docker Compose and a Render reference Blueprint are prepared. The Docker engine was unavailable, so container startup/Postgres/Redis/Phoenix operation is not verified. Render requires persistent storage and a reachable open-model endpoint; free ephemeral/sleeping services do not establish reliable reviewer availability."
     )
     p(
-        "<b>Still required for a complete submission:</b> official GigSim assets/contract and outcomes; actual Upwork/GitHub account verification; independent human calibration and blind ratings; official policy adaptation; public deployment with reviewer access; published write-up/video/Portfolio MCP links; and public sanitized traces. The blank human review sheets are intentionally not auto-filled. The student must review and explain the code in the viva."
+        "<b>Still required for a complete submission:</b> official GigSim assets/contract and outcomes; actual Upwork/GitHub account verification; independent human calibration and blind ratings; official policy adaptation; and public deployment with reviewer access. The write-up, video, MCP installation guide and sanitized JSON traces are published on GitHub (docs/PUBLIC_LINKS.md); hosted MCP/Phoenix endpoints are not deployed. Human review sheets are intentionally blank. The student must review and explain the code in the viva."
     )
     p(
         "AI assistance and corrected mistakes are disclosed in docs/AI_USAGE.md. Original code is MIT licensed; datasets/models retain their own terms. The submission checklist keeps unexecuted work visible. No hidden test data, real client messages or account tokens enter the public source."

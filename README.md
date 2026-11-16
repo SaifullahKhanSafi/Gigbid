@@ -42,6 +42,19 @@ Live adapters and SDK OAuth plumbing fail closed until official schemas, mapping
 
 ## Measured results
 
+Final local validation: **28 Python tests and six browser flows passed**, with successful frontend build, lint, dependency-lock and Compose syntax checks. Container startup and live account integrations remain unverified. [Validation details](docs/FINAL_VALIDATION.md) · [Published deliverables](docs/PUBLIC_LINKS.md).
+
+| Retriever | Recall@5 | nDCG@10 | p95 seconds |
+|---|---:|---:|---:|
+| V0 dense | 0.9595 | 0.9714 | 0.0156 |
+| V1 decomposition (selected) | 0.9794 | 0.9913 | 0.0052 |
+| V2 hybrid RRF | 0.9794 | 0.9863 | 0.0041 |
+| V3 cross-encoder | 0.9653 | 0.9759 | 0.0379 |
+| V4 outcome ranking | 0.9794 | 0.9863 | 0.0050 |
+| V8 corrective graph | 0.9653 | 0.9759 | 0.0490 |
+
+These 600-job measurements use synthetic relevance labels and cached queries. They do not establish real-world retrieval quality. The later 30-job routed-model smoke reached approval on 27 eligible jobs and skipped three. A separate synthetic client study improved replies, but did not improve hires; see the validation details.
+
 The current tables are generated into [RESULTS.md](docs/RESULTS.md) from [evals/results](evals/results). Raw records, hardware, sample sizes and limitations are included there. Run `python -m scripts.build_results_tables` after new experiments.
 
 V1 is the provisional shipped retriever selected by synthetic dev nDCG@10. High synthetic decision scores reflect rule/template overlap and do not predict performance on the missing official or hidden sets. Paid API spend is zero; hardware/electricity costs are excluded.
