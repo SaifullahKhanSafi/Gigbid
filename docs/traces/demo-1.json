@@ -1,0 +1,1099 @@
+{
+  "run": {
+    "id": "58a55db22a2a4b6385faed795e1210f2",
+    "kind": "bid",
+    "status": "submitted",
+    "job_id": "demo-ml-0001",
+    "conversation_id": null,
+    "state": {
+      "tenant": "60351683d31447e5b8afcbb886072f06",
+      "job_id": "demo-ml-0001",
+      "persona": "ml",
+      "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+      "job": {
+        "id": "demo-ml-0001",
+        "title": "Support knowledge assistant",
+        "description": "We need retrieval over help-center documents with citations. Requirements: Python; RAG; FastAPI. Please explain your relevant work and how you would validate delivery. Industry: support. Hourly budget USD 72-85. Timeline to discuss.",
+        "skills": [
+          "Python",
+          "RAG",
+          "FastAPI"
+        ],
+        "budget_min": 72.0,
+        "budget_max": 85.0,
+        "budget_type": "hourly",
+        "currency": "USD",
+        "connects": 10,
+        "client_id": "client-ml-1",
+        "industry": "support",
+        "persona_hint": "ml",
+        "synthetic": true,
+        "provenance": "GigBid synthetic local development fixture",
+        "source": "synthetic://jobs/demo-ml-0001",
+        "created_at": "[PHONE_OR_ACCOUNT]",
+        "screening_questions": [
+          "Describe comparable work with evidence."
+        ],
+        "client": {
+          "spend": 95905,
+          "rating": 3.78,
+          "hires": 58,
+          "verified": true
+        }
+      },
+      "spec": {
+        "title": "Support knowledge assistant",
+        "deliverables": [
+          "We need retrieval over help-center documents with citations"
+        ],
+        "skills": [
+          "Python",
+          "RAG",
+          "FastAPI"
+        ],
+        "budget_min": 72.0,
+        "budget_max": 85.0,
+        "timeline": "To confirm",
+        "screening_questions": [
+          "Describe comparable work with evidence."
+        ],
+        "hidden_needs": [
+          "What specific documents do you need to retrieve?",
+          "How do you plan to validate the delivery of the retrieval service?",
+          "What Python libraries or frameworks do you recommend for this task?",
+          "How do you plan to integrate the retrieval service with the help-center system?"
+        ]
+      },
+      "risk": {
+        "score": 0.04392000000000002,
+        "scam": false,
+        "injection": false,
+        "flags": [],
+        "client_quality": 0.8535999999999999
+      },
+      "fit": {
+        "score": 1.0,
+        "matrix": [
+          {
+            "requirement": "Python",
+            "evidence_ids": [
+              "ml-project-00-case_study",
+              "ml-project-08-case_study",
+              "ml-project-16-case_study",
+              "ml-project-08-code",
+              "ml-project-16-code"
+            ],
+            "supported": true
+          },
+          {
+            "requirement": "RAG",
+            "evidence_ids": [
+              "ml-project-00-case_study",
+              "ml-project-08-case_study",
+              "ml-project-16-case_study",
+              "ml-project-08-code",
+              "ml-project-16-code"
+            ],
+            "supported": true
+          },
+          {
+            "requirement": "FastAPI",
+            "evidence_ids": [
+              "ml-project-00-case_study",
+              "ml-project-08-case_study",
+              "ml-project-16-case_study",
+              "ml-project-08-code",
+              "ml-project-16-code"
+            ],
+            "supported": true
+          }
+        ],
+        "evidence": [
+          {
+            "id": "ml-project-00-case_study",
+            "persona": "ml",
+            "type": "case_study",
+            "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+            "source": "synthetic://ml-project-00-case_study",
+            "date": "[PHONE_OR_ACCOUNT]",
+            "project": "ml-project-00",
+            "skills": [
+              "Python",
+              "RAG",
+              "FastAPI"
+            ],
+            "synthetic": true,
+            "outcome": null,
+            "industry": "support",
+            "provenance": "GigBid seed_data.py; fictional freelancer and client",
+            "title": "Support knowledge assistant",
+            "approved_claims": [
+              "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+            ],
+            "chunk_id": "ml-project-00-case_study:0"
+          },
+          {
+            "id": "ml-project-08-case_study",
+            "persona": "ml",
+            "type": "case_study",
+            "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+            "source": "synthetic://ml-project-08-case_study",
+            "date": "[PHONE_OR_ACCOUNT]",
+            "project": "ml-project-08",
+            "skills": [
+              "Python",
+              "RAG",
+              "FastAPI"
+            ],
+            "synthetic": true,
+            "outcome": null,
+            "industry": "support",
+            "provenance": "GigBid seed_data.py; fictional freelancer and client",
+            "title": "Support knowledge assistant",
+            "approved_claims": [
+              "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+            ],
+            "chunk_id": "ml-project-08-case_study:0"
+          },
+          {
+            "id": "ml-project-16-case_study",
+            "persona": "ml",
+            "type": "case_study",
+            "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+            "source": "synthetic://ml-project-16-case_study",
+            "date": "[PHONE_OR_ACCOUNT]",
+            "project": "ml-project-16",
+            "skills": [
+              "Python",
+              "RAG",
+              "FastAPI"
+            ],
+            "synthetic": true,
+            "outcome": null,
+            "industry": "support",
+            "provenance": "GigBid seed_data.py; fictional freelancer and client",
+            "title": "Support knowledge assistant",
+            "approved_claims": [
+              "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+            ],
+            "chunk_id": "ml-project-16-case_study:0"
+          },
+          {
+            "id": "ml-project-08-code",
+            "persona": "ml",
+            "type": "code",
+            "text": "# Support knowledge assistant # Verified synthetic implementation outline: retrieval over help-center documents with citations # Dependencies: Python, RAG, FastAPI def validate_input(record): return bool(record)",
+            "source": "synthetic://ml-project-08-code",
+            "date": "[PHONE_OR_ACCOUNT]",
+            "project": "ml-project-08",
+            "skills": [
+              "Python",
+              "RAG",
+              "FastAPI"
+            ],
+            "synthetic": true,
+            "outcome": null,
+            "industry": "support",
+            "provenance": "GigBid seed_data.py; fictional freelancer and client",
+            "title": "Support knowledge assistant",
+            "approved_claims": [
+              "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+            ],
+            "chunk_id": "ml-project-08-code:0"
+          },
+          {
+            "id": "ml-project-16-code",
+            "persona": "ml",
+            "type": "code",
+            "text": "# Support knowledge assistant # Verified synthetic implementation outline: retrieval over help-center documents with citations # Dependencies: Python, RAG, FastAPI def validate_input(record): return bool(record)",
+            "source": "synthetic://ml-project-16-code",
+            "date": "[PHONE_OR_ACCOUNT]",
+            "project": "ml-project-16",
+            "skills": [
+              "Python",
+              "RAG",
+              "FastAPI"
+            ],
+            "synthetic": true,
+            "outcome": null,
+            "industry": "support",
+            "provenance": "GigBid seed_data.py; fictional freelancer and client",
+            "title": "Support knowledge assistant",
+            "approved_claims": [
+              "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+            ],
+            "chunk_id": "ml-project-16-code:0"
+          }
+        ],
+        "missing": [],
+        "persona": null
+      },
+      "decision": {
+        "action": "bid",
+        "reasons": [
+          "Relevant portfolio evidence and acceptable risk"
+        ]
+      },
+      "price": {
+        "amount": 72.0,
+        "currency": "USD",
+        "connects": 10,
+        "rationale": "USD hourly: floor 20; client band 72-85; historical category median 30. Connects 10. Unknown scope requires confirmation.",
+        "viable": true
+      },
+      "draft": {
+        "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+        "claims": [
+          {
+            "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.",
+            "evidence_ids": [],
+            "status": "non_experience",
+            "reason": "Forward-looking plan or question; no portfolio fact asserted"
+          },
+          {
+            "text": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]",
+            "evidence_ids": [
+              "ml-project-00-case_study"
+            ],
+            "status": "supported",
+            "reason": "Exact fact or verbatim excerpt from cited evidence"
+          },
+          {
+            "text": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]",
+            "evidence_ids": [
+              "ml-project-08-case_study"
+            ],
+            "status": "supported",
+            "reason": "Exact fact or verbatim excerpt from cited evidence"
+          },
+          {
+            "text": "I would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.",
+            "evidence_ids": [],
+            "status": "non_experience",
+            "reason": "Forward-looking plan or question; no portfolio fact asserted"
+          },
+          {
+            "text": "I would validate a small vertical slice before completing the remaining scope.",
+            "evidence_ids": [],
+            "status": "non_experience",
+            "reason": "Forward-looking plan or question; no portfolio fact asserted"
+          },
+          {
+            "text": "Could you share sample inputs and the acceptance criteria?",
+            "evidence_ids": [],
+            "status": "non_experience",
+            "reason": "Forward-looking plan or question; no portfolio fact asserted"
+          }
+        ],
+        "screening_answers": {
+          "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+        },
+        "version": 1
+      },
+      "critique": {
+        "passed": true,
+        "issues": [],
+        "revision": 0
+      },
+      "compliance": {
+        "allowed": true,
+        "violations": [],
+        "policy_version": "local-demonstration-1"
+      },
+      "preview": {
+        "action": "submit_proposal",
+        "dry_run": true,
+        "connects_cost": 10,
+        "connects_spent": 0,
+        "payload_hash": "09b1ac7a014fe78119b80e893f67e967d6d22b4ace580eac070cc4ee80917f6c",
+        "payload": {
+          "idempotency_key": "proposal-58a55db22a2a4b6385faed795e1210f2",
+          "job_id": "demo-ml-0001",
+          "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+          "amount": 72.0,
+          "screening_answers": {
+            "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+          },
+          "action": "submit_proposal"
+        },
+        "id": null,
+        "status": null,
+        "destination": "local_synthetic_simulator",
+        "requires_platform_confirmation": false
+      },
+      "approval": {
+        "action": "approve",
+        "text": null,
+        "reason": ""
+      },
+      "outcome": {
+        "action": "submit_proposal",
+        "dry_run": false,
+        "connects_cost": null,
+        "connects_spent": 10,
+        "payload_hash": null,
+        "payload": null,
+        "id": "40029a6a7008497d9fc803eb28a75a93",
+        "status": "submitted",
+        "synthetic": true,
+        "job_id": "demo-ml-0001",
+        "conversation_id": "demo-ml-0001",
+        "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+        "amount": 72.0,
+        "screening_answers": {
+          "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+        },
+        "created": 1794762078.5303593,
+        "local_fixture_reply": true
+      },
+      "revision": 0,
+      "status": "submitted",
+      "steps": 8,
+      "tokens": "[REDACTED]",
+      "events": [
+        {
+          "node": "scout",
+          "seconds": 0.04362979999950767,
+          "usage": {},
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "analyst",
+          "seconds": 2.4689448999997694,
+          "usage": {
+            "output": {
+              "hidden_needs": [
+                "What specific documents do you need to retrieve?",
+                "How do you plan to validate the delivery of the retrieval service?",
+                "What Python libraries or frameworks do you recommend for this task?",
+                "How do you plan to integrate the retrieval service with the help-center system?"
+              ]
+            },
+            "prompt_tokens": "[REDACTED]",
+            "completion_tokens": "[REDACTED]",
+            "seconds": 2.464820299999701,
+            "usd": 0,
+            "model": "qwen2.5:1.5b",
+            "eval_duration_ns": 348869000
+          },
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "risk",
+          "seconds": 0.037190100000771054,
+          "usage": {},
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "fit",
+          "seconds": 10.612522399999762,
+          "usage": {},
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "pricing",
+          "seconds": 0.035097200000564044,
+          "usage": {},
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "writer",
+          "seconds": 54.43620659999942,
+          "usage": {
+            "output": {
+              "plan": "I would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases."
+            },
+            "prompt_tokens": "[REDACTED]",
+            "completion_tokens": "[REDACTED]",
+            "seconds": 54.43121929999961,
+            "usd": 0,
+            "model": "qwen2.5:7b-instruct",
+            "eval_duration_ns": 633659000
+          },
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "verifier",
+          "removed": 0,
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "critic",
+          "seconds": 1.885377999999946,
+          "usage": {
+            "output": {
+              "issues": [],
+              "suggestions": [
+                "While the proposal does not contain specific past experience with the exact task, it does provide evidence of relevant work. Consider asking for more details on the specific documents and the integration plan to ensure a better fit.",
+                "The proposal mentions validating a small vertical slice before completing the remaining scope, which is a good practice. However, it would be beneficial to have a clearer plan on how this validation will be structured and what criteria will be used."
+              ]
+            },
+            "prompt_tokens": "[REDACTED]",
+            "completion_tokens": "[REDACTED]",
+            "seconds": 1.8792896000004475,
+            "usd": 0,
+            "model": "qwen2.5:7b-instruct",
+            "eval_duration_ns": 1325780000
+          },
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+        },
+        {
+          "node": "dispatch",
+          "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+          "result": {
+            "action": "submit_proposal",
+            "dry_run": false,
+            "connects_cost": null,
+            "connects_spent": 10,
+            "payload_hash": null,
+            "payload": null,
+            "id": "40029a6a7008497d9fc803eb28a75a93",
+            "status": "submitted",
+            "synthetic": true,
+            "job_id": "demo-ml-0001",
+            "conversation_id": "demo-ml-0001",
+            "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+            "amount": 72.0,
+            "screening_answers": {
+              "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+            },
+            "created": 1794762078.5303593,
+            "local_fixture_reply": true
+          }
+        }
+      ],
+      "execution_seconds": 0.30634009999994305
+    },
+    "error": null,
+    "created": 1794761988.0332656,
+    "updated": 1794762078.5885575
+  },
+  "audit": {
+    "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+    "events": [
+      {
+        "tool": "get_job",
+        "arguments": {
+          "job_id": "demo-ml-0001"
+        },
+        "result": {
+          "id": "demo-ml-0001",
+          "title": "Support knowledge assistant",
+          "description": "We need retrieval over help-center documents with citations. Requirements: Python; RAG; FastAPI. Please explain your relevant work and how you would validate delivery. Industry: support. Hourly budget USD 72-85. Timeline to discuss.",
+          "skills": [
+            "Python",
+            "RAG",
+            "FastAPI"
+          ],
+          "budget_min": 72,
+          "budget_max": 85,
+          "budget_type": "hourly",
+          "currency": "USD",
+          "connects": 10,
+          "client_id": "client-ml-1",
+          "industry": "support",
+          "persona_hint": "ml",
+          "synthetic": true,
+          "provenance": "GigBid synthetic local development fixture",
+          "source": "synthetic://jobs/demo-ml-0001",
+          "created_at": "[PHONE_OR_ACCOUNT]",
+          "screening_questions": [
+            "Describe comparable work with evidence."
+          ],
+          "client": {
+            "spend": 95905,
+            "rating": 3.78,
+            "hires": 58,
+            "verified": true
+          }
+        },
+        "created": 1794761988.900323
+      },
+      {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        },
+        "result": {
+          "spend": 95905,
+          "rating": 3.78,
+          "hires": 58,
+          "verified": true,
+          "synthetic": true
+        },
+        "created": 1794761989.1772125
+      },
+      {
+        "tool": "search_evidence",
+        "arguments": {
+          "requirement": "We need retrieval over help-center documents with citations. Requirements: Python; RAG; FastAPI. Please explain your relevant work and how you would validate delivery. Industry: support. Hourly budget USD 72-85. Timeline to discuss.",
+          "k": 5
+        },
+        "result": {
+          "items": [
+            {
+              "persona": "ml",
+              "project": "ml-project-00",
+              "skills": [
+                "Python",
+                "RAG",
+                "FastAPI"
+              ],
+              "date": "[PHONE_OR_ACCOUNT]",
+              "industry": "support",
+              "synthetic": true,
+              "provenance": "GigBid seed_data.py; fictional freelancer and client",
+              "outcome": null,
+              "id": "ml-project-00-case_study",
+              "type": "case_study",
+              "title": "Support knowledge assistant",
+              "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+              "source": "synthetic://ml-project-00-case_study",
+              "approved_claims": [
+                "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+              ],
+              "chunk_id": "ml-project-00-case_study:0"
+            },
+            {
+              "persona": "ml",
+              "project": "ml-project-08",
+              "skills": [
+                "Python",
+                "RAG",
+                "FastAPI"
+              ],
+              "date": "[PHONE_OR_ACCOUNT]",
+              "industry": "support",
+              "synthetic": true,
+              "provenance": "GigBid seed_data.py; fictional freelancer and client",
+              "outcome": null,
+              "id": "ml-project-08-case_study",
+              "type": "case_study",
+              "title": "Support knowledge assistant",
+              "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+              "source": "synthetic://ml-project-08-case_study",
+              "approved_claims": [
+                "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+              ],
+              "chunk_id": "ml-project-08-case_study:0"
+            },
+            {
+              "persona": "ml",
+              "project": "ml-project-16",
+              "skills": [
+                "Python",
+                "RAG",
+                "FastAPI"
+              ],
+              "date": "[PHONE_OR_ACCOUNT]",
+              "industry": "support",
+              "synthetic": true,
+              "provenance": "GigBid seed_data.py; fictional freelancer and client",
+              "outcome": null,
+              "id": "ml-project-16-case_study",
+              "type": "case_study",
+              "title": "Support knowledge assistant",
+              "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+              "source": "synthetic://ml-project-16-case_study",
+              "approved_claims": [
+                "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+              ],
+              "chunk_id": "ml-project-16-case_study:0"
+            },
+            {
+              "persona": "ml",
+              "project": "ml-project-08",
+              "skills": [
+                "Python",
+                "RAG",
+                "FastAPI"
+              ],
+              "date": "[PHONE_OR_ACCOUNT]",
+              "industry": "support",
+              "synthetic": true,
+              "provenance": "GigBid seed_data.py; fictional freelancer and client",
+              "outcome": null,
+              "id": "ml-project-08-code",
+              "type": "code",
+              "title": "Support knowledge assistant",
+              "text": "# Support knowledge assistant # Verified synthetic implementation outline: retrieval over help-center documents with citations # Dependencies: Python, RAG, FastAPI def validate_input(record): return bool(record)",
+              "source": "synthetic://ml-project-08-code",
+              "approved_claims": [
+                "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+              ],
+              "chunk_id": "ml-project-08-code:0"
+            },
+            {
+              "persona": "ml",
+              "project": "ml-project-16",
+              "skills": [
+                "Python",
+                "RAG",
+                "FastAPI"
+              ],
+              "date": "[PHONE_OR_ACCOUNT]",
+              "industry": "support",
+              "synthetic": true,
+              "provenance": "GigBid seed_data.py; fictional freelancer and client",
+              "outcome": null,
+              "id": "ml-project-16-code",
+              "type": "code",
+              "title": "Support knowledge assistant",
+              "text": "# Support knowledge assistant # Verified synthetic implementation outline: retrieval over help-center documents with citations # Dependencies: Python, RAG, FastAPI def validate_input(record): return bool(record)",
+              "source": "synthetic://ml-project-16-code",
+              "approved_claims": [
+                "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+              ],
+              "chunk_id": "ml-project-16-code:0"
+            }
+          ]
+        },
+        "created": 1794761999.7420053
+      },
+      {
+        "tool": "get_connects_balance",
+        "arguments": {},
+        "result": {
+          "balance": 120,
+          "spent": 0,
+          "week": "2026-46"
+        },
+        "created": 1794761999.8301818
+      },
+      {
+        "tool": "submit_proposal",
+        "arguments": {
+          "payload": {
+            "idempotency_key": "proposal-58a55db22a2a4b6385faed795e1210f2",
+            "job_id": "demo-ml-0001",
+            "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+            "amount": 72.0,
+            "screening_answers": {
+              "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+            },
+            "approval_token": "[REDACTED]",
+            "dry_run": true,
+            "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+          }
+        },
+        "result": {
+          "action": "submit_proposal",
+          "payload": {
+            "idempotency_key": "proposal-58a55db22a2a4b6385faed795e1210f2",
+            "job_id": "demo-ml-0001",
+            "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+            "amount": 72.0,
+            "screening_answers": {
+              "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+            },
+            "action": "submit_proposal"
+          },
+          "connects_cost": 10,
+          "payload_hash": "09b1ac7a014fe78119b80e893f67e967d6d22b4ace580eac070cc4ee80917f6c",
+          "destination": "local_synthetic_simulator",
+          "requires_platform_confirmation": false,
+          "dry_run": true
+        },
+        "created": 1794762056.266088
+      },
+      {
+        "node": "scout",
+        "seconds": 0.04362979999950767,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3341238
+      },
+      {
+        "node": "analyst",
+        "seconds": 2.4689448999997694,
+        "usage": {
+          "output": {
+            "hidden_needs": [
+              "What specific documents do you need to retrieve?",
+              "How do you plan to validate the delivery of the retrieval service?",
+              "What Python libraries or frameworks do you recommend for this task?",
+              "How do you plan to integrate the retrieval service with the help-center system?"
+            ]
+          },
+          "prompt_tokens": "[REDACTED]",
+          "completion_tokens": "[REDACTED]",
+          "seconds": 2.464820299999701,
+          "usd": 0,
+          "model": "qwen2.5:1.5b",
+          "eval_duration_ns": 348869000
+        },
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.340383
+      },
+      {
+        "node": "risk",
+        "seconds": 0.037190100000771054,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3473785
+      },
+      {
+        "node": "fit",
+        "seconds": 10.612522399999762,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3544378
+      },
+      {
+        "node": "pricing",
+        "seconds": 0.035097200000564044,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3610444
+      },
+      {
+        "node": "writer",
+        "seconds": 54.43620659999942,
+        "usage": {
+          "output": {
+            "plan": "I would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases."
+          },
+          "prompt_tokens": "[REDACTED]",
+          "completion_tokens": "[REDACTED]",
+          "seconds": 54.43121929999961,
+          "usd": 0,
+          "model": "qwen2.5:7b-instruct",
+          "eval_duration_ns": 633659000
+        },
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3680408
+      },
+      {
+        "node": "verifier",
+        "removed": 0,
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3740904
+      },
+      {
+        "node": "critic",
+        "seconds": 1.885377999999946,
+        "usage": {
+          "output": {
+            "issues": [],
+            "suggestions": [
+              "While the proposal does not contain specific past experience with the exact task, it does provide evidence of relevant work. Consider asking for more details on the specific documents and the integration plan to ensure a better fit.",
+              "The proposal mentions validating a small vertical slice before completing the remaining scope, which is a good practice. However, it would be beneficial to have a clearer plan on how this validation will be structured and what criteria will be used."
+            ]
+          },
+          "prompt_tokens": "[REDACTED]",
+          "completion_tokens": "[REDACTED]",
+          "seconds": 1.8792896000004475,
+          "usd": 0,
+          "model": "qwen2.5:7b-instruct",
+          "eval_duration_ns": 1325780000
+        },
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762056.3806033
+      },
+      {
+        "action": "human_approve",
+        "reason": "",
+        "edit_hash": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "created": 1794762076.832623
+      },
+      {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        },
+        "result": {
+          "persona": "ml",
+          "project": "ml-project-00",
+          "skills": [
+            "Python",
+            "RAG",
+            "FastAPI"
+          ],
+          "date": "[PHONE_OR_ACCOUNT]",
+          "industry": "support",
+          "synthetic": true,
+          "provenance": "GigBid seed_data.py; fictional freelancer and client",
+          "outcome": null,
+          "id": "ml-project-00-case_study",
+          "type": "case_study",
+          "title": "Support knowledge assistant",
+          "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+          "source": "synthetic://ml-project-00-case_study",
+          "approved_claims": [
+            "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+          ]
+        },
+        "created": 1794762078.3278573
+      },
+      {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-08-case_study"
+        },
+        "result": {
+          "persona": "ml",
+          "project": "ml-project-08",
+          "skills": [
+            "Python",
+            "RAG",
+            "FastAPI"
+          ],
+          "date": "[PHONE_OR_ACCOUNT]",
+          "industry": "support",
+          "synthetic": true,
+          "provenance": "GigBid seed_data.py; fictional freelancer and client",
+          "outcome": null,
+          "id": "ml-project-08-case_study",
+          "type": "case_study",
+          "title": "Support knowledge assistant",
+          "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+          "source": "synthetic://ml-project-08-case_study",
+          "approved_claims": [
+            "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+          ]
+        },
+        "created": 1794762078.3685544
+      },
+      {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-16-case_study"
+        },
+        "result": {
+          "persona": "ml",
+          "project": "ml-project-16",
+          "skills": [
+            "Python",
+            "RAG",
+            "FastAPI"
+          ],
+          "date": "[PHONE_OR_ACCOUNT]",
+          "industry": "support",
+          "synthetic": true,
+          "provenance": "GigBid seed_data.py; fictional freelancer and client",
+          "outcome": null,
+          "id": "ml-project-16-case_study",
+          "type": "case_study",
+          "title": "Support knowledge assistant",
+          "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+          "source": "synthetic://ml-project-16-case_study",
+          "approved_claims": [
+            "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+          ]
+        },
+        "created": 1794762078.4022334
+      },
+      {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-08-code"
+        },
+        "result": {
+          "persona": "ml",
+          "project": "ml-project-08",
+          "skills": [
+            "Python",
+            "RAG",
+            "FastAPI"
+          ],
+          "date": "[PHONE_OR_ACCOUNT]",
+          "industry": "support",
+          "synthetic": true,
+          "provenance": "GigBid seed_data.py; fictional freelancer and client",
+          "outcome": null,
+          "id": "ml-project-08-code",
+          "type": "code",
+          "title": "Support knowledge assistant",
+          "text": "# Support knowledge assistant\n# Verified synthetic implementation outline: retrieval over help-center documents with citations\n# Dependencies: Python, RAG, FastAPI\ndef validate_input(record):\n    return bool(record)",
+          "source": "synthetic://ml-project-08-code",
+          "approved_claims": [
+            "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+          ]
+        },
+        "created": 1794762078.4323351
+      },
+      {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-16-code"
+        },
+        "result": {
+          "persona": "ml",
+          "project": "ml-project-16",
+          "skills": [
+            "Python",
+            "RAG",
+            "FastAPI"
+          ],
+          "date": "[PHONE_OR_ACCOUNT]",
+          "industry": "support",
+          "synthetic": true,
+          "provenance": "GigBid seed_data.py; fictional freelancer and client",
+          "outcome": null,
+          "id": "ml-project-16-code",
+          "type": "code",
+          "title": "Support knowledge assistant",
+          "text": "# Support knowledge assistant\n# Verified synthetic implementation outline: retrieval over help-center documents with citations\n# Dependencies: Python, RAG, FastAPI\ndef validate_input(record):\n    return bool(record)",
+          "source": "synthetic://ml-project-16-code",
+          "approved_claims": [
+            "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+          ]
+        },
+        "created": 1794762078.4631162
+      },
+      {
+        "tool": "submit_proposal",
+        "arguments": {
+          "payload": {
+            "idempotency_key": "proposal-58a55db22a2a4b6385faed795e1210f2",
+            "job_id": "demo-ml-0001",
+            "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+            "amount": 72.0,
+            "screening_answers": {
+              "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+            },
+            "approval_token": "[REDACTED]",
+            "dry_run": false,
+            "trace_id": "58a55db22a2a4b6385faed795e1210f2"
+          }
+        },
+        "result": {
+          "id": "40029a6a7008497d9fc803eb28a75a93",
+          "action": "submit_proposal",
+          "status": "submitted",
+          "connects_spent": 10,
+          "synthetic": true,
+          "job_id": "demo-ml-0001",
+          "conversation_id": "demo-ml-0001",
+          "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+          "amount": 72.0,
+          "screening_answers": {
+            "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+          },
+          "created": 1794762078.5303593,
+          "local_fixture_reply": true
+        },
+        "created": 1794762078.5388696
+      },
+      {
+        "node": "scout",
+        "seconds": 0.04362979999950767,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6247602
+      },
+      {
+        "node": "analyst",
+        "seconds": 2.4689448999997694,
+        "usage": {
+          "output": {
+            "hidden_needs": [
+              "What specific documents do you need to retrieve?",
+              "How do you plan to validate the delivery of the retrieval service?",
+              "What Python libraries or frameworks do you recommend for this task?",
+              "How do you plan to integrate the retrieval service with the help-center system?"
+            ]
+          },
+          "prompt_tokens": "[REDACTED]",
+          "completion_tokens": "[REDACTED]",
+          "seconds": 2.464820299999701,
+          "usd": 0,
+          "model": "qwen2.5:1.5b",
+          "eval_duration_ns": 348869000
+        },
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6322684
+      },
+      {
+        "node": "risk",
+        "seconds": 0.037190100000771054,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6410136
+      },
+      {
+        "node": "fit",
+        "seconds": 10.612522399999762,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6480138
+      },
+      {
+        "node": "pricing",
+        "seconds": 0.035097200000564044,
+        "usage": {},
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6550539
+      },
+      {
+        "node": "writer",
+        "seconds": 54.43620659999942,
+        "usage": {
+          "output": {
+            "plan": "I would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases."
+          },
+          "prompt_tokens": "[REDACTED]",
+          "completion_tokens": "[REDACTED]",
+          "seconds": 54.43121929999961,
+          "usd": 0,
+          "model": "qwen2.5:7b-instruct",
+          "eval_duration_ns": 633659000
+        },
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6621773
+      },
+      {
+        "node": "verifier",
+        "removed": 0,
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.669228
+      },
+      {
+        "node": "critic",
+        "seconds": 1.885377999999946,
+        "usage": {
+          "output": {
+            "issues": [],
+            "suggestions": [
+              "While the proposal does not contain specific past experience with the exact task, it does provide evidence of relevant work. Consider asking for more details on the specific documents and the integration plan to ensure a better fit.",
+              "The proposal mentions validating a small vertical slice before completing the remaining scope, which is a good practice. However, it would be beneficial to have a clearer plan on how this validation will be structured and what criteria will be used."
+            ]
+          },
+          "prompt_tokens": "[REDACTED]",
+          "completion_tokens": "[REDACTED]",
+          "seconds": 1.8792896000004475,
+          "usd": 0,
+          "model": "qwen2.5:7b-instruct",
+          "eval_duration_ns": 1325780000
+        },
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "created": 1794762078.6762345
+      },
+      {
+        "node": "dispatch",
+        "trace_id": "58a55db22a2a4b6385faed795e1210f2",
+        "result": {
+          "action": "submit_proposal",
+          "dry_run": false,
+          "connects_cost": null,
+          "connects_spent": 10,
+          "payload_hash": null,
+          "payload": null,
+          "id": "40029a6a7008497d9fc803eb28a75a93",
+          "status": "submitted",
+          "synthetic": true,
+          "job_id": "demo-ml-0001",
+          "conversation_id": "demo-ml-0001",
+          "text": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would start by reviewing the help-center documents and defining the retrieval requirements, then implement the retrieval service using Python, RAG, and FastAPI, ensuring to validate the service with test cases.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+          "amount": 72.0,
+          "screening_answers": {
+            "Describe comparable work with evidence.": "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]"
+          },
+          "created": 1794762078.5303593,
+          "local_fixture_reply": true
+        },
+        "created": 1794762078.6843042
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-11-15T16:13:09.578730+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "rows": [
+    {
+      "component": "decomposition",
+      "without": "V0",
+      "with": "V1",
+      "delta_recall_at_5": 0.01995089011663609,
+      "delta_ndcg_at_10": 0.01995256782316157
+    },
+    {
+      "component": "BM25 fusion",
+      "without": "V1",
+      "with": "V2",
+      "delta_recall_at_5": 0.0,
+      "delta_ndcg_at_10": -0.004962668256192959
+    },
+    {
+      "component": "cross encoder",
+      "without": "V2",
+      "with": "V3",
+      "delta_recall_at_5": -0.01411909146715773,
+      "delta_ndcg_at_10": -0.01042976779478244
+    },
+    {
+      "component": "historical outcomes",
+      "without": "V2",
+      "with": "V4",
+      "delta_recall_at_5": 0.0,
+      "delta_ndcg_at_10": 0.0
+    },
+    {
+      "component": "corrective abstention",
+      "without": "V3",
+      "with": "V8",
+      "delta_recall_at_5": 0.0,
+      "delta_ndcg_at_10": 0.0
+    }
+  ],
+  "source": "retrieval.json",
+  "note": "Paired component additions; V0\u2192V1 also changes query aggregation. Not a full factorial ablation."
+}

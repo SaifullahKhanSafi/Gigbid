@@ -1,0 +1,4794 @@
+[
+  {
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-00-case_study",
+    "type": "case_study",
+    "title": "Revenue reporting",
+    "text": "Revenue reporting. Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-00-case_study",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-00-readme",
+    "type": "readme",
+    "title": "Revenue reporting",
+    "text": "# Revenue reporting\nBuilt reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-00-readme",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-00-code",
+    "type": "code",
+    "title": "Revenue reporting",
+    "text": "# Revenue reporting\n# Verified synthetic implementation outline: reconciled sales reports with cohort measures\n# Dependencies: SQL, Power BI, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-00-code",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-00-review",
+    "type": "review",
+    "title": "Revenue reporting",
+    "text": "Fictional client review for Revenue reporting: delivery included documented tests for reconciled sales reports with cohort measures. Skills observed: SQL, Power BI, Excel.",
+    "source": "synthetic://data-project-00-review",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-01-case_study",
+    "type": "case_study",
+    "title": "Analytics transformation",
+    "text": "Analytics transformation. Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-01-case_study",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-01-readme",
+    "type": "readme",
+    "title": "Analytics transformation",
+    "text": "# Analytics transformation\nBuilt tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-01-readme",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-01-code",
+    "type": "code",
+    "title": "Analytics transformation",
+    "text": "# Analytics transformation\n# Verified synthetic implementation outline: tested incremental warehouse models and lineage\n# Dependencies: dbt, Snowflake, SQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-01-code",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-01-review",
+    "type": "review",
+    "title": "Analytics transformation",
+    "text": "Fictional client review for Analytics transformation: delivery included documented tests for tested incremental warehouse models and lineage. Skills observed: dbt, Snowflake, SQL.",
+    "source": "synthetic://data-project-01-review",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-02-case_study",
+    "type": "case_study",
+    "title": "Experiment analysis",
+    "text": "Experiment analysis. Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-02-case_study",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-02-readme",
+    "type": "readme",
+    "title": "Experiment analysis",
+    "text": "# Experiment analysis\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-02-readme",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-02-code",
+    "type": "code",
+    "title": "Experiment analysis",
+    "text": "# Experiment analysis\n# Verified synthetic implementation outline: A/B analysis with confidence intervals and guardrail metrics\n# Dependencies: Python, statistics, pandas\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-02-code",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-02-review",
+    "type": "review",
+    "title": "Experiment analysis",
+    "text": "Fictional client review for Experiment analysis: delivery included documented tests for A/B analysis with confidence intervals and guardrail metrics. Skills observed: Python, statistics, pandas.",
+    "source": "synthetic://data-project-02-review",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-03-case_study",
+    "type": "case_study",
+    "title": "Operations dashboard",
+    "text": "Operations dashboard. Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-03-case_study",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-03-readme",
+    "type": "readme",
+    "title": "Operations dashboard",
+    "text": "# Operations dashboard\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-03-readme",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-03-code",
+    "type": "code",
+    "title": "Operations dashboard",
+    "text": "# Operations dashboard\n# Verified synthetic implementation outline: refreshable logistics KPIs with documented definitions\n# Dependencies: Tableau, SQL, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-03-code",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-03-review",
+    "type": "review",
+    "title": "Operations dashboard",
+    "text": "Fictional client review for Operations dashboard: delivery included documented tests for refreshable logistics KPIs with documented definitions. Skills observed: Tableau, SQL, Excel.",
+    "source": "synthetic://data-project-03-review",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-04-case_study",
+    "type": "case_study",
+    "title": "Data quality checks",
+    "text": "Data quality checks. Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-04-case_study",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-04-readme",
+    "type": "readme",
+    "title": "Data quality checks",
+    "text": "# Data quality checks\nBuilt schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-04-readme",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-04-code",
+    "type": "code",
+    "title": "Data quality checks",
+    "text": "# Data quality checks\n# Verified synthetic implementation outline: schema checks and anomaly reports for daily ingestion\n# Dependencies: Great Expectations, Python, SQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-04-code",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-04-review",
+    "type": "review",
+    "title": "Data quality checks",
+    "text": "Fictional client review for Data quality checks: delivery included documented tests for schema checks and anomaly reports for daily ingestion. Skills observed: Great Expectations, Python, SQL.",
+    "source": "synthetic://data-project-04-review",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-05-case_study",
+    "type": "case_study",
+    "title": "Marketing attribution",
+    "text": "Marketing attribution. Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-05-case_study",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-05-readme",
+    "type": "readme",
+    "title": "Marketing attribution",
+    "text": "# Marketing attribution\nBuilt campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-05-readme",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-05-code",
+    "type": "code",
+    "title": "Marketing attribution",
+    "text": "# Marketing attribution\n# Verified synthetic implementation outline: campaign reporting with auditable attribution assumptions\n# Dependencies: BigQuery, SQL, Looker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-05-code",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-05-review",
+    "type": "review",
+    "title": "Marketing attribution",
+    "text": "Fictional client review for Marketing attribution: delivery included documented tests for campaign reporting with auditable attribution assumptions. Skills observed: BigQuery, SQL, Looker.",
+    "source": "synthetic://data-project-05-review",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-06-case_study",
+    "type": "case_study",
+    "title": "Survey analysis",
+    "text": "Survey analysis. Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-06-case_study",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-06-readme",
+    "type": "readme",
+    "title": "Survey analysis",
+    "text": "# Survey analysis\nBuilt weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-06-readme",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-06-code",
+    "type": "code",
+    "title": "Survey analysis",
+    "text": "# Survey analysis\n# Verified synthetic implementation outline: weighted survey summaries with reproducible charts\n# Dependencies: R, statistics, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-06-code",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-06-review",
+    "type": "review",
+    "title": "Survey analysis",
+    "text": "Fictional client review for Survey analysis: delivery included documented tests for weighted survey summaries with reproducible charts. Skills observed: R, statistics, Excel.",
+    "source": "synthetic://data-project-06-review",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-07-case_study",
+    "type": "case_study",
+    "title": "Data ingestion",
+    "text": "Data ingestion. Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-07-case_study",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-07-readme",
+    "type": "readme",
+    "title": "Data ingestion",
+    "text": "# Data ingestion\nBuilt scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-07-readme",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-07-code",
+    "type": "code",
+    "title": "Data ingestion",
+    "text": "# Data ingestion\n# Verified synthetic implementation outline: scheduled ingestion with retry and freshness checks\n# Dependencies: Airflow, Python, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-07-code",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-07-review",
+    "type": "review",
+    "title": "Data ingestion",
+    "text": "Fictional client review for Data ingestion: delivery included documented tests for scheduled ingestion with retry and freshness checks. Skills observed: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data-project-07-review",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-08-case_study",
+    "type": "case_study",
+    "title": "Revenue reporting",
+    "text": "Revenue reporting. Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-08-case_study",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-08-readme",
+    "type": "readme",
+    "title": "Revenue reporting",
+    "text": "# Revenue reporting\nBuilt reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-08-readme",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-08-code",
+    "type": "code",
+    "title": "Revenue reporting",
+    "text": "# Revenue reporting\n# Verified synthetic implementation outline: reconciled sales reports with cohort measures\n# Dependencies: SQL, Power BI, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-08-code",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-08-review",
+    "type": "review",
+    "title": "Revenue reporting",
+    "text": "Fictional client review for Revenue reporting: delivery included documented tests for reconciled sales reports with cohort measures. Skills observed: SQL, Power BI, Excel.",
+    "source": "synthetic://data-project-08-review",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-09-case_study",
+    "type": "case_study",
+    "title": "Analytics transformation",
+    "text": "Analytics transformation. Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-09-case_study",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-09-readme",
+    "type": "readme",
+    "title": "Analytics transformation",
+    "text": "# Analytics transformation\nBuilt tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-09-readme",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-09-code",
+    "type": "code",
+    "title": "Analytics transformation",
+    "text": "# Analytics transformation\n# Verified synthetic implementation outline: tested incremental warehouse models and lineage\n# Dependencies: dbt, Snowflake, SQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-09-code",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-09-review",
+    "type": "review",
+    "title": "Analytics transformation",
+    "text": "Fictional client review for Analytics transformation: delivery included documented tests for tested incremental warehouse models and lineage. Skills observed: dbt, Snowflake, SQL.",
+    "source": "synthetic://data-project-09-review",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-10-case_study",
+    "type": "case_study",
+    "title": "Experiment analysis",
+    "text": "Experiment analysis. Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-10-case_study",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-10-readme",
+    "type": "readme",
+    "title": "Experiment analysis",
+    "text": "# Experiment analysis\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-10-readme",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-10-code",
+    "type": "code",
+    "title": "Experiment analysis",
+    "text": "# Experiment analysis\n# Verified synthetic implementation outline: A/B analysis with confidence intervals and guardrail metrics\n# Dependencies: Python, statistics, pandas\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-10-code",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-10-review",
+    "type": "review",
+    "title": "Experiment analysis",
+    "text": "Fictional client review for Experiment analysis: delivery included documented tests for A/B analysis with confidence intervals and guardrail metrics. Skills observed: Python, statistics, pandas.",
+    "source": "synthetic://data-project-10-review",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-11-case_study",
+    "type": "case_study",
+    "title": "Operations dashboard",
+    "text": "Operations dashboard. Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-11-case_study",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-11-readme",
+    "type": "readme",
+    "title": "Operations dashboard",
+    "text": "# Operations dashboard\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-11-readme",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-11-code",
+    "type": "code",
+    "title": "Operations dashboard",
+    "text": "# Operations dashboard\n# Verified synthetic implementation outline: refreshable logistics KPIs with documented definitions\n# Dependencies: Tableau, SQL, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-11-code",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-11-review",
+    "type": "review",
+    "title": "Operations dashboard",
+    "text": "Fictional client review for Operations dashboard: delivery included documented tests for refreshable logistics KPIs with documented definitions. Skills observed: Tableau, SQL, Excel.",
+    "source": "synthetic://data-project-11-review",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-12-case_study",
+    "type": "case_study",
+    "title": "Data quality checks",
+    "text": "Data quality checks. Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-12-case_study",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-12-readme",
+    "type": "readme",
+    "title": "Data quality checks",
+    "text": "# Data quality checks\nBuilt schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-12-readme",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-12-code",
+    "type": "code",
+    "title": "Data quality checks",
+    "text": "# Data quality checks\n# Verified synthetic implementation outline: schema checks and anomaly reports for daily ingestion\n# Dependencies: Great Expectations, Python, SQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-12-code",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-12-review",
+    "type": "review",
+    "title": "Data quality checks",
+    "text": "Fictional client review for Data quality checks: delivery included documented tests for schema checks and anomaly reports for daily ingestion. Skills observed: Great Expectations, Python, SQL.",
+    "source": "synthetic://data-project-12-review",
+    "approved_claims": [
+      "Built schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-13-case_study",
+    "type": "case_study",
+    "title": "Marketing attribution",
+    "text": "Marketing attribution. Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-13-case_study",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-13-readme",
+    "type": "readme",
+    "title": "Marketing attribution",
+    "text": "# Marketing attribution\nBuilt campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-13-readme",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-13-code",
+    "type": "code",
+    "title": "Marketing attribution",
+    "text": "# Marketing attribution\n# Verified synthetic implementation outline: campaign reporting with auditable attribution assumptions\n# Dependencies: BigQuery, SQL, Looker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-13-code",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-13-review",
+    "type": "review",
+    "title": "Marketing attribution",
+    "text": "Fictional client review for Marketing attribution: delivery included documented tests for campaign reporting with auditable attribution assumptions. Skills observed: BigQuery, SQL, Looker.",
+    "source": "synthetic://data-project-13-review",
+    "approved_claims": [
+      "Built campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-14-case_study",
+    "type": "case_study",
+    "title": "Survey analysis",
+    "text": "Survey analysis. Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-14-case_study",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-14-readme",
+    "type": "readme",
+    "title": "Survey analysis",
+    "text": "# Survey analysis\nBuilt weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-14-readme",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-14-code",
+    "type": "code",
+    "title": "Survey analysis",
+    "text": "# Survey analysis\n# Verified synthetic implementation outline: weighted survey summaries with reproducible charts\n# Dependencies: R, statistics, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-14-code",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-14-review",
+    "type": "review",
+    "title": "Survey analysis",
+    "text": "Fictional client review for Survey analysis: delivery included documented tests for weighted survey summaries with reproducible charts. Skills observed: R, statistics, Excel.",
+    "source": "synthetic://data-project-14-review",
+    "approved_claims": [
+      "Built weighted survey summaries with reproducible charts using R, statistics, Excel for a fictional education client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-15-case_study",
+    "type": "case_study",
+    "title": "Data ingestion",
+    "text": "Data ingestion. Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-15-case_study",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-15-readme",
+    "type": "readme",
+    "title": "Data ingestion",
+    "text": "# Data ingestion\nBuilt scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-15-readme",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-15-code",
+    "type": "code",
+    "title": "Data ingestion",
+    "text": "# Data ingestion\n# Verified synthetic implementation outline: scheduled ingestion with retry and freshness checks\n# Dependencies: Airflow, Python, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-15-code",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-15-review",
+    "type": "review",
+    "title": "Data ingestion",
+    "text": "Fictional client review for Data ingestion: delivery included documented tests for scheduled ingestion with retry and freshness checks. Skills observed: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data-project-15-review",
+    "approved_claims": [
+      "Built scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-16-case_study",
+    "type": "case_study",
+    "title": "Revenue reporting",
+    "text": "Revenue reporting. Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-16-case_study",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-16-readme",
+    "type": "readme",
+    "title": "Revenue reporting",
+    "text": "# Revenue reporting\nBuilt reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-16-readme",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-16-code",
+    "type": "code",
+    "title": "Revenue reporting",
+    "text": "# Revenue reporting\n# Verified synthetic implementation outline: reconciled sales reports with cohort measures\n# Dependencies: SQL, Power BI, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-16-code",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-16-review",
+    "type": "review",
+    "title": "Revenue reporting",
+    "text": "Fictional client review for Revenue reporting: delivery included documented tests for reconciled sales reports with cohort measures. Skills observed: SQL, Power BI, Excel.",
+    "source": "synthetic://data-project-16-review",
+    "approved_claims": [
+      "Built reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-17-case_study",
+    "type": "case_study",
+    "title": "Analytics transformation",
+    "text": "Analytics transformation. Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-17-case_study",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-17-readme",
+    "type": "readme",
+    "title": "Analytics transformation",
+    "text": "# Analytics transformation\nBuilt tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-17-readme",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-17-code",
+    "type": "code",
+    "title": "Analytics transformation",
+    "text": "# Analytics transformation\n# Verified synthetic implementation outline: tested incremental warehouse models and lineage\n# Dependencies: dbt, Snowflake, SQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-17-code",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-17-review",
+    "type": "review",
+    "title": "Analytics transformation",
+    "text": "Fictional client review for Analytics transformation: delivery included documented tests for tested incremental warehouse models and lineage. Skills observed: dbt, Snowflake, SQL.",
+    "source": "synthetic://data-project-17-review",
+    "approved_claims": [
+      "Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-18-case_study",
+    "type": "case_study",
+    "title": "Experiment analysis",
+    "text": "Experiment analysis. Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-18-case_study",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-18-readme",
+    "type": "readme",
+    "title": "Experiment analysis",
+    "text": "# Experiment analysis\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-18-readme",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-18-code",
+    "type": "code",
+    "title": "Experiment analysis",
+    "text": "# Experiment analysis\n# Verified synthetic implementation outline: A/B analysis with confidence intervals and guardrail metrics\n# Dependencies: Python, statistics, pandas\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-18-code",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-18-review",
+    "type": "review",
+    "title": "Experiment analysis",
+    "text": "Fictional client review for Experiment analysis: delivery included documented tests for A/B analysis with confidence intervals and guardrail metrics. Skills observed: Python, statistics, pandas.",
+    "source": "synthetic://data-project-18-review",
+    "approved_claims": [
+      "Built A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-19-case_study",
+    "type": "case_study",
+    "title": "Operations dashboard",
+    "text": "Operations dashboard. Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://data-project-19-case_study",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-19-readme",
+    "type": "readme",
+    "title": "Operations dashboard",
+    "text": "# Operations dashboard\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://data-project-19-readme",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-19-code",
+    "type": "code",
+    "title": "Operations dashboard",
+    "text": "# Operations dashboard\n# Verified synthetic implementation outline: refreshable logistics KPIs with documented definitions\n# Dependencies: Tableau, SQL, Excel\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://data-project-19-code",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "data-project-19-review",
+    "type": "review",
+    "title": "Operations dashboard",
+    "text": "Fictional client review for Operations dashboard: delivery included documented tests for refreshable logistics KPIs with documented definitions. Skills observed: Tableau, SQL, Excel.",
+    "source": "synthetic://data-project-19-review",
+    "approved_claims": [
+      "Built refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client."
+    ]
+  },
+  {
+    "id": "data-proposal-000",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-01",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/0",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-001",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-02",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/1",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-002",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-03",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/2",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-003",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-04",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/3",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-004",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-05",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/4",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-005",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-06",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/5",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-006",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-07",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/6",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-007",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-08",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/7",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-008",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-09",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/8",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-009",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-10",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/9",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-010",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-11",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/10",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-011",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-12",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/11",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-012",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-13",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/12",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-013",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-14",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/13",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-014",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/14",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-015",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-16",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/15",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-016",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-17",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/16",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-017",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-18",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/17",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-018",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-19",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/18",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-019",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-20",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/19",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-020",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-21",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/20",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-021",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-22",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/21",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-022",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-23",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/22",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-023",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-24",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/23",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-024",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-25",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/24",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-025",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-26",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/25",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-026",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-27",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/26",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-027",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-01",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/27",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-028",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-02",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/28",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-029",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-03",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/29",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-030",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-04",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/30",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-031",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-05",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/31",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-032",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-09-06",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/32",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-033",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-10-07",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/33",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-034",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-11-08",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/34",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-035",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-12-09",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/35",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-036",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-10",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/36",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-037",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-11",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/37",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-038",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-12",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/38",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-039",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-13",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/39",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-040",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-14",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/40",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-041",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/41",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-042",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-16",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/42",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-043",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-17",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/43",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-044",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-09-18",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/44",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-045",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-10-19",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/45",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-046",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-11-20",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/46",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-047",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-12-21",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/47",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-048",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-22",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/48",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-049",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-23",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/49",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-050",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-24",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/50",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-051",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-25",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/51",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-052",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-26",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/52",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-053",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-27",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/53",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-054",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-01",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/54",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-055",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-02",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/55",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-056",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-03",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/56",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-057",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-04",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/57",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-058",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-05",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/58",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-059",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-06",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/59",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-060",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-07",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/60",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-061",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-08",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/61",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-062",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-09",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/62",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-063",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-10",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/63",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-064",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-11",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/64",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-065",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-12",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/65",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-066",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-13",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/66",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-067",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-14",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/67",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-068",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/68",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-069",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-16",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/69",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-070",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-17",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/70",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-071",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-18",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/71",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-072",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-19",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/72",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-073",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-20",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/73",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-074",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-21",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/74",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-075",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-22",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/75",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-076",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-23",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/76",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-077",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-24",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/77",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-078",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-25",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/78",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-079",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-26",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/79",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-080",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-27",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/80",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-081",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-01",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/81",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-082",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-02",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/82",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-083",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-03",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/83",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-084",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-04",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/84",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-085",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-05",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/85",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-086",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-06",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/86",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-087",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-07",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/87",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-088",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-08",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/88",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-089",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-09",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/89",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-090",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-10",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/90",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-091",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-11",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/91",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-092",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-09-12",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/92",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-093",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-10-13",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/93",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-094",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-11-14",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/94",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-095",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-12-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/95",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-096",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-16",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/96",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-097",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-17",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/97",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-098",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-18",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/98",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-099",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-19",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/99",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-100",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-20",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/100",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-101",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-21",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/101",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-102",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-22",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/102",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-103",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-23",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/103",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-104",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-09-24",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/104",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-105",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-10-25",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/105",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-106",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-11-26",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/106",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-107",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-12-27",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/107",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-108",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-01",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/108",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-109",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-02",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/109",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-110",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-03",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/110",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-111",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-04",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/111",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-112",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-05",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/112",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-113",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-06",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/113",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-114",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-07",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/114",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-115",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-08",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/115",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-116",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-09",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/116",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-117",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-10",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/117",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-118",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-11",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/118",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-119",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-12",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/119",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-120",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-01-13",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/120",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-121",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-02-14",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/121",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-122",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/122",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-123",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-04-16",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/123",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-124",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-05-17",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/124",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-125",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-06-18",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/125",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-126",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-07-19",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/126",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-127",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-08-20",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/127",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-128",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-21",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/128",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-129",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-22",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/129",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-130",
+    "persona": "data",
+    "project": "data-project-10",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-23",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/130",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-131",
+    "persona": "data",
+    "project": "data-project-11",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-24",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/131",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-132",
+    "persona": "data",
+    "project": "data-project-12",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-25",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/132",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-133",
+    "persona": "data",
+    "project": "data-project-13",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-26",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/133",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-134",
+    "persona": "data",
+    "project": "data-project-14",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-27",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/134",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-135",
+    "persona": "data",
+    "project": "data-project-15",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-01",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/135",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-136",
+    "persona": "data",
+    "project": "data-project-16",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-02",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/136",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-137",
+    "persona": "data",
+    "project": "data-project-17",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-03",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/137",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-138",
+    "persona": "data",
+    "project": "data-project-18",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-07-04",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/138",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-139",
+    "persona": "data",
+    "project": "data-project-19",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-08-05",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/139",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-140",
+    "persona": "data",
+    "project": "data-project-00",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-09-06",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/140",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-141",
+    "persona": "data",
+    "project": "data-project-01",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-10-07",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/141",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-142",
+    "persona": "data",
+    "project": "data-project-02",
+    "skills": [
+      "Python",
+      "statistics",
+      "pandas"
+    ],
+    "date": "2025-11-08",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Experiment analysis",
+    "text": "I can plan A/B analysis with confidence intervals and guardrail metrics. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, statistics, pandas.",
+    "source": "synthetic://data/proposal/142",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-143",
+    "persona": "data",
+    "project": "data-project-03",
+    "skills": [
+      "Tableau",
+      "SQL",
+      "Excel"
+    ],
+    "date": "2025-12-09",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Operations dashboard",
+    "text": "I can plan refreshable logistics KPIs with documented definitions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Tableau, SQL, Excel.",
+    "source": "synthetic://data/proposal/143",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-144",
+    "persona": "data",
+    "project": "data-project-04",
+    "skills": [
+      "Great Expectations",
+      "Python",
+      "SQL"
+    ],
+    "date": "2025-01-10",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data quality checks",
+    "text": "I can plan schema checks and anomaly reports for daily ingestion. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Great Expectations, Python, SQL.",
+    "source": "synthetic://data/proposal/144",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-145",
+    "persona": "data",
+    "project": "data-project-05",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "Looker"
+    ],
+    "date": "2025-02-11",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Marketing attribution",
+    "text": "I can plan campaign reporting with auditable attribution assumptions. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: BigQuery, SQL, Looker.",
+    "source": "synthetic://data/proposal/145",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-146",
+    "persona": "data",
+    "project": "data-project-06",
+    "skills": [
+      "R",
+      "statistics",
+      "Excel"
+    ],
+    "date": "2025-03-12",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Survey analysis",
+    "text": "I can plan weighted survey summaries with reproducible charts. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: R, statistics, Excel.",
+    "source": "synthetic://data/proposal/146",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-147",
+    "persona": "data",
+    "project": "data-project-07",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL"
+    ],
+    "date": "2025-04-13",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Data ingestion",
+    "text": "I can plan scheduled ingestion with retry and freshness checks. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Airflow, Python, PostgreSQL.",
+    "source": "synthetic://data/proposal/147",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-148",
+    "persona": "data",
+    "project": "data-project-08",
+    "skills": [
+      "SQL",
+      "Power BI",
+      "Excel"
+    ],
+    "date": "2025-05-14",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Revenue reporting",
+    "text": "I can plan reconciled sales reports with cohort measures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: SQL, Power BI, Excel.",
+    "source": "synthetic://data/proposal/148",
+    "approved_claims": []
+  },
+  {
+    "id": "data-proposal-149",
+    "persona": "data",
+    "project": "data-project-09",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "SQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Analytics transformation",
+    "text": "I can plan tested incremental warehouse models and lineage. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: dbt, Snowflake, SQL.",
+    "source": "synthetic://data/proposal/149",
+    "approved_claims": []
+  },
+  {
+    "id": "data-cv",
+    "persona": "data",
+    "project": "data-profile",
+    "skills": [
+      "Airflow",
+      "BigQuery",
+      "Excel",
+      "Great Expectations",
+      "Looker",
+      "PostgreSQL",
+      "Power BI",
+      "Python",
+      "R",
+      "SQL",
+      "Snowflake",
+      "Tableau",
+      "dbt",
+      "pandas",
+      "statistics"
+    ],
+    "date": "2026-01-01",
+    "industry": "general",
+    "synthetic": true,
+    "provenance": "Fictional CV",
+    "outcome": null,
+    "type": "cv",
+    "title": "DATA synthetic CV",
+    "text": "Fictional data freelancer. Refer to individual case studies for specific work. No real person is represented.",
+    "source": "synthetic://data/cv",
+    "approved_claims": []
+  }
+]

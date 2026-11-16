@@ -1,0 +1,5 @@
+src/lib/api/schema.d.ts
+dist
+node_modules
+playwright-report
+test-results

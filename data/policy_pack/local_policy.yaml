@@ -1,0 +1,16 @@
+version: local-demonstration-1
+provenance: synthetic replacement; official November 2 update not supplied
+max_proposal_words: 300
+max_connects_per_bid: 24
+connects_surcharge: 0
+forbidden_patterns:
+  - '(?i)\b(?:whatsapp|telegram|wire transfer|pay outside|off.platform payment)\b'
+  - '(?i)\b(?:guarantee(?:d)? results|100% success|unpaid production)\b'
+  - '[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}'
+injection_patterns:
+  - '(?i)ignore (?:all |previous |the )*instructions'
+  - '(?i)(?:system prompt|developer message|reveal.{0,20}(?:secret|token)|bypass.{0,20}approval)'
+  - '(?i)(?:submit|send).{0,30}without.{0,15}approval'
+  - '(?i)<\/?(?:system|assistant|developer)>'
+scam_patterns:
+  - '(?i)(?:telegram|whatsapp|wire transfer|crypto deposit|pay.{0,20}registration|unpaid (?:test|trial)|free production)'

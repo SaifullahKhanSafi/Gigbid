@@ -1,0 +1,227 @@
+{
+  "run": {
+    "id": "1e58629e42f84681a3e0b5902f35d51d",
+    "kind": "conversation",
+    "status": "sent",
+    "job_id": null,
+    "conversation_id": "demo-ml-0001",
+    "state": {
+      "tenant": "60351683d31447e5b8afcbb886072f06",
+      "conversation_id": "demo-ml-0001",
+      "trace_id": "1e58629e42f84681a3e0b5902f35d51d",
+      "messages": [
+        {
+          "id": "65e2420e3ff140e5bcafde86ead5cd8d",
+          "conversation_id": "demo-ml-0001",
+          "sender": "client",
+          "text": "Thank you. Could you explain your validation plan and suggest an interview time?",
+          "created": 1794762078.5303593,
+          "synthetic": true
+        }
+      ],
+      "intent": "interview",
+      "draft": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+      "slots": [
+        {
+          "start": "2026-11-16T10:00:00+00:00",
+          "minutes": 30,
+          "tentative": true
+        },
+        {
+          "start": "2026-11-17T10:00:00+00:00",
+          "minutes": 30,
+          "tentative": true
+        },
+        {
+          "start": "2026-11-18T10:00:00+00:00",
+          "minutes": 30,
+          "tentative": true
+        }
+      ],
+      "preview": {
+        "action": "send_message",
+        "dry_run": true,
+        "connects_cost": 0,
+        "connects_spent": 0,
+        "payload_hash": "e2da324c42e67f1dbf12b50c88ce502ed0a9ff6d65c56c65e6df3d2efdbc80aa",
+        "payload": {
+          "idempotency_key": "message-1e58629e42f84681a3e0b5902f35d51d",
+          "conversation_id": "demo-ml-0001",
+          "text": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+          "action": "send_message"
+        },
+        "id": null,
+        "status": null,
+        "destination": "local_synthetic_simulator",
+        "requires_platform_confirmation": false
+      },
+      "approval": {
+        "action": "approve",
+        "text": null,
+        "reason": ""
+      },
+      "outcome": {
+        "action": "send_message",
+        "dry_run": false,
+        "connects_cost": null,
+        "connects_spent": 0,
+        "payload_hash": null,
+        "payload": null,
+        "id": "40bbf11ce82b441b89fd3b8a18dae2f6",
+        "status": "sent",
+        "synthetic": true,
+        "job_id": null,
+        "conversation_id": "demo-ml-0001",
+        "text": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+        "amount": null,
+        "screening_answers": {},
+        "created": 1794762131.8040006,
+        "sender": "freelancer"
+      },
+      "status": "sent",
+      "events": [
+        {
+          "node": "liaison",
+          "trace_id": "1e58629e42f84681a3e0b5902f35d51d"
+        },
+        {
+          "node": "send_message",
+          "trace_id": "1e58629e42f84681a3e0b5902f35d51d"
+        }
+      ],
+      "execution_seconds": 0.09194319999915024
+    },
+    "error": null,
+    "created": 1794762108.8450592,
+    "updated": 1794762131.850619
+  },
+  "audit": {
+    "trace_id": "1e58629e42f84681a3e0b5902f35d51d",
+    "events": [
+      {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "demo-ml-0001"
+        },
+        "result": {
+          "messages": [
+            {
+              "id": "65e2420e3ff140e5bcafde86ead5cd8d",
+              "conversation_id": "demo-ml-0001",
+              "sender": "client",
+              "text": "Thank you. Could you explain your validation plan and suggest an interview time?",
+              "created": 1794762078.5303593,
+              "synthetic": true
+            }
+          ]
+        },
+        "created": 1794762109.6765947
+      },
+      {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        },
+        "result": {
+          "slots": [
+            {
+              "start": "2026-11-16T10:00:00+00:00",
+              "minutes": 30,
+              "tentative": true
+            },
+            {
+              "start": "2026-11-17T10:00:00+00:00",
+              "minutes": 30,
+              "tentative": true
+            },
+            {
+              "start": "2026-11-18T10:00:00+00:00",
+              "minutes": 30,
+              "tentative": true
+            }
+          ],
+          "synthetic": true,
+          "timezone": "UTC"
+        },
+        "created": 1794762109.7006888
+      },
+      {
+        "tool": "send_message",
+        "arguments": {
+          "payload": {
+            "idempotency_key": "message-1e58629e42f84681a3e0b5902f35d51d",
+            "conversation_id": "demo-ml-0001",
+            "text": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+            "approval_token": "[REDACTED]",
+            "dry_run": true,
+            "trace_id": "1e58629e42f84681a3e0b5902f35d51d"
+          }
+        },
+        "result": {
+          "action": "send_message",
+          "payload": {
+            "idempotency_key": "message-1e58629e42f84681a3e0b5902f35d51d",
+            "conversation_id": "demo-ml-0001",
+            "text": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+            "action": "send_message"
+          },
+          "connects_cost": 0,
+          "payload_hash": "e2da324c42e67f1dbf12b50c88ce502ed0a9ff6d65c56c65e6df3d2efdbc80aa",
+          "destination": "local_synthetic_simulator",
+          "requires_platform_confirmation": false,
+          "dry_run": true
+        },
+        "created": 1794762109.7475681
+      },
+      {
+        "node": "liaison",
+        "trace_id": "1e58629e42f84681a3e0b5902f35d51d",
+        "created": 1794762109.8105855
+      },
+      {
+        "action": "human_approve",
+        "reason": "",
+        "edit_hash": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+        "created": 1794762130.298417
+      },
+      {
+        "tool": "send_message",
+        "arguments": {
+          "payload": {
+            "idempotency_key": "message-1e58629e42f84681a3e0b5902f35d51d",
+            "conversation_id": "demo-ml-0001",
+            "text": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+            "approval_token": "[REDACTED]",
+            "dry_run": false,
+            "trace_id": "1e58629e42f84681a3e0b5902f35d51d"
+          }
+        },
+        "result": {
+          "id": "40bbf11ce82b441b89fd3b8a18dae2f6",
+          "action": "send_message",
+          "status": "sent",
+          "connects_spent": 0,
+          "synthetic": true,
+          "job_id": null,
+          "conversation_id": "demo-ml-0001",
+          "text": "I would validate a small slice against agreed acceptance criteria first. Could you share the sample inputs?\nAvailability: 2026-11-16T10:00:00+00:00, 2026-11-17T10:00:00+00:00, 2026-11-18T10:00:00+00:00 (UTC, tentative local mock).",
+          "amount": null,
+          "screening_answers": {},
+          "created": 1794762131.8040006,
+          "sender": "freelancer"
+        },
+        "created": 1794762131.8120205
+      },
+      {
+        "node": "liaison",
+        "trace_id": "1e58629e42f84681a3e0b5902f35d51d",
+        "created": 1794762131.8676684
+      },
+      {
+        "node": "send_message",
+        "trace_id": "1e58629e42f84681a3e0b5902f35d51d",
+        "created": 1794762131.8737602
+      }
+    ]
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "generated_at": "2026-11-15T16:13:22.720643+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "extension": "X1 agency routing",
+  "rows": [
+    {
+      "job_id": "dev-ml-0000",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 0.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0001",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.6666666666666666
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0002",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0003",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.6666666666666666
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0004",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0005",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0006",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0007",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0008",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0009",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0010",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0011",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 0.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0012",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0013",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0014",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.6666666666666666
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0015",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0016",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0017",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0018",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.0,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-ml-0019",
+      "scores": {
+        "ml": 1.0,
+        "web": 0.3333333333333333,
+        "data": 0.3333333333333333
+      },
+      "chosen": "ml",
+      "coverage": 1.0,
+      "ml_only_coverage": 1.0,
+      "gold_persona_for_evaluation_only": "ml"
+    },
+    {
+      "job_id": "dev-web-0000",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 0.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0001",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0002",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0003",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 1.0,
+        "data": 0.3333333333333333
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0004",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0005",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0006",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0007",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0008",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0009",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0010",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0011",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 0.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0012",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0013",
+      "scores": {
+        "ml": 0.0,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0014",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0015",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 1.0,
+        "data": 0.3333333333333333
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0016",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0017",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 1.0,
+        "data": 0.3333333333333333
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0018",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-web-0019",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 1.0,
+        "data": 0.0
+      },
+      "chosen": "web",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "web"
+    },
+    {
+      "job_id": "dev-data-0000",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 0.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0001",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0002",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0003",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0004",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0005",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0006",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0007",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0008",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 0.3333333333333333,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0009",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 0.3333333333333333,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0010",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0011",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 0.0
+      },
+      "chosen": "ml",
+      "coverage": 0.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0012",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0013",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0014",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0015",
+      "scores": {
+        "ml": 0.0,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.0,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0016",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0017",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0018",
+      "scores": {
+        "ml": 0.6666666666666666,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.6666666666666666,
+      "gold_persona_for_evaluation_only": "data"
+    },
+    {
+      "job_id": "dev-data-0019",
+      "scores": {
+        "ml": 0.3333333333333333,
+        "web": 0.0,
+        "data": 1.0
+      },
+      "chosen": "data",
+      "coverage": 1.0,
+      "ml_only_coverage": 0.3333333333333333,
+      "gold_persona_for_evaluation_only": "data"
+    }
+  ],
+  "mean_agency_coverage": 0.9,
+  "mean_ml_only_coverage": 0.4666666666666667,
+  "note": "Routes by evidence coverage. persona_hint and gold labels are not inputs to routing. Ties favor ML; unsupported jobs still need a skip decision."
+}

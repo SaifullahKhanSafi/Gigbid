@@ -1,0 +1,14 @@
+name: synthetic-eval-gate
+on: [pull_request]
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install .
+      - run: python -m scripts.seed_data && python -m evals.runners.smoke
+      - uses: actions/upload-artifact@v4
+        with: {name: synthetic-smoke-results, path: evals/results/smoke_decisions.json}

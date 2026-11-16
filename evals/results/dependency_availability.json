@@ -1,0 +1,62 @@
+[
+  {
+    "package": "fastapi",
+    "installed": "0.163.1",
+    "status": 200,
+    "requires_python": ">=3.11"
+  },
+  {
+    "package": "langgraph",
+    "installed": "1.2.11",
+    "status": 200,
+    "requires_python": ">=3.10"
+  },
+  {
+    "package": "mcp",
+    "installed": "1.30.0",
+    "status": 200,
+    "requires_python": ">=3.10"
+  },
+  {
+    "package": "numpy",
+    "installed": "2.5.3",
+    "status": 200,
+    "requires_python": ">=3.12"
+  },
+  {
+    "package": "pandas",
+    "installed": "3.0.6",
+    "status": 200,
+    "requires_python": ">=3.11"
+  },
+  {
+    "package": "scikit-learn",
+    "installed": "1.9.0",
+    "status": 200,
+    "requires_python": ">=3.11"
+  },
+  {
+    "package": "sentence-transformers",
+    "installed": "6.0.0",
+    "status": 200,
+    "requires_python": ">=3.10"
+  },
+  {
+    "package": "transformers",
+    "installed": "5.15.1",
+    "status": 200,
+    "requires_python": ">=3.10.0"
+  },
+  {
+    "package": "qdrant-client",
+    "installed": "1.20.0",
+    "status": 200,
+    "requires_python": ">=3.10"
+  },
+  {
+    "package": "uvicorn",
+    "installed": "0.54.0",
+    "status": 200,
+    "requires_python": ">=3.10"
+  }
+]

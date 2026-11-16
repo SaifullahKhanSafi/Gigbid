@@ -1,0 +1,13 @@
+.git
+.env
+.venv
+runtime
+models
+data/raw
+data/processed
+apps/web/node_modules
+apps/web/test-results
+apps/web/playwright-report
+__pycache__
+.pytest_cache
+output

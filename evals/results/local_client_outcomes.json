@@ -1,0 +1,1620 @@
+{
+  "generated_at": "2026-11-16T14:12:54.597357+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "status": "complete",
+  "official_gigsim": false,
+  "simulator": "GigBid independent LLM clients v1",
+  "summary": {
+    "generic": {
+      "n": 30,
+      "reply_or_later_rate": 0.4666666666666667,
+      "hire_rate": 0.43333333333333335,
+      "error_rate": 0.06666666666666667,
+      "p95_client_seconds": 5.001842484999861
+    },
+    "evidence_grounded": {
+      "n": 30,
+      "reply_or_later_rate": 0.7666666666666667,
+      "hire_rate": 0.4,
+      "error_rate": 0.0,
+      "p95_client_seconds": 4.895874405000268
+    }
+  },
+  "rows": [
+    {
+      "job_id": "dev-ml-0001",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 67.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant work experience and specific evidence of building rolling forecasts with backtesting and seasonal features using Python, time series, and pandas in a retail industry context. The hourly rate is within the acceptable range, and the evidence provided is clear and specific.",
+      "message": "Based on the provided evidence and the clear scope of the work, I am interested in discussing this project further. Could we schedule a call to go over the details?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 55.74024350000036,
+      "prompt_tokens": 1546,
+      "completion_tokens": 103,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "pandas",
+          "time series"
+        ],
+        "hourly_ceiling": 73.43,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0001",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Demand forecaster.\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. [ml-project-02-code]\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. [ml-project-10-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 67.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and specific evidence of past projects. The hourly rate is within the acceptable range, and the plan for validating the work is clear. However, the client prefers to have more specific and clear scope questions addressed before moving forward.",
+      "message": "Your proposal is strong and shows relevant experience. To better align with our needs, could you provide more details on how you would approach the validation of the rolling forecasts, particularly in terms of backtesting and seasonal features? Additionally, could you share any specific tools or libraries you would use for this task?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.442004999999881,
+      "prompt_tokens": 1650,
+      "completion_tokens": 129,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "pandas",
+          "time series"
+        ],
+        "hourly_ceiling": 73.43,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0001",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 52.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant skills and specific evidence of past work that matches the requirements. The freelancer's hourly rate is within the acceptable range and the evidence provided is credible and specific to the task.",
+      "message": "Based on the evidence and the skills mentioned, I am interested in discussing the scope of the project in more detail. Could you provide more information on the expected features and functionalities of the real-time board?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 1.9973647999995592,
+      "prompt_tokens": 1555,
+      "completion_tokens": 95,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "React",
+          "Redis"
+        ],
+        "hourly_ceiling": 59.94,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0001",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Realtime board.\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-05-code]\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-13-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 52.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience and specific evidence of past projects that match the required skills. The hourly rate is within the acceptable range, and the proposal addresses the screening questions effectively by requesting sample inputs and acceptance criteria, which is a clear sign of a thorough approach to the project. The evidence provided is consistent and relevant to the project requirements, and the freelancer's private preferences are respected by focusing on the scope questions first.",
+      "message": "Based on the provided evidence and the clear scope questions, I am interested in discussing this project further. Could you please share the sample inputs and acceptance criteria so we can proceed with the validation process?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.1163391999998566,
+      "prompt_tokens": 1657,
+      "completion_tokens": 146,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "React",
+          "Redis"
+        ],
+        "hourly_ceiling": 59.94,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0001",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 45.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant experience and specific evidence of past work in the required skills. The hourly rate is within the acceptable range, and the proposal addresses the screening question by providing a clear scope of past work. There are no fabricated claims or off-platform asks.",
+      "message": "Based on the provided evidence and the clear scope of past work, I am interested in discussing this opportunity further. Could we schedule a call to go over the details?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.2016394000002038,
+      "prompt_tokens": 1589,
+      "completion_tokens": 101,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Great Expectations",
+          "Python",
+          "SQL"
+        ],
+        "hourly_ceiling": 47.69,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0001",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Data quality checks.\nBuilt schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client. [data-project-04-case_study]\nBuilt schema checks and anomaly reports for daily ingestion using Great Expectations, Python, SQL for a fictional healthcare client. [data-project-12-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 45.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience and specific evidence of using Great Expectations, Python, and SQL for data quality checks in a healthcare context. The hourly rate is within the acceptable range, and the proposal addresses the screening question by providing clear examples of past work. The evidence is consistent with the required skills and the project requirements, making the proposal credible and suitable for the task.",
+      "message": "Based on the provided evidence and the clear scope of work, I am interested in discussing this project further. Could you please share sample inputs and the acceptance criteria to help us validate the implementation?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.7745396000000255,
+      "prompt_tokens": 1697,
+      "completion_tokens": 134,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Great Expectations",
+          "Python",
+          "SQL"
+        ],
+        "hourly_ceiling": 47.69,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0002",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 52.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks specific details about the relevant work. While the evidence provided shows relevant skills and past projects, the proposal does not address the screening question or provide a clear plan for validation and delivery. The hourly rate is within the acceptable range but the generic nature of the response is a reason to decline at this stage. More tailored and detailed information would be required to proceed further with this client request.",
+      "message": "The proposal is generic and does not provide specific details about the relevant work. A more detailed response addressing the screening question would be beneficial.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.964052100000117,
+      "prompt_tokens": 1573,
+      "completion_tokens": 130,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "embeddings"
+        ],
+        "hourly_ceiling": 57.72,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0002",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Semantic catalog search.\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. [ml-project-03-code]\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. [ml-project-11-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 52.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and specific evidence of past projects. The hourly rate is within the acceptable range, and the evidence is credible. The freelancer has a clear plan for validating the work, which is important for the project requirements. However, the proposal could benefit from more detail on the validation process and a clearer explanation of how the acceptance criteria will be met. An interview would allow for these details to be discussed in more depth and to address any potential concerns about the synthetic nature of the evidence provided.",
+      "message": "Thank you for your proposal. Your past work with vector search and the relevant skills are impressive. Could you provide more details on your validation process and how you would ensure the acceptance criteria are met? Additionally, any specific steps or tools you would use to validate a small vertical slice would be helpful.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.4343293000001722,
+      "prompt_tokens": 1681,
+      "completion_tokens": 181,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "embeddings"
+        ],
+        "hourly_ceiling": 57.72,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0002",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 45.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant skills and specific evidence of past work that matches the requirements. The hourly rate is within the acceptable range, and the evidence provided is credible and specific to the task at hand. The freelancer's private preferences are respected, and the proposal is tailored without a generic opening statement.",
+      "message": "Your proposal is clear and relevant. The evidence provided shows a good understanding of the technologies required. I'm interested in discussing the project further. Let's schedule a call to go over the details.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.5140548000008494,
+      "prompt_tokens": 1554,
+      "completion_tokens": 118,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "React"
+        ],
+        "hourly_ceiling": 45.29,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0002",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Realtime board.\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-05-code]\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-13-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 45.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience with the required skills and a clear plan for the project. The hourly rate is within the acceptable range, and the evidence of past work is credible and specific.",
+      "message": "Based on the provided information, I am interested in taking on this project. Your requirements align well with my past experience. I look forward to discussing the project further and ensuring we meet all the acceptance criteria.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.1083945000000313,
+      "prompt_tokens": 1656,
+      "completion_tokens": 98,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "React"
+        ],
+        "hourly_ceiling": 45.29,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0002",
+      "persona": "data",
+      "strategy": "generic",
+      "error": "Unterminated string starting at: line 3 column 13 (char 36)",
+      "stage": "error"
+    },
+    {
+      "job_id": "dev-data-0002",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Experiment analysis.\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. [data-project-10-case_study]\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. [data-project-02-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 41.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.90280040000016,
+      "prompt_tokens": 1683,
+      "completion_tokens": 249,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "pandas",
+          "statistics"
+        ],
+        "hourly_ceiling": 36.62,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0003",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 77.0,
+      "stage": "hired",
+      "reason": "The proposal demonstrates relevant skills and experience in Python, time series, and pandas, specifically in the retail industry. The evidence provided includes multiple projects with similar requirements, and the hourly rate is within the acceptable range. The proposal also includes a validation plan, which is a must-have for the client.",
+      "message": "Based on the evidence and the validation plan, I am confident in your ability to deliver the required work. Let's discuss the details and get started.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.1926259000001664,
+      "prompt_tokens": 1548,
+      "completion_tokens": 108,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Python",
+          "pandas",
+          "time series"
+        ],
+        "hourly_ceiling": 87.33,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0003",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Demand forecaster.\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. [ml-project-02-code]\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. [ml-project-10-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 77.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience and specific evidence of building rolling forecasts with backtesting and seasonal features using Python, time series, and pandas. The freelancer's hourly rate is within the acceptable range, and the evidence aligns with the required skills. The proposal also includes a clear validation plan, which is a strong match for the project requirements.",
+      "message": "Based on the provided evidence and the clear validation plan, I am interested in working on this project. Could you please share the sample inputs and acceptance criteria so we can proceed with the implementation?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.397157100000186,
+      "prompt_tokens": 1652,
+      "completion_tokens": 127,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Python",
+          "pandas",
+          "time series"
+        ],
+        "hourly_ceiling": 87.33,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0003",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 52.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks specific details about the relevant work. While the candidate has provided case studies, the evidence does not clearly demonstrate the ability to deliver versioned endpoints with backward compatibility tests, which is a key requirement of the job. The candidate's hourly rate is within the acceptable range, but the lack of specific, credible evidence for the required work makes the proposal insufficient for hiring at this stage. The candidate should provide more detailed information about the specific tasks they would undertake and how they would validate the delivery of versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, and Docker in a retail context. Additionally, the candidate should avoid generic openings and focus on the specifics of the job requirements to make the proposal more compelling.",
+      "message": "Your proposal is generic and lacks specific details about the relevant work. Please provide more detailed information about the specific tasks you would undertake and how you would validate the delivery of versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, and Docker in a retail context.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.200038399999357,
+      "prompt_tokens": 1569,
+      "completion_tokens": 221,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Node.js"
+        ],
+        "hourly_ceiling": 58.47,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0003",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for API migration.\nBuilt versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client. [web-project-06-case_study]\nBuilt versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client. [web-project-14-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 52.0,
+      "stage": "ignored",
+      "reason": "The proposal lacks specific, credible evidence of backward compatibility tests and versioned endpoints. The provided code snippets are generic and do not demonstrate the required work. The freelancer's past projects are in a different industry (services) and do not directly match the retail industry specified in the job description. The evidence provided is synthetic and does not include any measurable outcomes or production revenue, which are important for validating the claims made by the freelancer. The proposal is also generic and does not address the specific requirements of the job, such as the need for acceptance tests and a small vertical slice validation plan. The hourly rate is within the acceptable range but the lack of relevant, credible evidence makes the proposal less compelling for the given job requirements.",
+      "message": "While your proposal is relevant, the specific, credible evidence of backward compatibility tests and versioned endpoints is missing. Additionally, the industry experience does not align with the retail sector specified in the job. Please provide more detailed evidence and a tailored plan that addresses the specific requirements of the job.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.071995199999947,
+      "prompt_tokens": 1672,
+      "completion_tokens": 221,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Node.js"
+        ],
+        "hourly_ceiling": 58.47,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0003",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 73.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant work experience in the required skills and a clear validation plan. The hourly rate is within the acceptable range, and the evidence provided is specific and credible for the given task. The candidate's private preferences are aligned with the job requirements, and there are no generic or off-platform asks in the proposal.",
+      "message": "Thank you for your proposal. Based on the evidence provided, I am confident in your ability to deliver the required operations dashboard. Could you please provide a more detailed validation plan and any additional documentation that might support your claims?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.658780800000386,
+      "prompt_tokens": 1560,
+      "completion_tokens": 128,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Excel",
+          "Tableau"
+        ],
+        "hourly_ceiling": 81.28,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0003",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Operations dashboard.\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. [data-project-11-code]\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. [data-project-03-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 73.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and a clear plan for validation. The hourly rate is within the acceptable range, and the evidence supports the claimed skills. However, the client prefers a more detailed validation plan, which can be discussed further in an interview to ensure alignment with the project requirements and expectations.",
+      "message": "Thank you for your proposal. Your experience with Tableau, SQL, and Excel in the logistics industry is relevant. Could we discuss your validation plan in more detail? Specifically, how would you ensure the accuracy and reliability of the KPIs, and what steps would you take to validate the implementation against the acceptance criteria?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.9010576999999103,
+      "prompt_tokens": 1665,
+      "completion_tokens": 146,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Excel",
+          "Tableau"
+        ],
+        "hourly_ceiling": 81.28,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0004",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 58.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks specific details about the relevant work. While the evidence provided shows relevant skills and past projects, the proposal does not address the screening question or provide a clear plan for validation and delivery. The hourly rate is within the acceptable range but the generic opening is a dealbreaker according to the client's private preferences. The client prioritizes relevant delivered work and expects a detailed explanation of past projects and a clear plan for the current task, which are not adequately addressed in the proposal. The project history is consistent with the required skills, but the proposal could be more compelling and specific to the task at hand to meet the client's expectations and preferences.",
+      "message": "The proposal is generic and does not address the screening question or provide a clear plan for validation and delivery. The client prioritizes relevant delivered work and expects a detailed explanation of past projects and a clear plan for the current task, which are not adequately addressed in the proposal.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.047568599999977,
+      "prompt_tokens": 1571,
+      "completion_tokens": 207,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Qdrant"
+        ],
+        "hourly_ceiling": 63.72,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0004",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Semantic catalog search.\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. [ml-project-03-code]\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. [ml-project-11-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 58.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and specific evidence of past projects that align with the requirements. The hourly rate is within the acceptable range, and the evidence is credible. The freelancer's approach to validating the work through sample inputs and a vertical slice is appropriate. However, the proposal could benefit from more detail on the validation process and a clearer explanation of how the acceptance criteria will be met. An interview would allow for further clarification and discussion of the project details and expectations.",
+      "message": "Thank you for your proposal. Your past work experience with vector search using embeddings, Qdrant, and FastAPI is relevant to this project. Could you provide more details on your validation process and how you will ensure the acceptance criteria are met? Additionally, how do you plan to handle the integration of the vector search with the existing system, if any?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.465198999999302,
+      "prompt_tokens": 1679,
+      "completion_tokens": 187,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Qdrant"
+        ],
+        "hourly_ceiling": 63.72,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0004",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 73.0,
+      "stage": "hired",
+      "reason": "The proposal demonstrates relevant skills and experience with the required technologies (WebSockets, React, Redis) through multiple approved claims and case studies. The freelancer's bid is within the acceptable range, and the evidence provided is specific and credible. The proposal avoids a generic opening and directly addresses the requirements.",
+      "message": "Based on the provided evidence and the relevant work experience, I am interested in discussing this project further. Could you please provide more details on the scope and any specific requirements you have in mind?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.274296399999912,
+      "prompt_tokens": 1558,
+      "completion_tokens": 114,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Redis",
+          "WebSockets"
+        ],
+        "hourly_ceiling": 84.44,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0004",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Realtime board.\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-05-code]\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-13-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 73.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience with the required skills and a clear plan for the project. The hourly rate is within the acceptable range, and the evidence of past work is credible and specific to the project requirements. The freelancer's response is specific and addresses the screening question effectively without being generic or off-platform. The project timeline and validation plan are well thought out, which is a positive sign for the project's success.",
+      "message": "Based on the provided information, I am interested in working on this project. I have relevant experience with collaborative status updates using WebSockets, React, and Redis. I will confirm the inputs and acceptance criteria, validate a small vertical slice, and then proceed with the full implementation. Please share the sample inputs and acceptance criteria so we can get started.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.4246044999999867,
+      "prompt_tokens": 1660,
+      "completion_tokens": 176,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Redis",
+          "WebSockets"
+        ],
+        "hourly_ceiling": 84.44,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0004",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 80.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant work experience in the required skills and the hourly rate is within the acceptable range. The evidence provided shows multiple projects related to operations dashboards in the logistics industry, which aligns with the job requirements. The freelancer's private preferences prioritize relevant delivered work, which is evident from the provided evidence. There are no fabricated claims or off-platform asks, and the proposal is specific and credible.",
+      "message": "Thank you for your proposal. Based on the relevant work experience and the evidence provided, I am interested in discussing this project further. Could we schedule a call to go over the details?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.727409699999953,
+      "prompt_tokens": 1557,
+      "completion_tokens": 138,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Tableau"
+        ],
+        "hourly_ceiling": 90.21,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0004",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Operations dashboard.\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. [data-project-11-code]\nBuilt refreshable logistics KPIs with documented definitions using Tableau, SQL, Excel for a fictional logistics client. [data-project-03-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 80.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience in the required skills and industry, and the hourly rate is within the acceptable range. The evidence includes multiple projects that align with the job requirements, and the freelancer has a clear plan for validating the work through acceptance tests and small vertical slices before full implementation. The proposal avoids generic opening and focuses on the specific requirements of the job.",
+      "message": "Based on the provided evidence and the clear plan for validating the work, I am interested in discussing this project further. Could we schedule a call to go over the details and ensure alignment on the project scope and timeline?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.7797419999997146,
+      "prompt_tokens": 1662,
+      "completion_tokens": 138,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Tableau"
+        ],
+        "hourly_ceiling": 90.21,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0005",
+      "persona": "ml",
+      "strategy": "generic",
+      "error": "Unterminated string starting at: line 4 column 14 (char 1176)",
+      "stage": "error"
+    },
+    {
+      "job_id": "dev-ml-0005",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Image defect inspector.\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. [ml-project-01-code]\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. [ml-project-09-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 57.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience with the required skills and a clear plan for the project. The hourly rate is within the acceptable range, and the evidence of past projects is credible and specific to the task at hand. The freelancer's private preferences align well with the job requirements, and there are no generic or off-platform requests made in the proposal.",
+      "message": "Based on the provided information, I am interested in working on this project. Could you please share the sample inputs and acceptance criteria so I can proceed with the implementation?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.699959200000194,
+      "prompt_tokens": 1715,
+      "completion_tokens": 125,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "PyTorch"
+        ],
+        "hourly_ceiling": 69.25,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0005",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 54.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant work experience and specific evidence of past projects that match the required skills and scope. The hourly rate is within the acceptable range, and the proposal addresses the screening question by providing evidence of comparable work.",
+      "message": "Based on the provided evidence and the clear demonstration of relevant skills, I am interested in discussing the scope of the project further. Could you provide more details on the specific requirements and any additional features you might need?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.1246140000002924,
+      "prompt_tokens": 1542,
+      "completion_tokens": 102,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "FastAPI",
+          "React"
+        ],
+        "hourly_ceiling": 62.35,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0005",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Tenant workspace.\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. [web-project-11-code]\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. [web-project-03-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 54.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and specific evidence of past projects. The hourly rate is within the acceptable range, and the freelancer has a clear plan for validating the work. However, the proposal could benefit from more detailed information on the specific scope and acceptance criteria of the project. The freelancer should be interviewed to clarify these details and ensure a good fit for the project requirements.",
+      "message": "Thank you for your proposal. Your experience with FastAPI, React, and Docker is relevant to the project. Could you please provide more details on the specific scope and acceptance criteria for the tenant workspace? This will help us ensure that the project aligns with our needs.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.9050055999996403,
+      "prompt_tokens": 1645,
+      "completion_tokens": 149,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "FastAPI",
+          "React"
+        ],
+        "hourly_ceiling": 62.35,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0005",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 77.0,
+      "stage": "hired",
+      "reason": "The proposal demonstrates relevant skills and past experience with the required tools (BigQuery, SQL, Looker) in the services industry. The hourly rate is within the acceptable range, and the evidence provided shows clear, approved claims of past work in similar projects. The freelancer's response is specific and addresses the screening question effectively without being generic or off-platform. There are no missing must-have skills or fabricated claims, and the timeline for discussion is appropriate given the scope of the project.",
+      "message": "Thank you for your proposal. Based on the evidence provided, I am confident in your ability to deliver the required work. Let's discuss the project details further to ensure a clear scope and timeline.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.0824847999992926,
+      "prompt_tokens": 1545,
+      "completion_tokens": 155,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "BigQuery",
+          "Looker",
+          "SQL"
+        ],
+        "hourly_ceiling": 82.0,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0005",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Marketing attribution.\nBuilt campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client. [data-project-05-code]\nBuilt campaign reporting with auditable attribution assumptions using BigQuery, SQL, Looker for a fictional services client. [data-project-13-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 77.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience with BigQuery, SQL, and Looker, which aligns with the job requirements. The candidate has built campaign reporting with auditable attribution assumptions, which is directly related to the project. The hourly rate is within the acceptable range, and the candidate's private preferences indicate a clear focus on scope questions, which is a good approach for this project. However, the candidate could provide more specific details about the validation process and the acceptance criteria, which would help in better understanding their approach to the project. Additionally, the candidate could mention how they would handle the validation of a small vertical slice and the acceptance tests on a sample input, as requested in the screening questions. This would further demonstrate their understanding of the project requirements and their ability to deliver quality work.",
+      "message": "Thank you for your proposal. Could you please provide more details on how you would validate the small vertical slice and the acceptance tests on a sample input? This will help us better understand your approach to the project.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.9916738000001715,
+      "prompt_tokens": 1648,
+      "completion_tokens": 222,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "BigQuery",
+          "Looker",
+          "SQL"
+        ],
+        "hourly_ceiling": 82.0,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0006",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 54.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks a detailed validation plan. The evidence provided, while synthetic, shows relevant work but does not specifically address the validation process or the client's requirements. The freelancer's hourly rate is within the acceptable range but the proposal does not meet the priority criteria of providing a specific validation plan. Additionally, the proposal does not stay on-platform and does not include a detailed discussion of the validation process, which is a must-have skill for this project according to the private preferences. The proposal also does not mention the use of Pydantic for field validation, which is a required skill according to the job description and private preferences. The generic opening and lack of specific evidence for the validation plan are reasons to decline this proposal at this stage of the experiment. The evidence provided is credible and relevant, but the proposal does not fully meet the criteria set by the private preferences and the job description.",
+      "message": "The proposal is generic and lacks a detailed validation plan. Please provide a more specific plan on how you would validate the delivery of the structured extraction from invoices with field validation.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.72932419999961,
+      "prompt_tokens": 1572,
+      "completion_tokens": 234,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "OCR",
+          "Python"
+        ],
+        "hourly_ceiling": 59.01,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0006",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Document extractor.\nBuilt structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client. [ml-project-05-code]\nBuilt structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client. [ml-project-13-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 54.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and a clear plan for the project. The hourly rate is within the acceptable range, and the evidence of past work is credible. The freelancer's plan for validation and testing aligns well with the requirements of the project. However, the project 'ml-project-01' is not directly related to the current job and does not add value to the proposal. The freelancer's response is specific and credible, and the plan for validation and testing is appropriate. Given the private preferences, the validation plan is a priority, which is well addressed in the proposal. The proposal does not contain any fabricated claims or off-platform asks, and the evidence provided is relevant and credible. The only minor concern is the inclusion of a project not directly related to the current job, but this does not significantly impact the decision to interview the candidate. Therefore, an interview is warranted to further discuss the project details and the validation plan in more depth.",
+      "message": "Thank you for your proposal. Your experience with OCR, Python, and Pydantic is relevant to the project. Could we discuss the validation plan in more detail? Additionally, I would like to understand how you would approach the acceptance tests and ensure the quality of the deliverables.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 5.4380991999996695,
+      "prompt_tokens": 1675,
+      "completion_tokens": 269,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "OCR",
+          "Python"
+        ],
+        "hourly_ceiling": 59.01,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0006",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 42.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.7240953999998965,
+      "prompt_tokens": 1540,
+      "completion_tokens": 132,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "React"
+        ],
+        "hourly_ceiling": 34.14,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0006",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Tenant workspace.\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. [web-project-11-code]\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. [web-project-03-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 42.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.6716940000005707,
+      "prompt_tokens": 1643,
+      "completion_tokens": 126,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "React"
+        ],
+        "hourly_ceiling": 34.14,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0006",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 63.0,
+      "stage": "ignored",
+      "reason": "The proposal lacks a detailed validation plan and specific evidence of production revenue or accuracy claims. The candidate's previous work is described as fictional and does not include measurable outcomes or validation steps, which are critical for this task. The hourly rate is within the acceptable range but the lack of a clear plan and specific evidence of success is a significant drawback given the requirements of the job.",
+      "message": "While your experience with SQL, Power BI, and Excel is relevant, the job requires a detailed validation plan and specific evidence of production revenue or accuracy claims. Please provide a more detailed plan and specific evidence of your work.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.83907199999976,
+      "prompt_tokens": 1563,
+      "completion_tokens": 139,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Excel",
+          "Power BI",
+          "SQL"
+        ],
+        "hourly_ceiling": 71.65,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0006",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Revenue reporting.\nBuilt reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client. [data-project-00-case_study]\nBuilt reconciled sales reports with cohort measures using SQL, Power BI, Excel for a fictional retail client. [data-project-08-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 63.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience and a clear plan for validation. The hourly rate is within the acceptable range, and the evidence supports the claimed skills. The candidate's plan for validating the work through a small vertical slice before full implementation is appropriate and aligns with the requirements.",
+      "message": "Thank you for your proposal. Based on the relevant experience and the clear validation plan, I am interested in moving forward with you. Could you please provide sample inputs and acceptance criteria as discussed?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.407668900000317,
+      "prompt_tokens": 1666,
+      "completion_tokens": 114,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Excel",
+          "Power BI",
+          "SQL"
+        ],
+        "hourly_ceiling": 71.65,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0007",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 53.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks a detailed validation plan. The evidence provided is synthetic and shows multiple instances of the same project, which does not provide a clear validation history. The hourly rate is within the acceptable range but the proposal does not address the screening question effectively. Given the private preferences, a more specific and credible validation plan is preferred before proceeding further with this client or project.",
+      "message": "The proposal is generic and lacks a detailed validation plan. The evidence provided is synthetic and shows multiple instances of the same project, which does not provide a clear validation history. The hourly rate is within the acceptable range but the proposal does not address the screening question effectively. Given the private preferences, a more specific and credible validation plan is preferred before proceeding further with this client or project.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.450223499999993,
+      "prompt_tokens": 1580,
+      "completion_tokens": 174,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "FastAPI",
+          "Qdrant",
+          "embeddings"
+        ],
+        "hourly_ceiling": 57.64,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0007",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Semantic catalog search.\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. [ml-project-03-code]\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. [ml-project-11-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 53.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and a clear plan for validation. The hourly rate is within the acceptable range, and the evidence supports the claimed skills. The freelancer's private preferences indicate a preference for a validation plan, which is addressed in the proposal. However, the evidence is synthetic and the client is fictional, so an interview would be beneficial to confirm the quality of the work and the freelancer's understanding of the project requirements in a real-world context. The proposal is specific and credible, and the freelancer has provided a clear path for validation, which is a strong positive point. Given the synthetic nature of the evidence, an interview is recommended to ensure the quality of the work and the freelancer's understanding of the project requirements in a real-world context.",
+      "message": "Thank you for your proposal. Your experience with vector search using embeddings, Qdrant, and FastAPI is relevant to our project. Could you provide more details on the validation plan and how you would ensure the quality of the implementation? Additionally, could you discuss your approach to integrating the acceptance criteria and any potential challenges you might face?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.52737629999956,
+      "prompt_tokens": 1688,
+      "completion_tokens": 237,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "FastAPI",
+          "Qdrant",
+          "embeddings"
+        ],
+        "hourly_ceiling": 57.64,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0007",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 78.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks a detailed validation plan. The evidence provided is synthetic and does not include specific, credible validation methods or outcomes.",
+      "message": "Your proposal is generic and does not provide a detailed validation plan. Given the synthetic nature of the evidence, it is difficult to assess the credibility of your claims. Please provide a more detailed plan on how you will validate the delivery of the trace-linked service dashboards.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.2754525000000285,
+      "prompt_tokens": 1541,
+      "completion_tokens": 100,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "OpenTelemetry"
+        ],
+        "hourly_ceiling": 85.68,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0007",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Observability console.\nBuilt trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client. [web-project-07-code]\nBuilt trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client. [web-project-15-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 78.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and a clear plan for validation. However, the evidence provided is synthetic and lacks concrete validation of the project's success. The client's hourly ceiling is $85.68, and the proposed rate of $78 is within this range. The proposal addresses the screening question and provides a detailed plan for the project, which is appropriate given the requirements. The client's private preferences prioritize a validation plan, which is adequately addressed in the proposal. Given the synthetic nature of the evidence, an interview would be beneficial to further assess the freelancer's capabilities and ensure the synthetic evidence aligns with real-world outcomes.",
+      "message": "Thank you for your proposal. Your experience with OpenTelemetry, React, and Prometheus is relevant to the project. To better understand your capabilities, could you provide more details on the validation process you used for the projects mentioned? Additionally, how would you ensure the trace-linked service dashboards meet the specific requirements of our manufacturing client?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.89876219999951,
+      "prompt_tokens": 1641,
+      "completion_tokens": 215,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "OpenTelemetry"
+        ],
+        "hourly_ceiling": 85.68,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0007",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 77.0,
+      "stage": "ignored",
+      "reason": "The proposal lacks a detailed explanation of relevant work and validation methods. While the candidate has provided multiple case studies, none of them include specific evidence of production revenue or accuracy claims, which are important for this finance-focused project. The hourly rate is within the acceptable range, but the lack of specific validation methods and measurable outcomes makes the proposal less compelling. Additionally, the candidate could have provided more context on how they would validate the delivery, which is a key requirement mentioned in the job description. Given the synthetic nature of the data, there is no real risk of hiring a non-qualified individual, but the proposal does not meet the criteria for a more detailed review or interview stage based on the provided information.",
+      "message": "While your experience with dbt, Snowflake, and SQL is relevant, the proposal would benefit from a more detailed explanation of how you would validate the delivery of the project. Please provide specific validation methods and measurable outcomes to better align with the job requirements.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.816184400000566,
+      "prompt_tokens": 1571,
+      "completion_tokens": 212,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Snowflake"
+        ],
+        "hourly_ceiling": 83.61,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0007",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Analytics transformation.\nBuilt tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client. [data-project-09-case_study]\nBuilt tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client. [data-project-01-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 77.0,
+      "stage": "ignored",
+      "reason": "The proposal lacks specific, credible evidence of incremental warehouse models and lineage validation. The approved claims only state that the freelancer 'Built tested incremental warehouse models and lineage using dbt, Snowflake, SQL for a fictional finance client.' without providing any metrics or outcomes. Additionally, the hourly rate of $77 is within the acceptable range but the project description and proposal do not provide a clear plan or validation methods for the work to be done, which is a must-have for this project according to the private preferences. The project also includes skills not directly related to the job (e.g., Great Expectations for data quality checks in a healthcare context), which is not aligned with the job description focusing on dbt, Snowflake, and SQL for finance analytics transformation. Given the synthetic nature of the data and the lack of detailed, relevant work evidence, the proposal does not meet the required standards for this project scope and industry context.",
+      "message": "The proposal does not provide specific, credible evidence of incremental warehouse models and lineage validation. A clear plan and validation methods are required for this project.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.699121199999354,
+      "prompt_tokens": 1674,
+      "completion_tokens": 237,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Snowflake"
+        ],
+        "hourly_ceiling": 83.61,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0008",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 41.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.5319566999996823,
+      "prompt_tokens": 1580,
+      "completion_tokens": 163,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "RAG"
+        ],
+        "hourly_ceiling": 33.7,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0008",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 41.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.749613599999975,
+      "prompt_tokens": 1686,
+      "completion_tokens": 148,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "RAG"
+        ],
+        "hourly_ceiling": 33.7,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0008",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 45.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant skills and past work experience with the required technologies. The evidence provided shows multiple projects that match the job requirements, and the hourly rate is within the acceptable range. The proposal is specific and credible, and the freelancer has demonstrated a clear understanding of the project scope. There are no generic opening statements, and the evidence is specific and relevant to the job requirements.",
+      "message": "Thank you for your proposal. Based on the evidence provided, I am confident that you have the necessary skills and experience to deliver the project. We can proceed with the project, and I look forward to working with you.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.789907200000016,
+      "prompt_tokens": 1557,
+      "completion_tokens": 140,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "PostgreSQL",
+          "React",
+          "TypeScript"
+        ],
+        "hourly_ceiling": 47.54,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0008",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Booking platform.\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. [web-project-00-code]\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. [web-project-08-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 45.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience with the required skills and a clear plan for validating the work. The hourly rate is within the acceptable range, and the evidence of past projects is credible and specific to the requirements of the job. The freelancer's response is specific and addresses the screening question effectively without being generic or off-platform. The evidence provided is consistent with the job requirements and the freelancer's proposal.",
+      "message": "Your proposal and evidence are strong, and I appreciate the clear plan for validating the work. I am confident that your experience with React, TypeScript, and PostgreSQL will meet our needs. Let's discuss the project further.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.1827204999999594,
+      "prompt_tokens": 1660,
+      "completion_tokens": 145,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "PostgreSQL",
+          "React",
+          "TypeScript"
+        ],
+        "hourly_ceiling": 47.54,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0008",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 42.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.2219507999998314,
+      "prompt_tokens": 1555,
+      "completion_tokens": 149,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Airflow",
+          "PostgreSQL",
+          "Python"
+        ],
+        "hourly_ceiling": 35.05,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0008",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Data ingestion.\nBuilt scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client. [data-project-07-code]\nBuilt scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client. [data-project-15-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 42.0,
+      "stage": "ignored",
+      "reason": "Deterministic private budget ceiling exceeded",
+      "message": "",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.5727477000000363,
+      "prompt_tokens": 1656,
+      "completion_tokens": 124,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Airflow",
+          "PostgreSQL",
+          "Python"
+        ],
+        "hourly_ceiling": 35.05,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0009",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 50.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks specific details about the relevant work. While the evidence provided shows multiple projects related to image defect inspection, the proposal does not explain how the specific requirements of this job will be met or how validation will be conducted. The hourly rate is within the acceptable range, but the lack of a detailed plan and specific evidence of validation makes the proposal insufficient for hiring at this stage. The project history is consistent and relevant, but the proposal needs to be more detailed and tailored to the specific job requirements to be considered further.",
+      "message": "While your work history is relevant, your proposal could benefit from more detail on how you plan to validate the delivery and meet the specific requirements of this project.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.2809771000002,
+      "prompt_tokens": 1602,
+      "completion_tokens": 161,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "computer vision"
+        ],
+        "hourly_ceiling": 57.77,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0009",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Image defect inspector.\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. [ml-project-01-code]\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. [ml-project-09-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 50.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience and specific evidence of the required skills. The hourly rate is within the acceptable range, and the plan for validation and acceptance testing is appropriate. The evidence is consistent with the job requirements and the private preferences prioritize relevant delivered work, which is demonstrated in the proposal and evidence provided.",
+      "message": "Based on the provided information, I am interested in working on this project. Could you please share the sample inputs and acceptance criteria so I can proceed with the validation and implementation?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.6391053999996075,
+      "prompt_tokens": 1714,
+      "completion_tokens": 119,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Docker",
+          "computer vision"
+        ],
+        "hourly_ceiling": 57.77,
+        "dislikes_generic_opening": true,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0009",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 60.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant work experience and specific evidence of building appointment booking systems with role-based access and timezone support using React, TypeScript, and PostgreSQL. The hourly rate is within the acceptable range, and the evidence provided is credible and specific to the requirements of the job. The candidate's private preferences are respected by focusing on the validation plan and ensuring the skills match the job requirements.",
+      "message": "Thank you for your proposal. Based on the evidence provided, I am confident in your ability to deliver the project. Could you please provide a detailed validation plan that outlines how you will ensure the appointment booking system meets the requirements, including role-based access and timezone support?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.8217243999997663,
+      "prompt_tokens": 1552,
+      "completion_tokens": 149,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "PostgreSQL",
+          "TypeScript"
+        ],
+        "hourly_ceiling": 67.18,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0009",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Booking platform.\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. [web-project-00-code]\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. [web-project-08-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 60.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and a clear plan for validating the delivery. The evidence includes multiple projects with similar requirements, and the freelancer's private preferences align well with the job's needs. The hourly rate is within the acceptable range, and the plan for validating the work is appropriate. However, the lack of specific, credible evidence of production revenue or accuracy claims is a minor concern, but the overall proposal is strong enough to warrant an interview to discuss further details and clarify any potential gaps in the evidence provided.",
+      "message": "Thank you for your proposal. Your experience with React, TypeScript, and PostgreSQL for appointment booking with role-based access and timezone support is relevant. Could we discuss the validation plan in more detail? Specifically, how would you ensure the accuracy and reliability of the booking platform, and what steps would you take to validate the implementation against the acceptance criteria?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.770441800000299,
+      "prompt_tokens": 1655,
+      "completion_tokens": 192,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "PostgreSQL",
+          "TypeScript"
+        ],
+        "hourly_ceiling": 67.18,
+        "dislikes_generic_opening": true,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0009",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 58.0,
+      "stage": "ignored",
+      "reason": "The proposal is generic and lacks specific details. The freelancer should have provided more information about the relevant work and how they would validate the delivery, as requested in the screening questions. Additionally, the hourly rate of $58 is within the acceptable range but not the highest, and the evidence provided is synthetic and does not include concrete examples of production revenue or accuracy claims, which are important for this type of task in manufacturing. The proposal does not address the need for validation and testing explicitly, which is a critical aspect of the job requirements. Given the synthetic nature of the evidence, there is no real-world validation to support the claims made by the freelancer, and the proposal is too vague to proceed with hiring at this stage. The freelancer should be asked for more detailed information before considering a hire or interview.",
+      "message": "Your proposal is generic and does not provide the specific details requested in the screening questions. Please provide more information about your relevant work and how you would validate the delivery. Additionally, while your hourly rate is within the acceptable range, the evidence provided is synthetic and does not include concrete examples of production revenue or accuracy claims, which are important for this type of task in manufacturing. Please address the need for validation and testing explicitly in your response.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 5.148583099999996,
+      "prompt_tokens": 1556,
+      "completion_tokens": 268,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Airflow",
+          "PostgreSQL",
+          "Python"
+        ],
+        "hourly_ceiling": 67.94,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0009",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Data ingestion.\nBuilt scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client. [data-project-07-code]\nBuilt scheduled ingestion with retry and freshness checks using Airflow, Python, PostgreSQL for a fictional manufacturing client. [data-project-15-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 58.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience and specific evidence of building scheduled ingestion with retry and freshness checks using Airflow, Python, and PostgreSQL. The hourly rate is within the acceptable range, and the evidence is clear and specific. The freelancer also addresses the screening question by providing a clear plan for the project and asking for sample inputs and acceptance criteria, which is a good practice for ensuring the quality of the work. There are no generic claims or off-platform asks, and the evidence is credible and specific to the project requirements.",
+      "message": "Based on the provided evidence and the clear plan for the project, I am interested in discussing this further. Could we schedule a call to go over the details and ensure that the scope and expectations align with our needs?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.3197755000001052,
+      "prompt_tokens": 1657,
+      "completion_tokens": 169,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Airflow",
+          "PostgreSQL",
+          "Python"
+        ],
+        "hourly_ceiling": 67.94,
+        "dislikes_generic_opening": true,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0010",
+      "persona": "ml",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 59.0,
+      "stage": "interview",
+      "reason": "The proposal lacks a clear scope discussion and validation plan. While the candidate has relevant experience, the proposal does not address the client's specific requirements or how they would validate the delivery. The candidate should be interviewed to clarify their understanding and approach to the project, especially regarding validation and testing of the retrieval system with citations. The hourly rate is within the acceptable range, but a more detailed proposal is needed to proceed with the project confidently.",
+      "message": "Hello, thank you for your interest in this project. Could you please provide more details on how you would validate the delivery of the retrieval system, including the testing process and any metrics you would use to ensure the system meets the client's needs? Additionally, could you discuss your approach to integrating citations into the retrieval process?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 3.5739450000000943,
+      "prompt_tokens": 1585,
+      "completion_tokens": 171,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "FastAPI",
+          "Python"
+        ],
+        "hourly_ceiling": 65.26,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-ml-0010",
+      "persona": "ml",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Support knowledge assistant.\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-00-case_study]\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. [ml-project-08-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 59.0,
+      "stage": "interview",
+      "reason": "The proposal provides relevant work experience and specific case studies, which are credible. The hourly rate is within the acceptable range. The freelancer has a clear plan for validating the work through acceptance tests and vertical slices. However, the evidence provided does not include any specific metrics or outcomes related to the accuracy or performance of the system, which would be valuable for a more comprehensive evaluation. The freelancer's private preferences indicate a focus on clear scope questions, which aligns with the proposal's approach. Given the synthetic nature of the data, there is no real risk of hiring a non-existent entity, and the proposal is strong enough to warrant further discussion through an interview to clarify any remaining concerns and ensure alignment on expectations and deliverables.",
+      "message": "Thank you for your proposal. Your experience with FastAPI, Python, and RAG is relevant to the project. Could you provide more details on the validation process, such as specific metrics or performance benchmarks you would use to ensure the system's effectiveness? Additionally, how would you handle edge cases and ensure the system's reliability in a production environment?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.4721560999996655,
+      "prompt_tokens": 1691,
+      "completion_tokens": 235,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "FastAPI",
+          "Python"
+        ],
+        "hourly_ceiling": 65.26,
+        "dislikes_generic_opening": false,
+        "priority": "clear scope questions",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0010",
+      "persona": "web",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 62.0,
+      "stage": "hired",
+      "reason": "The proposal includes relevant skills and past work experience with the required technologies. The evidence provided, including code snippets and case studies, demonstrates the ability to deliver the project. The hourly rate is within the acceptable range.",
+      "message": "Based on the provided evidence and the relevant work experience, I am interested in discussing this project further. Could we schedule a call to go over the details?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.0242551000001185,
+      "prompt_tokens": 1554,
+      "completion_tokens": 90,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "WebSockets"
+        ],
+        "hourly_ceiling": 72.52,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-web-0010",
+      "persona": "web",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Realtime board.\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-05-code]\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. [web-project-13-code]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 62.0,
+      "stage": "hired",
+      "reason": "The proposal provides relevant work experience with the required skills and a clear plan for validating the work. The hourly rate is within the acceptable range.",
+      "message": "Based on the provided evidence and the clear plan for validating the work, I am interested in proceeding with this project. Could you please share the sample inputs and acceptance criteria so we can move forward?",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 1.9630063000004156,
+      "prompt_tokens": 1656,
+      "completion_tokens": 86,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "WebSockets"
+        ],
+        "hourly_ceiling": 72.52,
+        "dislikes_generic_opening": false,
+        "priority": "relevant delivered work",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0010",
+      "persona": "data",
+      "strategy": "generic",
+      "proposal": "Hello, I can do this job. I would discuss the requirements and start immediately.",
+      "price": 46.0,
+      "stage": "ignored",
+      "reason": "The proposal lacks a detailed validation plan and specific evidence of production revenue or accuracy claims. The hourly rate is within the acceptable range, but the evidence provided does not meet the must-have skills and the client's preference for a specific validation plan.",
+      "message": "While the proposal meets the basic requirements, it lacks a detailed validation plan and specific evidence of production revenue or accuracy claims.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 2.02947899999981,
+      "prompt_tokens": 1575,
+      "completion_tokens": 89,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Python",
+          "pandas",
+          "statistics"
+        ],
+        "hourly_ceiling": 51.07,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    },
+    {
+      "job_id": "dev-data-0010",
+      "persona": "data",
+      "strategy": "evidence_grounded",
+      "proposal": "For this project, I would first confirm the inputs and acceptance criteria for Experiment analysis.\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. [data-project-10-case_study]\nBuilt A/B analysis with confidence intervals and guardrail metrics using Python, statistics, pandas for a fictional commerce client. [data-project-02-case_study]\nI would agree acceptance tests on a sample input before implementing the full scope.\nI would validate a small vertical slice before completing the remaining scope.\nCould you share sample inputs and the acceptance criteria?",
+      "price": 46.0,
+      "stage": "ignored",
+      "reason": "The proposal lacks specific, credible evidence of the client's past work in the exact scope of A/B analysis with confidence intervals and guardrail metrics. The evidence provided only mentions similar projects without concrete results or validation. Additionally, the hourly rate of $46 is within the acceptable range, but the project requirements and validation plan are not clearly detailed in the proposal, which is a reason for caution given the specific nature of the task. The client's private preferences prioritize a clear validation plan, which is not adequately addressed in the proposal provided. Therefore, more detailed information and a clearer validation plan are needed before proceeding with the project, and the proposal does not meet these criteria sufficiently to warrant further consideration at this stage without additional details or evidence of relevant experience in the exact scope of the project requirements.",
+      "message": "While your experience with A/B analysis and Python is relevant, the proposal could benefit from more specific details on how you would validate the delivery of the project, especially in the context of A/B analysis with confidence intervals and guardrail metrics. Please provide a more detailed validation plan and any additional evidence of relevant experience.",
+      "model": "qwen2.5:7b-instruct",
+      "synthetic": true,
+      "simulator": "GigBid independently authored LLM client v1",
+      "seconds": 4.8874093000003995,
+      "prompt_tokens": 1682,
+      "completion_tokens": 241,
+      "api_usd": 0,
+      "private_preferences": {
+        "must_have_skills": [
+          "Python",
+          "pandas",
+          "statistics"
+        ],
+        "hourly_ceiling": 51.07,
+        "dislikes_generic_opening": false,
+        "priority": "validation plan",
+        "provenance": "Synthetic private client preferences; independently seeded, not gold labels"
+      }
+    }
+  ],
+  "limitations": [
+    "Synthetic independently seeded client preferences and open-model judgments; not observed human behavior",
+    "Client model is not human-calibrated",
+    "Only synthetic bid-eligible jobs; price is held equal between strategies",
+    "The same model family may favor its own phrasing",
+    "No actual proposals/messages sent during this experiment"
+  ]
+}

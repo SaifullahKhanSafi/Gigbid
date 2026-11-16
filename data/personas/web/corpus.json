@@ -1,0 +1,4794 @@
+[
+  {
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-00-case_study",
+    "type": "case_study",
+    "title": "Booking platform",
+    "text": "Booking platform. Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-00-case_study",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-00-readme",
+    "type": "readme",
+    "title": "Booking platform",
+    "text": "# Booking platform\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-00-readme",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-00-code",
+    "type": "code",
+    "title": "Booking platform",
+    "text": "# Booking platform\n# Verified synthetic implementation outline: appointment booking with role-based access and timezone support\n# Dependencies: React, TypeScript, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-00-code",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-00-review",
+    "type": "review",
+    "title": "Booking platform",
+    "text": "Fictional client review for Booking platform: delivery included documented tests for appointment booking with role-based access and timezone support. Skills observed: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web-project-00-review",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-01-case_study",
+    "type": "case_study",
+    "title": "Payments dashboard",
+    "text": "Payments dashboard. Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-01-case_study",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-01-readme",
+    "type": "readme",
+    "title": "Payments dashboard",
+    "text": "# Payments dashboard\nBuilt subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-01-readme",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-01-code",
+    "type": "code",
+    "title": "Payments dashboard",
+    "text": "# Payments dashboard\n# Verified synthetic implementation outline: subscription management with verified webhook signatures\n# Dependencies: Next.js, Stripe, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-01-code",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-01-review",
+    "type": "review",
+    "title": "Payments dashboard",
+    "text": "Fictional client review for Payments dashboard: delivery included documented tests for subscription management with verified webhook signatures. Skills observed: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web-project-01-review",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-02-case_study",
+    "type": "case_study",
+    "title": "Background import service",
+    "text": "Background import service. Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-02-case_study",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-02-readme",
+    "type": "readme",
+    "title": "Background import service",
+    "text": "# Background import service\nBuilt idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-02-readme",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-02-code",
+    "type": "code",
+    "title": "Background import service",
+    "text": "# Background import service\n# Verified synthetic implementation outline: idempotent CSV imports with retries and progress reporting\n# Dependencies: Celery, Redis, Django\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-02-code",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-02-review",
+    "type": "review",
+    "title": "Background import service",
+    "text": "Fictional client review for Background import service: delivery included documented tests for idempotent CSV imports with retries and progress reporting. Skills observed: Celery, Redis, Django.",
+    "source": "synthetic://web-project-02-review",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-03-case_study",
+    "type": "case_study",
+    "title": "Tenant workspace",
+    "text": "Tenant workspace. Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-03-case_study",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-03-readme",
+    "type": "readme",
+    "title": "Tenant workspace",
+    "text": "# Tenant workspace\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-03-readme",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-03-code",
+    "type": "code",
+    "title": "Tenant workspace",
+    "text": "# Tenant workspace\n# Verified synthetic implementation outline: tenant-scoped API authorization with integration tests\n# Dependencies: FastAPI, React, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-03-code",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-03-review",
+    "type": "review",
+    "title": "Tenant workspace",
+    "text": "Fictional client review for Tenant workspace: delivery included documented tests for tenant-scoped API authorization with integration tests. Skills observed: FastAPI, React, Docker.",
+    "source": "synthetic://web-project-03-review",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-04-case_study",
+    "type": "case_study",
+    "title": "Content portal",
+    "text": "Content portal. Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-04-case_study",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-04-readme",
+    "type": "readme",
+    "title": "Content portal",
+    "text": "# Content portal\nBuilt searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-04-readme",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-04-code",
+    "type": "code",
+    "title": "Content portal",
+    "text": "# Content portal\n# Verified synthetic implementation outline: searchable content with keyboard navigation\n# Dependencies: Next.js, TypeScript, accessibility\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-04-code",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-04-review",
+    "type": "review",
+    "title": "Content portal",
+    "text": "Fictional client review for Content portal: delivery included documented tests for searchable content with keyboard navigation. Skills observed: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web-project-04-review",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-05-case_study",
+    "type": "case_study",
+    "title": "Realtime board",
+    "text": "Realtime board. Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-05-case_study",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-05-readme",
+    "type": "readme",
+    "title": "Realtime board",
+    "text": "# Realtime board\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-05-readme",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-05-code",
+    "type": "code",
+    "title": "Realtime board",
+    "text": "# Realtime board\n# Verified synthetic implementation outline: collaborative status updates with reconnect handling\n# Dependencies: WebSockets, React, Redis\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-05-code",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-05-review",
+    "type": "review",
+    "title": "Realtime board",
+    "text": "Fictional client review for Realtime board: delivery included documented tests for collaborative status updates with reconnect handling. Skills observed: WebSockets, React, Redis.",
+    "source": "synthetic://web-project-05-review",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-06-case_study",
+    "type": "case_study",
+    "title": "API migration",
+    "text": "API migration. Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-06-case_study",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-06-readme",
+    "type": "readme",
+    "title": "API migration",
+    "text": "# API migration\nBuilt versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-06-readme",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-06-code",
+    "type": "code",
+    "title": "API migration",
+    "text": "# API migration\n# Verified synthetic implementation outline: versioned endpoints with backward compatibility tests\n# Dependencies: Node.js, PostgreSQL, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-06-code",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-06-review",
+    "type": "review",
+    "title": "API migration",
+    "text": "Fictional client review for API migration: delivery included documented tests for versioned endpoints with backward compatibility tests. Skills observed: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web-project-06-review",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-07-case_study",
+    "type": "case_study",
+    "title": "Observability console",
+    "text": "Observability console. Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-07-case_study",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-07-readme",
+    "type": "readme",
+    "title": "Observability console",
+    "text": "# Observability console\nBuilt trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-07-readme",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-07-code",
+    "type": "code",
+    "title": "Observability console",
+    "text": "# Observability console\n# Verified synthetic implementation outline: trace-linked service dashboards\n# Dependencies: OpenTelemetry, React, Prometheus\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-07-code",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-07-review",
+    "type": "review",
+    "title": "Observability console",
+    "text": "Fictional client review for Observability console: delivery included documented tests for trace-linked service dashboards. Skills observed: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web-project-07-review",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-08-case_study",
+    "type": "case_study",
+    "title": "Booking platform",
+    "text": "Booking platform. Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-08-case_study",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-08-readme",
+    "type": "readme",
+    "title": "Booking platform",
+    "text": "# Booking platform\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-08-readme",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-08-code",
+    "type": "code",
+    "title": "Booking platform",
+    "text": "# Booking platform\n# Verified synthetic implementation outline: appointment booking with role-based access and timezone support\n# Dependencies: React, TypeScript, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-08-code",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-08-review",
+    "type": "review",
+    "title": "Booking platform",
+    "text": "Fictional client review for Booking platform: delivery included documented tests for appointment booking with role-based access and timezone support. Skills observed: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web-project-08-review",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-09-case_study",
+    "type": "case_study",
+    "title": "Payments dashboard",
+    "text": "Payments dashboard. Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-09-case_study",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-09-readme",
+    "type": "readme",
+    "title": "Payments dashboard",
+    "text": "# Payments dashboard\nBuilt subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-09-readme",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-09-code",
+    "type": "code",
+    "title": "Payments dashboard",
+    "text": "# Payments dashboard\n# Verified synthetic implementation outline: subscription management with verified webhook signatures\n# Dependencies: Next.js, Stripe, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-09-code",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-09-review",
+    "type": "review",
+    "title": "Payments dashboard",
+    "text": "Fictional client review for Payments dashboard: delivery included documented tests for subscription management with verified webhook signatures. Skills observed: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web-project-09-review",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-10-case_study",
+    "type": "case_study",
+    "title": "Background import service",
+    "text": "Background import service. Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-10-case_study",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-10-readme",
+    "type": "readme",
+    "title": "Background import service",
+    "text": "# Background import service\nBuilt idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-10-readme",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-10-code",
+    "type": "code",
+    "title": "Background import service",
+    "text": "# Background import service\n# Verified synthetic implementation outline: idempotent CSV imports with retries and progress reporting\n# Dependencies: Celery, Redis, Django\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-10-code",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-10-review",
+    "type": "review",
+    "title": "Background import service",
+    "text": "Fictional client review for Background import service: delivery included documented tests for idempotent CSV imports with retries and progress reporting. Skills observed: Celery, Redis, Django.",
+    "source": "synthetic://web-project-10-review",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-11-case_study",
+    "type": "case_study",
+    "title": "Tenant workspace",
+    "text": "Tenant workspace. Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-11-case_study",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-11-readme",
+    "type": "readme",
+    "title": "Tenant workspace",
+    "text": "# Tenant workspace\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-11-readme",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-11-code",
+    "type": "code",
+    "title": "Tenant workspace",
+    "text": "# Tenant workspace\n# Verified synthetic implementation outline: tenant-scoped API authorization with integration tests\n# Dependencies: FastAPI, React, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-11-code",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-11-review",
+    "type": "review",
+    "title": "Tenant workspace",
+    "text": "Fictional client review for Tenant workspace: delivery included documented tests for tenant-scoped API authorization with integration tests. Skills observed: FastAPI, React, Docker.",
+    "source": "synthetic://web-project-11-review",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-12-case_study",
+    "type": "case_study",
+    "title": "Content portal",
+    "text": "Content portal. Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-12-case_study",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-12-readme",
+    "type": "readme",
+    "title": "Content portal",
+    "text": "# Content portal\nBuilt searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-12-readme",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-12-code",
+    "type": "code",
+    "title": "Content portal",
+    "text": "# Content portal\n# Verified synthetic implementation outline: searchable content with keyboard navigation\n# Dependencies: Next.js, TypeScript, accessibility\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-12-code",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-15",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-12-review",
+    "type": "review",
+    "title": "Content portal",
+    "text": "Fictional client review for Content portal: delivery included documented tests for searchable content with keyboard navigation. Skills observed: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web-project-12-review",
+    "approved_claims": [
+      "Built searchable content with keyboard navigation using Next.js, TypeScript, accessibility for a fictional education client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-13-case_study",
+    "type": "case_study",
+    "title": "Realtime board",
+    "text": "Realtime board. Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-13-case_study",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-13-readme",
+    "type": "readme",
+    "title": "Realtime board",
+    "text": "# Realtime board\nBuilt collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-13-readme",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-13-code",
+    "type": "code",
+    "title": "Realtime board",
+    "text": "# Realtime board\n# Verified synthetic implementation outline: collaborative status updates with reconnect handling\n# Dependencies: WebSockets, React, Redis\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-13-code",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-13-review",
+    "type": "review",
+    "title": "Realtime board",
+    "text": "Fictional client review for Realtime board: delivery included documented tests for collaborative status updates with reconnect handling. Skills observed: WebSockets, React, Redis.",
+    "source": "synthetic://web-project-13-review",
+    "approved_claims": [
+      "Built collaborative status updates with reconnect handling using WebSockets, React, Redis for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-14-case_study",
+    "type": "case_study",
+    "title": "API migration",
+    "text": "API migration. Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-14-case_study",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-14-readme",
+    "type": "readme",
+    "title": "API migration",
+    "text": "# API migration\nBuilt versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-14-readme",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-14-code",
+    "type": "code",
+    "title": "API migration",
+    "text": "# API migration\n# Verified synthetic implementation outline: versioned endpoints with backward compatibility tests\n# Dependencies: Node.js, PostgreSQL, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-14-code",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-14-review",
+    "type": "review",
+    "title": "API migration",
+    "text": "Fictional client review for API migration: delivery included documented tests for versioned endpoints with backward compatibility tests. Skills observed: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web-project-14-review",
+    "approved_claims": [
+      "Built versioned endpoints with backward compatibility tests using Node.js, PostgreSQL, Docker for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-15-case_study",
+    "type": "case_study",
+    "title": "Observability console",
+    "text": "Observability console. Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-15-case_study",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-15-readme",
+    "type": "readme",
+    "title": "Observability console",
+    "text": "# Observability console\nBuilt trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-15-readme",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-15-code",
+    "type": "code",
+    "title": "Observability console",
+    "text": "# Observability console\n# Verified synthetic implementation outline: trace-linked service dashboards\n# Dependencies: OpenTelemetry, React, Prometheus\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-15-code",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-15-review",
+    "type": "review",
+    "title": "Observability console",
+    "text": "Fictional client review for Observability console: delivery included documented tests for trace-linked service dashboards. Skills observed: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web-project-15-review",
+    "approved_claims": [
+      "Built trace-linked service dashboards using OpenTelemetry, React, Prometheus for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-16-case_study",
+    "type": "case_study",
+    "title": "Booking platform",
+    "text": "Booking platform. Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-16-case_study",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-16-readme",
+    "type": "readme",
+    "title": "Booking platform",
+    "text": "# Booking platform\nBuilt appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-16-readme",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-16-code",
+    "type": "code",
+    "title": "Booking platform",
+    "text": "# Booking platform\n# Verified synthetic implementation outline: appointment booking with role-based access and timezone support\n# Dependencies: React, TypeScript, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-16-code",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-16-review",
+    "type": "review",
+    "title": "Booking platform",
+    "text": "Fictional client review for Booking platform: delivery included documented tests for appointment booking with role-based access and timezone support. Skills observed: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web-project-16-review",
+    "approved_claims": [
+      "Built appointment booking with role-based access and timezone support using React, TypeScript, PostgreSQL for a fictional services client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-17-case_study",
+    "type": "case_study",
+    "title": "Payments dashboard",
+    "text": "Payments dashboard. Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-17-case_study",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-17-readme",
+    "type": "readme",
+    "title": "Payments dashboard",
+    "text": "# Payments dashboard\nBuilt subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-17-readme",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-17-code",
+    "type": "code",
+    "title": "Payments dashboard",
+    "text": "# Payments dashboard\n# Verified synthetic implementation outline: subscription management with verified webhook signatures\n# Dependencies: Next.js, Stripe, PostgreSQL\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-17-code",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-17-review",
+    "type": "review",
+    "title": "Payments dashboard",
+    "text": "Fictional client review for Payments dashboard: delivery included documented tests for subscription management with verified webhook signatures. Skills observed: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web-project-17-review",
+    "approved_claims": [
+      "Built subscription management with verified webhook signatures using Next.js, Stripe, PostgreSQL for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-18-case_study",
+    "type": "case_study",
+    "title": "Background import service",
+    "text": "Background import service. Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-18-case_study",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-18-readme",
+    "type": "readme",
+    "title": "Background import service",
+    "text": "# Background import service\nBuilt idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-18-readme",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-18-code",
+    "type": "code",
+    "title": "Background import service",
+    "text": "# Background import service\n# Verified synthetic implementation outline: idempotent CSV imports with retries and progress reporting\n# Dependencies: Celery, Redis, Django\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-18-code",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-18-review",
+    "type": "review",
+    "title": "Background import service",
+    "text": "Fictional client review for Background import service: delivery included documented tests for idempotent CSV imports with retries and progress reporting. Skills observed: Celery, Redis, Django.",
+    "source": "synthetic://web-project-18-review",
+    "approved_claims": [
+      "Built idempotent CSV imports with retries and progress reporting using Celery, Redis, Django for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-19-case_study",
+    "type": "case_study",
+    "title": "Tenant workspace",
+    "text": "Tenant workspace. Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://web-project-19-case_study",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-19-readme",
+    "type": "readme",
+    "title": "Tenant workspace",
+    "text": "# Tenant workspace\nBuilt tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://web-project-19-readme",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-19-code",
+    "type": "code",
+    "title": "Tenant workspace",
+    "text": "# Tenant workspace\n# Verified synthetic implementation outline: tenant-scoped API authorization with integration tests\n# Dependencies: FastAPI, React, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://web-project-19-code",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "web-project-19-review",
+    "type": "review",
+    "title": "Tenant workspace",
+    "text": "Fictional client review for Tenant workspace: delivery included documented tests for tenant-scoped API authorization with integration tests. Skills observed: FastAPI, React, Docker.",
+    "source": "synthetic://web-project-19-review",
+    "approved_claims": [
+      "Built tenant-scoped API authorization with integration tests using FastAPI, React, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "id": "web-proposal-000",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-01",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/0",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-001",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-02",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/1",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-002",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-03",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/2",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-003",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-04",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/3",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-004",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-05",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/4",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-005",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-06",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/5",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-006",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-07",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/6",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-007",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-08",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/7",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-008",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-09",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/8",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-009",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-10",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/9",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-010",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-11",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/10",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-011",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-12",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/11",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-012",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-13",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/12",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-013",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-14",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/13",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-014",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/14",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-015",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-16",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/15",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-016",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-17",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/16",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-017",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-18",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/17",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-018",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-19",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/18",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-019",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-20",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/19",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-020",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-21",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/20",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-021",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-22",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/21",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-022",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-23",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/22",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-023",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-24",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/23",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-024",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-25",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/24",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-025",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-26",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/25",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-026",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-27",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/26",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-027",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-01",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/27",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-028",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-02",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/28",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-029",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-03",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/29",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-030",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-04",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/30",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-031",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-05",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/31",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-032",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-09-06",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/32",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-033",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-10-07",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/33",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-034",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-11-08",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/34",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-035",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-12-09",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/35",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-036",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-10",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/36",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-037",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-11",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/37",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-038",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-12",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/38",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-039",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-13",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/39",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-040",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-14",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/40",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-041",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/41",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-042",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-16",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/42",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-043",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-17",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/43",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-044",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-09-18",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/44",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-045",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-10-19",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/45",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-046",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-11-20",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/46",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-047",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-12-21",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/47",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-048",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-22",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/48",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-049",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-23",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/49",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-050",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-24",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/50",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-051",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-25",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/51",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-052",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-26",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/52",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-053",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-27",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/53",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-054",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-01",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/54",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-055",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-02",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/55",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-056",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-03",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/56",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-057",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-04",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/57",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-058",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-05",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/58",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-059",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-06",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/59",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-060",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-07",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/60",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-061",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-08",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/61",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-062",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-09",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/62",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-063",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-10",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/63",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-064",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-11",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/64",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-065",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-12",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/65",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-066",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-13",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/66",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-067",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-14",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/67",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-068",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-15",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/68",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-069",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-16",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/69",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-070",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-17",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/70",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-071",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-18",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/71",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-072",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-19",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/72",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-073",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-20",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/73",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-074",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-21",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/74",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-075",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-22",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/75",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-076",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-23",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/76",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-077",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-24",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/77",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-078",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-25",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/78",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-079",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-26",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/79",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-080",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-27",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/80",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-081",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-01",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/81",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-082",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-02",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/82",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-083",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-03",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/83",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-084",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-04",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/84",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-085",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-05",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/85",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-086",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-06",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/86",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-087",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-07",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/87",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-088",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-08",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/88",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-089",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-09",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/89",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-090",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-10",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/90",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-091",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-11",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/91",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-092",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-09-12",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/92",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-093",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-10-13",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/93",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-094",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-11-14",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/94",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-095",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-12-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/95",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-096",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-16",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/96",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-097",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-17",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/97",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-098",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-18",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/98",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-099",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-19",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/99",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-100",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-20",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/100",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-101",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-21",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/101",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-102",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-22",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/102",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-103",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-23",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/103",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-104",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-09-24",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/104",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-105",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-10-25",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/105",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-106",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-11-26",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/106",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-107",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-12-27",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/107",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-108",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-01",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/108",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-109",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-02",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/109",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-110",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-03",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/110",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-111",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-04",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/111",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-112",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-05",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/112",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-113",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-06",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/113",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-114",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-07",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/114",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-115",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-08",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/115",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-116",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-09",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/116",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-117",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-10",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/117",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-118",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-11",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/118",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-119",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-12",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/119",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-120",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-01-13",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/120",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-121",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-02-14",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/121",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-122",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-03-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/122",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-123",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-04-16",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/123",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-124",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-05-17",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/124",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-125",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-06-18",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/125",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-126",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-07-19",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/126",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-127",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-08-20",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/127",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-128",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-21",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/128",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-129",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-22",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/129",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-130",
+    "persona": "web",
+    "project": "web-project-10",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-23",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/130",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-131",
+    "persona": "web",
+    "project": "web-project-11",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-24",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/131",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-132",
+    "persona": "web",
+    "project": "web-project-12",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-25",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/132",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-133",
+    "persona": "web",
+    "project": "web-project-13",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-26",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/133",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-134",
+    "persona": "web",
+    "project": "web-project-14",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-27",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/134",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-135",
+    "persona": "web",
+    "project": "web-project-15",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-01",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/135",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-136",
+    "persona": "web",
+    "project": "web-project-16",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-02",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/136",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-137",
+    "persona": "web",
+    "project": "web-project-17",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-03",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/137",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-138",
+    "persona": "web",
+    "project": "web-project-18",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-07-04",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/138",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-139",
+    "persona": "web",
+    "project": "web-project-19",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-08-05",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/139",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-140",
+    "persona": "web",
+    "project": "web-project-00",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-09-06",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/140",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-141",
+    "persona": "web",
+    "project": "web-project-01",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-07",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/141",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-142",
+    "persona": "web",
+    "project": "web-project-02",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Django"
+    ],
+    "date": "2025-11-08",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Background import service",
+    "text": "I can plan idempotent CSV imports with retries and progress reporting. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Celery, Redis, Django.",
+    "source": "synthetic://web/proposal/142",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-143",
+    "persona": "web",
+    "project": "web-project-03",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Docker"
+    ],
+    "date": "2025-12-09",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Tenant workspace",
+    "text": "I can plan tenant-scoped API authorization with integration tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: FastAPI, React, Docker.",
+    "source": "synthetic://web/proposal/143",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-144",
+    "persona": "web",
+    "project": "web-project-04",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "accessibility"
+    ],
+    "date": "2025-01-10",
+    "industry": "education",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Content portal",
+    "text": "I can plan searchable content with keyboard navigation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, TypeScript, accessibility.",
+    "source": "synthetic://web/proposal/144",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-145",
+    "persona": "web",
+    "project": "web-project-05",
+    "skills": [
+      "WebSockets",
+      "React",
+      "Redis"
+    ],
+    "date": "2025-02-11",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Realtime board",
+    "text": "I can plan collaborative status updates with reconnect handling. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: WebSockets, React, Redis.",
+    "source": "synthetic://web/proposal/145",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-146",
+    "persona": "web",
+    "project": "web-project-06",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "date": "2025-03-12",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "API migration",
+    "text": "I can plan versioned endpoints with backward compatibility tests. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Node.js, PostgreSQL, Docker.",
+    "source": "synthetic://web/proposal/146",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-147",
+    "persona": "web",
+    "project": "web-project-07",
+    "skills": [
+      "OpenTelemetry",
+      "React",
+      "Prometheus"
+    ],
+    "date": "2025-04-13",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Observability console",
+    "text": "I can plan trace-linked service dashboards. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OpenTelemetry, React, Prometheus.",
+    "source": "synthetic://web/proposal/147",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-148",
+    "persona": "web",
+    "project": "web-project-08",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "date": "2025-05-14",
+    "industry": "services",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Booking platform",
+    "text": "I can plan appointment booking with role-based access and timezone support. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: React, TypeScript, PostgreSQL.",
+    "source": "synthetic://web/proposal/148",
+    "approved_claims": []
+  },
+  {
+    "id": "web-proposal-149",
+    "persona": "web",
+    "project": "web-project-09",
+    "skills": [
+      "Next.js",
+      "Stripe",
+      "PostgreSQL"
+    ],
+    "date": "2025-06-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Payments dashboard",
+    "text": "I can plan subscription management with verified webhook signatures. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Next.js, Stripe, PostgreSQL.",
+    "source": "synthetic://web/proposal/149",
+    "approved_claims": []
+  },
+  {
+    "id": "web-cv",
+    "persona": "web",
+    "project": "web-profile",
+    "skills": [
+      "Celery",
+      "Django",
+      "Docker",
+      "FastAPI",
+      "Next.js",
+      "Node.js",
+      "OpenTelemetry",
+      "PostgreSQL",
+      "Prometheus",
+      "React",
+      "Redis",
+      "Stripe",
+      "TypeScript",
+      "WebSockets",
+      "accessibility"
+    ],
+    "date": "2026-01-01",
+    "industry": "general",
+    "synthetic": true,
+    "provenance": "Fictional CV",
+    "outcome": null,
+    "type": "cv",
+    "title": "WEB synthetic CV",
+    "text": "Fictional web freelancer. Refer to individual case studies for specific work. No real person is represented.",
+    "source": "synthetic://web/cv",
+    "approved_claims": []
+  }
+]

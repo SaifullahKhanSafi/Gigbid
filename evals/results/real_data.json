@@ -1,0 +1,59 @@
+{
+  "generated_at": "2026-11-15T16:12:40.482971+00:00",
+  "dataset": "Kaggle 2024 Upwork snapshot; real third-party historical records",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "source": "https://www.kaggle.com/datasets/asaniczka/upwork-job-postings-dataset-2024-50k-records",
+  "license": "ODC Attribution License (ODC-By) 1.0",
+  "raw_csv_sha256": "e8b3a7cb1c763d7b20451d8008799b2064c0787e2bd183a52896c98a7933410a",
+  "input_rows": 53058,
+  "output_rows": 52976,
+  "duplicates_removed": 81,
+  "invalid_removed": 1,
+  "rows_pii_masked": 466,
+  "market_statistics": {
+    "source": "https://www.kaggle.com/datasets/asaniczka/upwork-job-postings-dataset-2024-50k-records",
+    "license": "ODC Attribution License (ODC-By) 1.0",
+    "train_records": 42380,
+    "holdout_records": 10596,
+    "categories": {
+      "all": {
+        "hourly_usd_median": 22.5,
+        "n_hourly": 18248,
+        "q25": 12.5,
+        "q75": 35.0
+      },
+      "ml": {
+        "hourly_usd_median": 30.0,
+        "n_hourly": 310,
+        "q25": 20.0,
+        "q75": 48.625
+      },
+      "web": {
+        "hourly_usd_median": 25.0,
+        "n_hourly": 2508,
+        "q25": 17.5,
+        "q75": 35.0
+      },
+      "data": {
+        "hourly_usd_median": 29.5,
+        "n_hourly": 217,
+        "q25": 17.5,
+        "q75": 45.0
+      }
+    },
+    "method": "80/20 chronological split; positive hourly midpoint/one available bound; reversed bands and rates outside USD 1-500 excluded; fixed budgets never pooled with hourly rates"
+  },
+  "limitations": [
+    "Third-party collection provenance, not independently audited",
+    "Historical posted budgets, not actual negotiated rates or freelancer earnings",
+    "No ground-truth fit/risk/proposal outcomes",
+    "Skills parsed from noisy RSS description; missing skills remain empty",
+    "Temporal holdout used for data isolation, not labelled quality evaluation",
+    "Do not infer client histories or Connects costs from absent fields"
+  ]
+}

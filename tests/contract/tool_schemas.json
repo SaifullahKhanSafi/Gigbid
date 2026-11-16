@@ -1,0 +1,1394 @@
+{
+  "portfolio": [
+    {
+      "name": "search_evidence",
+      "description": "Find delivered project evidence for requirements in the active persona. Returns source/date/type/outcome and approved facts; no invented credentials.",
+      "inputSchema": {
+        "properties": {
+          "requirement": {
+            "maxLength": 12000,
+            "minLength": 1,
+            "title": "Requirement",
+            "type": "string"
+          },
+          "k": {
+            "default": 5,
+            "maximum": 20,
+            "minimum": 1,
+            "title": "K",
+            "type": "integer"
+          },
+          "filters": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Filters"
+          },
+          "variant": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Variant"
+          },
+          "requirements": {
+            "anyOf": [
+              {
+                "items": {
+                  "type": "string"
+                },
+                "type": "array"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Requirements"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "requirement"
+        ],
+        "title": "search_evidenceArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "$defs": {
+          "EvidenceOutput": {
+            "additionalProperties": true,
+            "properties": {
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "persona": {
+                "title": "Persona",
+                "type": "string"
+              },
+              "type": {
+                "title": "Type",
+                "type": "string"
+              },
+              "text": {
+                "title": "Text",
+                "type": "string"
+              },
+              "source": {
+                "title": "Source",
+                "type": "string"
+              },
+              "date": {
+                "title": "Date",
+                "type": "string"
+              },
+              "project": {
+                "title": "Project",
+                "type": "string"
+              },
+              "skills": {
+                "items": {
+                  "type": "string"
+                },
+                "title": "Skills",
+                "type": "array"
+              },
+              "synthetic": {
+                "title": "Synthetic",
+                "type": "boolean"
+              },
+              "outcome": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "null"
+                  }
+                ],
+                "default": null,
+                "title": "Outcome"
+              }
+            },
+            "required": [
+              "id",
+              "persona",
+              "type",
+              "text",
+              "source",
+              "date",
+              "project",
+              "skills",
+              "synthetic"
+            ],
+            "title": "EvidenceOutput",
+            "type": "object"
+          }
+        },
+        "additionalProperties": true,
+        "properties": {
+          "items": {
+            "items": {
+              "$ref": "#/$defs/EvidenceOutput"
+            },
+            "title": "Items",
+            "type": "array"
+          }
+        },
+        "required": [
+          "items"
+        ],
+        "title": "EvidenceSearchOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "rank_team",
+      "description": "Agency mode only: rank this tenant's three fictional members by requirement evidence coverage. Never uses a job's expected persona or evaluation labels.",
+      "inputSchema": {
+        "properties": {
+          "requirement": {
+            "title": "Requirement",
+            "type": "string"
+          },
+          "requirements": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Requirements",
+            "type": "array"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "requirement",
+          "requirements"
+        ],
+        "title": "rank_teamArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "selected_persona": {
+            "title": "Selected Persona",
+            "type": "string"
+          },
+          "fit": {
+            "additionalProperties": true,
+            "title": "Fit",
+            "type": "object"
+          },
+          "member_scores": {
+            "additionalProperties": {
+              "type": "number"
+            },
+            "title": "Member Scores",
+            "type": "object"
+          }
+        },
+        "required": [
+          "selected_persona",
+          "fit",
+          "member_scores"
+        ],
+        "title": "TeamRankOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_case_study",
+      "description": "Get one full evidence item from the authenticated active persona corpus.",
+      "inputSchema": {
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "id"
+        ],
+        "title": "get_case_studyArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "persona": {
+            "title": "Persona",
+            "type": "string"
+          },
+          "type": {
+            "title": "Type",
+            "type": "string"
+          },
+          "text": {
+            "title": "Text",
+            "type": "string"
+          },
+          "source": {
+            "title": "Source",
+            "type": "string"
+          },
+          "date": {
+            "title": "Date",
+            "type": "string"
+          },
+          "project": {
+            "title": "Project",
+            "type": "string"
+          },
+          "skills": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Skills",
+            "type": "array"
+          },
+          "synthetic": {
+            "title": "Synthetic",
+            "type": "boolean"
+          },
+          "outcome": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Outcome"
+          }
+        },
+        "required": [
+          "id",
+          "persona",
+          "type",
+          "text",
+          "source",
+          "date",
+          "project",
+          "skills",
+          "synthetic"
+        ],
+        "title": "EvidenceOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "list_skills",
+      "description": "List observed portfolio skills with evidence counts, never self-asserted proficiency.",
+      "inputSchema": {
+        "properties": {
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "title": "list_skillsArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "skills": {
+            "additionalProperties": {
+              "type": "integer"
+            },
+            "title": "Skills",
+            "type": "object"
+          }
+        },
+        "required": [
+          "skills"
+        ],
+        "title": "SkillsOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    }
+  ],
+  "marketplace": [
+    {
+      "name": "search_jobs",
+      "description": "Search the configured marketplace feed. Read only; never spend Connects.",
+      "inputSchema": {
+        "properties": {
+          "query": {
+            "default": "",
+            "title": "Query",
+            "type": "string"
+          },
+          "limit": {
+            "default": 20,
+            "maximum": 100,
+            "minimum": 1,
+            "title": "Limit",
+            "type": "integer"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "title": "search_jobsArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "$defs": {
+          "JobOutput": {
+            "additionalProperties": true,
+            "properties": {
+              "id": {
+                "title": "Id",
+                "type": "string"
+              },
+              "title": {
+                "title": "Title",
+                "type": "string"
+              },
+              "description": {
+                "title": "Description",
+                "type": "string"
+              },
+              "skills": {
+                "items": {
+                  "type": "string"
+                },
+                "title": "Skills",
+                "type": "array"
+              },
+              "budget_min": {
+                "minimum": 0,
+                "title": "Budget Min",
+                "type": "number"
+              },
+              "budget_max": {
+                "minimum": 0,
+                "title": "Budget Max",
+                "type": "number"
+              }
+            },
+            "required": [
+              "id",
+              "title",
+              "description",
+              "skills",
+              "budget_min",
+              "budget_max"
+            ],
+            "title": "JobOutput",
+            "type": "object"
+          }
+        },
+        "additionalProperties": true,
+        "properties": {
+          "jobs": {
+            "items": {
+              "$ref": "#/$defs/JobOutput"
+            },
+            "title": "Jobs",
+            "type": "array"
+          }
+        },
+        "required": [
+          "jobs"
+        ],
+        "title": "JobsOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_job",
+      "description": "Load one known job ID, with original untrusted description and client reference.",
+      "inputSchema": {
+        "properties": {
+          "job_id": {
+            "title": "Job Id",
+            "type": "string"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "job_id"
+        ],
+        "title": "get_jobArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "title": {
+            "title": "Title",
+            "type": "string"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "skills": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Skills",
+            "type": "array"
+          },
+          "budget_min": {
+            "minimum": 0,
+            "title": "Budget Min",
+            "type": "number"
+          },
+          "budget_max": {
+            "minimum": 0,
+            "title": "Budget Max",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "description",
+          "skills",
+          "budget_min",
+          "budget_max"
+        ],
+        "title": "JobOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_client_history",
+      "description": "Read client spend, rating, verification and hiring history for risk/pricing.",
+      "inputSchema": {
+        "properties": {
+          "client_id": {
+            "title": "Client Id",
+            "type": "string"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "client_id"
+        ],
+        "title": "get_client_historyArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "spend": {
+            "minimum": 0,
+            "title": "Spend",
+            "type": "number"
+          },
+          "rating": {
+            "maximum": 5,
+            "minimum": 0,
+            "title": "Rating",
+            "type": "number"
+          },
+          "hires": {
+            "minimum": 0,
+            "title": "Hires",
+            "type": "integer"
+          },
+          "verified": {
+            "title": "Verified",
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "spend",
+          "rating",
+          "hires",
+          "verified"
+        ],
+        "title": "HistoryOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_connects_balance",
+      "description": "Read the authenticated user's Connects balance; no mutation.",
+      "inputSchema": {
+        "properties": {
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "title": "get_connects_balanceArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "balance": {
+            "minimum": 0,
+            "title": "Balance",
+            "type": "integer"
+          },
+          "spent": {
+            "default": 0,
+            "minimum": 0,
+            "title": "Spent",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "balance"
+        ],
+        "title": "BalanceOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "list_messages",
+      "description": "Read only the authenticated user's client conversation.",
+      "inputSchema": {
+        "properties": {
+          "conversation_id": {
+            "title": "Conversation Id",
+            "type": "string"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "conversation_id"
+        ],
+        "title": "list_messagesArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "messages": {
+            "items": {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            "title": "Messages",
+            "type": "array"
+          }
+        },
+        "required": [
+          "messages"
+        ],
+        "title": "MessagesOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "create_proposal_draft",
+      "description": "Preview or create a proposal draft; mutation requires an exact-content human approval grant.",
+      "inputSchema": {
+        "$defs": {
+          "WriteRequest": {
+            "additionalProperties": false,
+            "properties": {
+              "idempotency_key": {
+                "maxLength": 128,
+                "minLength": 12,
+                "title": "Idempotency Key",
+                "type": "string"
+              },
+              "job_id": {
+                "maxLength": 128,
+                "minLength": 1,
+                "title": "Job Id",
+                "type": "string"
+              },
+              "text": {
+                "maxLength": 12000,
+                "minLength": 1,
+                "title": "Text",
+                "type": "string"
+              },
+              "amount": {
+                "exclusiveMinimum": 0,
+                "maximum": 1000000,
+                "title": "Amount",
+                "type": "number"
+              },
+              "screening_answers": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "maxProperties": 20,
+                "title": "Screening Answers",
+                "type": "object"
+              },
+              "approval_token": {
+                "default": "",
+                "title": "Approval Token",
+                "type": "string"
+              },
+              "dry_run": {
+                "default": true,
+                "title": "Dry Run",
+                "type": "boolean"
+              },
+              "trace_id": {
+                "default": "local",
+                "maxLength": 128,
+                "title": "Trace Id",
+                "type": "string"
+              }
+            },
+            "required": [
+              "idempotency_key",
+              "job_id",
+              "text",
+              "amount"
+            ],
+            "title": "WriteRequest",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "request": {
+            "$ref": "#/$defs/WriteRequest"
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "title": "create_proposal_draftArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "action": {
+            "title": "Action",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": false,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "connects_cost": {
+            "anyOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Connects Cost"
+          },
+          "connects_spent": {
+            "default": 0,
+            "minimum": 0,
+            "title": "Connects Spent",
+            "type": "integer"
+          },
+          "payload_hash": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload Hash"
+          },
+          "payload": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload"
+          },
+          "id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Id"
+          },
+          "status": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Status"
+          }
+        },
+        "required": [
+          "action"
+        ],
+        "title": "WriteOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    },
+    {
+      "name": "submit_proposal",
+      "description": "Submit only a human-approved proposal. Idempotency key prevents duplicate Connects spend.",
+      "inputSchema": {
+        "$defs": {
+          "WriteRequest": {
+            "additionalProperties": false,
+            "properties": {
+              "idempotency_key": {
+                "maxLength": 128,
+                "minLength": 12,
+                "title": "Idempotency Key",
+                "type": "string"
+              },
+              "job_id": {
+                "maxLength": 128,
+                "minLength": 1,
+                "title": "Job Id",
+                "type": "string"
+              },
+              "text": {
+                "maxLength": 12000,
+                "minLength": 1,
+                "title": "Text",
+                "type": "string"
+              },
+              "amount": {
+                "exclusiveMinimum": 0,
+                "maximum": 1000000,
+                "title": "Amount",
+                "type": "number"
+              },
+              "screening_answers": {
+                "additionalProperties": {
+                  "type": "string"
+                },
+                "maxProperties": 20,
+                "title": "Screening Answers",
+                "type": "object"
+              },
+              "approval_token": {
+                "default": "",
+                "title": "Approval Token",
+                "type": "string"
+              },
+              "dry_run": {
+                "default": true,
+                "title": "Dry Run",
+                "type": "boolean"
+              },
+              "trace_id": {
+                "default": "local",
+                "maxLength": 128,
+                "title": "Trace Id",
+                "type": "string"
+              }
+            },
+            "required": [
+              "idempotency_key",
+              "job_id",
+              "text",
+              "amount"
+            ],
+            "title": "WriteRequest",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "request": {
+            "$ref": "#/$defs/WriteRequest"
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "title": "submit_proposalArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "action": {
+            "title": "Action",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": false,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "connects_cost": {
+            "anyOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Connects Cost"
+          },
+          "connects_spent": {
+            "default": 0,
+            "minimum": 0,
+            "title": "Connects Spent",
+            "type": "integer"
+          },
+          "payload_hash": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload Hash"
+          },
+          "payload": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload"
+          },
+          "id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Id"
+          },
+          "status": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Status"
+          }
+        },
+        "required": [
+          "action"
+        ],
+        "title": "WriteOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    },
+    {
+      "name": "send_message",
+      "description": "Send one approved client message. Preview is dry-run by default; never auto-send.",
+      "inputSchema": {
+        "$defs": {
+          "MessageRequest": {
+            "additionalProperties": false,
+            "properties": {
+              "idempotency_key": {
+                "maxLength": 128,
+                "minLength": 12,
+                "title": "Idempotency Key",
+                "type": "string"
+              },
+              "conversation_id": {
+                "maxLength": 128,
+                "minLength": 1,
+                "title": "Conversation Id",
+                "type": "string"
+              },
+              "text": {
+                "maxLength": 12000,
+                "minLength": 1,
+                "title": "Text",
+                "type": "string"
+              },
+              "approval_token": {
+                "default": "",
+                "title": "Approval Token",
+                "type": "string"
+              },
+              "dry_run": {
+                "default": true,
+                "title": "Dry Run",
+                "type": "boolean"
+              },
+              "trace_id": {
+                "default": "local",
+                "maxLength": 128,
+                "title": "Trace Id",
+                "type": "string"
+              }
+            },
+            "required": [
+              "idempotency_key",
+              "conversation_id",
+              "text"
+            ],
+            "title": "MessageRequest",
+            "type": "object"
+          }
+        },
+        "properties": {
+          "request": {
+            "$ref": "#/$defs/MessageRequest"
+          }
+        },
+        "required": [
+          "request"
+        ],
+        "title": "send_messageArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "action": {
+            "title": "Action",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": false,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "connects_cost": {
+            "anyOf": [
+              {
+                "minimum": 0,
+                "type": "integer"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Connects Cost"
+          },
+          "connects_spent": {
+            "default": 0,
+            "minimum": 0,
+            "title": "Connects Spent",
+            "type": "integer"
+          },
+          "payload_hash": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload Hash"
+          },
+          "payload": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload"
+          },
+          "id": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Id"
+          },
+          "status": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Status"
+          }
+        },
+        "required": [
+          "action"
+        ],
+        "title": "WriteOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    }
+  ],
+  "workspace": [
+    {
+      "name": "free_slots",
+      "description": "Return fictional calendar availability in UTC; this local mock is not a real calendar.",
+      "inputSchema": {
+        "properties": {
+          "days": {
+            "default": 3,
+            "title": "Days",
+            "type": "integer"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "title": "free_slotsArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "slots": {
+            "items": {
+              "additionalProperties": true,
+              "type": "object"
+            },
+            "title": "Slots",
+            "type": "array"
+          },
+          "synthetic": {
+            "title": "Synthetic",
+            "type": "boolean"
+          },
+          "timezone": {
+            "title": "Timezone",
+            "type": "string"
+          }
+        },
+        "required": [
+          "slots",
+          "synthetic",
+          "timezone"
+        ],
+        "title": "SlotsOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "create_interview_hold",
+      "description": "Preview or create an approved tentative interview hold in the local mock calendar.",
+      "inputSchema": {
+        "properties": {
+          "start": {
+            "title": "Start",
+            "type": "string"
+          },
+          "idempotency_key": {
+            "title": "Idempotency Key",
+            "type": "string"
+          },
+          "approval_token": {
+            "default": "",
+            "title": "Approval Token",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": true,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "start",
+          "idempotency_key"
+        ],
+        "title": "create_interview_holdArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "payload_hash": {
+            "title": "Payload Hash",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": false,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "payload": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload"
+          }
+        },
+        "required": [
+          "payload_hash"
+        ],
+        "title": "WorkspaceDraftOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    },
+    {
+      "name": "create_email_draft",
+      "description": "Create an approved local email draft, never deliver an email.",
+      "inputSchema": {
+        "properties": {
+          "text": {
+            "title": "Text",
+            "type": "string"
+          },
+          "idempotency_key": {
+            "title": "Idempotency Key",
+            "type": "string"
+          },
+          "approval_token": {
+            "default": "",
+            "title": "Approval Token",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": true,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "trace_id": {
+            "default": "local",
+            "title": "Trace Id",
+            "type": "string"
+          }
+        },
+        "required": [
+          "text",
+          "idempotency_key"
+        ],
+        "title": "create_email_draftArguments",
+        "type": "object"
+      },
+      "outputSchema": {
+        "additionalProperties": true,
+        "properties": {
+          "payload_hash": {
+            "title": "Payload Hash",
+            "type": "string"
+          },
+          "dry_run": {
+            "default": false,
+            "title": "Dry Run",
+            "type": "boolean"
+          },
+          "payload": {
+            "anyOf": [
+              {
+                "additionalProperties": true,
+                "type": "object"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Payload"
+          }
+        },
+        "required": [
+          "payload_hash"
+        ],
+        "title": "WorkspaceDraftOutput",
+        "type": "object"
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": false,
+        "idempotentHint": true,
+        "openWorldHint": true
+      }
+    }
+  ]
+}

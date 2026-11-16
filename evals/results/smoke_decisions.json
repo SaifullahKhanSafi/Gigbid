@@ -1,0 +1,530 @@
+{
+  "generated_at": "2026-11-15T17:21:21.585964+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "summary": {
+    "all": {
+      "jobs": 30,
+      "bid_f1": 1.0,
+      "bid_accuracy": 1.0,
+      "scam_precision": 1.0,
+      "scam_recall": 1.0,
+      "price_in_band": 0.9,
+      "p95_seconds": 0.0693156550002186
+    },
+    "ml": {
+      "jobs": 10,
+      "bid_f1": 1.0,
+      "bid_accuracy": 1.0,
+      "scam_precision": 1.0,
+      "scam_recall": 1.0,
+      "price_in_band": 0.9,
+      "p95_seconds": 13.521599894999664
+    },
+    "web": {
+      "jobs": 10,
+      "bid_f1": 1.0,
+      "bid_accuracy": 1.0,
+      "scam_precision": 1.0,
+      "scam_recall": 1.0,
+      "price_in_band": 0.9,
+      "p95_seconds": 0.06019874499997965
+    },
+    "data": {
+      "jobs": 10,
+      "bid_f1": 1.0,
+      "bid_accuracy": 1.0,
+      "scam_precision": 1.0,
+      "scam_recall": 1.0,
+      "price_in_band": 0.9,
+      "p95_seconds": 0.054827230000319076
+    }
+  },
+  "rows": [
+    {
+      "id": "dev-ml-0000",
+      "persona": "ml",
+      "pred_bid": false,
+      "gold_bid": false,
+      "pred_scam": true,
+      "gold_scam": true,
+      "price": 20.0,
+      "in_fair_band": false,
+      "seconds": 24.54691709999952,
+      "decision_reasons": [
+        "Risk exceeds configured limit",
+        "Portfolio coverage below configured threshold",
+        "Client ceiling below your minimum rate"
+      ]
+    },
+    {
+      "id": "dev-web-0000",
+      "persona": "web",
+      "pred_bid": false,
+      "gold_bid": false,
+      "pred_scam": true,
+      "gold_scam": true,
+      "price": 20.0,
+      "in_fair_band": false,
+      "seconds": 0.07083400000010442,
+      "decision_reasons": [
+        "Risk exceeds configured limit",
+        "Portfolio coverage below configured threshold",
+        "Client ceiling below your minimum rate"
+      ]
+    },
+    {
+      "id": "dev-data-0000",
+      "persona": "data",
+      "pred_bid": false,
+      "gold_bid": false,
+      "pred_scam": true,
+      "gold_scam": true,
+      "price": 20.0,
+      "in_fair_band": false,
+      "seconds": 0.06745990000035818,
+      "decision_reasons": [
+        "Risk exceeds configured limit",
+        "Portfolio coverage below configured threshold",
+        "Client ceiling below your minimum rate"
+      ]
+    },
+    {
+      "id": "dev-ml-0001",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 67.0,
+      "in_fair_band": true,
+      "seconds": 0.04419190000044182,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0001",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 52.0,
+      "in_fair_band": true,
+      "seconds": 0.047200099999827216,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0001",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 45.0,
+      "in_fair_band": true,
+      "seconds": 0.03938730000027135,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0002",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 52.0,
+      "in_fair_band": true,
+      "seconds": 0.046212199999899894,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0002",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 45.0,
+      "in_fair_band": true,
+      "seconds": 0.016799600000013015,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0002",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 41.0,
+      "in_fair_band": true,
+      "seconds": 0.03581819999999425,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0003",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 77.0,
+      "in_fair_band": true,
+      "seconds": 0.016882799999621056,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0003",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 52.0,
+      "in_fair_band": true,
+      "seconds": 0.03957330000048387,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0003",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 73.0,
+      "in_fair_band": true,
+      "seconds": 0.03156519999993179,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0004",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 58.0,
+      "in_fair_band": true,
+      "seconds": 0.01667780000025232,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0004",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 73.0,
+      "in_fair_band": true,
+      "seconds": 0.017064599999685015,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0004",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 80.0,
+      "in_fair_band": true,
+      "seconds": 0.017073899999559217,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0005",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 57.0,
+      "in_fair_band": true,
+      "seconds": 0.04249889999937295,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0005",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 54.0,
+      "in_fair_band": true,
+      "seconds": 0.02742149999994581,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0005",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 77.0,
+      "in_fair_band": true,
+      "seconds": 0.03712009999981092,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0006",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 54.0,
+      "in_fair_band": true,
+      "seconds": 0.036744800000633404,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0006",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 42.0,
+      "in_fair_band": true,
+      "seconds": 0.01689269999951648,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0006",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 63.0,
+      "in_fair_band": true,
+      "seconds": 0.02696230000037758,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0007",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 53.0,
+      "in_fair_band": true,
+      "seconds": 0.016244299999925715,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0007",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 78.0,
+      "in_fair_band": true,
+      "seconds": 0.031256199999916134,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0007",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 77.0,
+      "in_fair_band": true,
+      "seconds": 0.03665770000043267,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0008",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 41.0,
+      "in_fair_band": true,
+      "seconds": 0.026948800000354822,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0008",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 45.0,
+      "in_fair_band": true,
+      "seconds": 0.02676309999969817,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0008",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 42.0,
+      "in_fair_band": true,
+      "seconds": 0.03090269999938755,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-ml-0009",
+      "persona": "ml",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 50.0,
+      "in_fair_band": true,
+      "seconds": 0.016933699999754026,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-web-0009",
+      "persona": "web",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 60.0,
+      "in_fair_band": true,
+      "seconds": 0.016929399999753514,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    },
+    {
+      "id": "dev-data-0009",
+      "persona": "data",
+      "pred_bid": true,
+      "gold_bid": true,
+      "pred_scam": false,
+      "gold_scam": false,
+      "price": 58.0,
+      "in_fair_band": true,
+      "seconds": 0.01664829999936046,
+      "decision_reasons": [
+        "Relevant portfolio evidence and acceptable risk"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "id": "dev-ml-0000",
+      "persona": "ml",
+      "pred_bid": false,
+      "gold_bid": false,
+      "pred_scam": true,
+      "gold_scam": true,
+      "price": 20.0,
+      "in_fair_band": false,
+      "seconds": 24.54691709999952,
+      "decision_reasons": [
+        "Risk exceeds configured limit",
+        "Portfolio coverage below configured threshold",
+        "Client ceiling below your minimum rate"
+      ]
+    },
+    {
+      "id": "dev-web-0000",
+      "persona": "web",
+      "pred_bid": false,
+      "gold_bid": false,
+      "pred_scam": true,
+      "gold_scam": true,
+      "price": 20.0,
+      "in_fair_band": false,
+      "seconds": 0.07083400000010442,
+      "decision_reasons": [
+        "Risk exceeds configured limit",
+        "Portfolio coverage below configured threshold",
+        "Client ceiling below your minimum rate"
+      ]
+    },
+    {
+      "id": "dev-data-0000",
+      "persona": "data",
+      "pred_bid": false,
+      "gold_bid": false,
+      "pred_scam": true,
+      "gold_scam": true,
+      "price": 20.0,
+      "in_fair_band": false,
+      "seconds": 0.06745990000035818,
+      "decision_reasons": [
+        "Risk exceeds configured limit",
+        "Portfolio coverage below configured threshold",
+        "Client ceiling below your minimum rate"
+      ]
+    }
+  ],
+  "limitations": [
+    "Rule-derived synthetic labels share definitions with guardrails",
+    "This evaluates pure decisions, not complete model graph latency"
+  ]
+}

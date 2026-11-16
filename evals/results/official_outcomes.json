@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-15T16:13:25.805371+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "status": "blocked_missing_official_service",
+  "reply_rate": null,
+  "hire_rate": null,
+  "hidden_test": null,
+  "reason": "Instructor GigSim URL, specification, dev client preferences and hidden runner were not supplied."
+}

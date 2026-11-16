@@ -1,0 +1,1781 @@
+{
+  "generated_at": "2026-11-15T16:18:16.395310+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "status": "complete",
+  "model": "qwen2.5:1.5b",
+  "summary": {
+    "fine": {
+      "n": 40,
+      "selection_accuracy": 0.875,
+      "argument_accuracy": 0.875,
+      "mean_tokens": 288.525,
+      "p95_seconds": 0.16287036499991242
+    },
+    "coarse": {
+      "n": 40,
+      "selection_accuracy": 0.7,
+      "argument_accuracy": 0.45,
+      "mean_tokens": 253.65,
+      "p95_seconds": 0.25136691499999414
+    },
+    "rewritten": {
+      "n": 40,
+      "selection_accuracy": 1.0,
+      "argument_accuracy": 0.925,
+      "mean_tokens": 452.65,
+      "p95_seconds": 0.14622767499995462
+    }
+  },
+  "rows": [
+    {
+      "design": "fine",
+      "task_id": 0,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 293,
+      "seconds": 0.2818488999996589,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 1,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 291,
+      "seconds": 0.1624870999999075,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 2,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 279,
+      "seconds": 0.11298999999962689,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 3,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 280,
+      "seconds": 0.12155689999963215,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 4,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 288,
+      "seconds": 0.13740099999995437,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 5,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 293,
+      "seconds": 0.15577339999981632,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 6,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 279,
+      "seconds": 0.12569840000014665,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 7,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 286,
+      "seconds": 0.11765629999990779,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 8,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 299,
+      "seconds": 0.1278983000001972,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 9,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 297,
+      "seconds": 0.14872269999978016,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 10,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 285,
+      "seconds": 0.1701524000000063,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 11,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 286,
+      "seconds": 0.10681420000037178,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 12,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 294,
+      "seconds": 0.12562079999997877,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 13,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 299,
+      "seconds": 0.1325568000002022,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 14,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 285,
+      "seconds": 0.11286340000015116,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 15,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 292,
+      "seconds": 0.09434069999997519,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 16,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 293,
+      "seconds": 0.15144529999997758,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 17,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 291,
+      "seconds": 0.14348849999987578,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 18,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 279,
+      "seconds": 0.12986869999986084,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 19,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 280,
+      "seconds": 0.12506329999996524,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 20,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 288,
+      "seconds": 0.13699429999996937,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 21,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 293,
+      "seconds": 0.14822189999995317,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 22,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 279,
+      "seconds": 0.1283485999997538,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 23,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 286,
+      "seconds": 0.09545870000010837,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 24,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 299,
+      "seconds": 0.12579630000027464,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 25,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 297,
+      "seconds": 0.14469110000027285,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 26,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 285,
+      "seconds": 0.13886790000015026,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 27,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 286,
+      "seconds": 0.15543049999996583,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 28,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 294,
+      "seconds": 0.13319559999990815,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 29,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 299,
+      "seconds": 0.13401930000009088,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 30,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 285,
+      "seconds": 0.11590440000009039,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 31,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 292,
+      "seconds": 0.10965780000015002,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 32,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 293,
+      "seconds": 0.1438423999998122,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 33,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 291,
+      "seconds": 0.14987810000002355,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 34,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 279,
+      "seconds": 0.11539270000002944,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 35,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 280,
+      "seconds": 0.1228201000003537,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 36,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 288,
+      "seconds": 0.16163449999976365,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 37,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 293,
+      "seconds": 0.1520024999999805,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 38,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 279,
+      "seconds": 0.11985499999991589,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "fine",
+      "task_id": 39,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 286,
+      "seconds": 0.09061590000010256,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 0,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 260,
+      "seconds": 0.2476394000000255,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "job_id": "demo-ml-0001"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 1,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 256,
+      "seconds": 0.2118575000004057,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_client_history",
+          "parameters": {
+            "client_id": "client-ml-1"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 2,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 244,
+      "seconds": 0.20038739999972677,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_connects_balance",
+          "parameters": {}
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 3,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 246,
+      "seconds": 0.19417229999999108,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "search_jobs",
+          "parameters": {
+            "query": "Python"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 4,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 251,
+      "seconds": 0.19240050000007614,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "list_messages",
+          "parameters": {
+            "conversation_thread": "12"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 5,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 260,
+      "seconds": 0.22989430000006905,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_case_study",
+          "parameters": {
+            "case_study_id": "ml-project-00-case_study"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 6,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 243,
+      "seconds": 0.16973389999975552,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "list_skills",
+          "parameters": []
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 7,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 250,
+      "seconds": 0.19611729999996896,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "free_slots",
+          "parameters": {
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 8,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 266,
+      "seconds": 0.22895659999994677,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "job_id": "demo-ml-0001"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 9,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 262,
+      "seconds": 0.22238879999986239,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_client_history",
+          "parameters": {
+            "client_id": "client-ml-1"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 10,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 250,
+      "seconds": 0.1750142999999298,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_connects_balance",
+          "parameters": {}
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 11,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 252,
+      "seconds": 0.18412110000008397,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "keyword": "Python"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 12,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 257,
+      "seconds": 0.206495299999915,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "list_messages",
+          "parameters": {
+            "conversation_thread": "12"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 13,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 266,
+      "seconds": 0.2516997000002448,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_case_study",
+          "parameters": {
+            "case_study_id": "ml-project-00-case_study"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 14,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 249,
+      "seconds": 0.18353549999983443,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "list_skills",
+          "parameters": []
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 15,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 256,
+      "seconds": 0.18863089999967997,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "free_slots",
+          "parameters": {
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 16,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 260,
+      "seconds": 0.23818349999964994,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "job_id": "demo-ml-0001"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 17,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 256,
+      "seconds": 0.22177149999970425,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_client_history",
+          "parameters": {
+            "client_id": "client-ml-1"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 18,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 244,
+      "seconds": 0.18471899999985908,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_connects_balance",
+          "parameters": {}
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 19,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 246,
+      "seconds": 0.2161167999997815,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "search_jobs",
+          "parameters": {
+            "query": "Python"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 20,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 251,
+      "seconds": 0.1867408000002797,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "list_messages",
+          "parameters": {
+            "conversation_thread": "12"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 21,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 260,
+      "seconds": 0.24362669999982245,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_case_study",
+          "parameters": {
+            "case_study_id": "ml-project-00-case_study"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 22,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 243,
+      "seconds": 0.15859939999972994,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "list_skills",
+          "parameters": []
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 23,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 250,
+      "seconds": 0.1991931000002296,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "free_slots",
+          "parameters": {
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 24,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 266,
+      "seconds": 0.2388116999995873,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "job_id": "demo-ml-0001"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 25,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 262,
+      "seconds": 0.2425029999999424,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_client_history",
+          "parameters": {
+            "client_id": "client-ml-1"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 26,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 250,
+      "seconds": 0.17296740000028876,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_connects_balance",
+          "parameters": {}
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 27,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 252,
+      "seconds": 0.1854072000000997,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "keyword": "Python"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 28,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 257,
+      "seconds": 0.1916775999998208,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "list_messages",
+          "parameters": {
+            "conversation_thread": "12"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 29,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 266,
+      "seconds": 0.25134939999998096,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_case_study",
+          "parameters": {
+            "case_study_id": "ml-project-00-case_study"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 30,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 249,
+      "seconds": 0.16732490000003963,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "list_skills",
+          "parameters": []
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 31,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 256,
+      "seconds": 0.21461760000011054,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "free_slots",
+          "parameters": {
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 32,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 260,
+      "seconds": 0.23629110000001674,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_job",
+          "parameters": {
+            "job_id": "demo-ml-0001"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 33,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 256,
+      "seconds": 0.20804679999992004,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_client_history",
+          "parameters": {
+            "client_id": "client-ml-1"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 34,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 244,
+      "seconds": 0.1762087000001884,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "get_connects_balance",
+          "parameters": {}
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 35,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 246,
+      "seconds": 0.21563540000033754,
+      "output": {
+        "tool": "marketplace_read",
+        "arguments": {
+          "operation": "search_jobs",
+          "parameters": {
+            "query": "Python"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 36,
+      "selection_correct": false,
+      "arguments_correct": false,
+      "tokens": 251,
+      "seconds": 0.18874649999997928,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "list_messages",
+          "parameters": {
+            "conversation_thread": "12"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 37,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 260,
+      "seconds": 0.2662049999998999,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "get_case_study",
+          "parameters": {
+            "case_study_id": "ml-project-00-case_study"
+          }
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 38,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 243,
+      "seconds": 0.15637530000003608,
+      "output": {
+        "tool": "portfolio_read",
+        "arguments": {
+          "operation": "list_skills",
+          "parameters": []
+        }
+      }
+    },
+    {
+      "design": "coarse",
+      "task_id": 39,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 250,
+      "seconds": 0.19554530000004888,
+      "output": {
+        "tool": "workspace_read",
+        "arguments": {
+          "operation": "free_slots",
+          "parameters": {
+            "days": 3
+          }
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 0,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 458,
+      "seconds": 0.163401100000101,
+      "output": {
+        "tool": "get_job",
+        "arguments": {
+          "job_id": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 1,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 455,
+      "seconds": 0.12781589999985954,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 2,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 443,
+      "seconds": 0.12011200000006284,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 3,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 444,
+      "seconds": 0.10193829999980153,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 4,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 452,
+      "seconds": 0.11793959999977233,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "conversation-12"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 5,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 457,
+      "seconds": 0.13542640000014217,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 6,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 443,
+      "seconds": 0.11091019999958007,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 7,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 450,
+      "seconds": 0.10403539999970235,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 8,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 464,
+      "seconds": 0.13670270000011442,
+      "output": {
+        "tool": "get_job",
+        "arguments": {
+          "job_id": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 9,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 461,
+      "seconds": 0.12722519999988435,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 10,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 449,
+      "seconds": 0.12721119999969233,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 11,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 450,
+      "seconds": 0.128436800000145,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 12,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 458,
+      "seconds": 0.1461899999999332,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 13,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 463,
+      "seconds": 0.13365100000009988,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 14,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 449,
+      "seconds": 0.11053270000002158,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 15,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 456,
+      "seconds": 0.0982904000002236,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 16,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 458,
+      "seconds": 0.13683670000000347,
+      "output": {
+        "tool": "get_job",
+        "arguments": {
+          "job_id": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 17,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 455,
+      "seconds": 0.13087850000010803,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 18,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 443,
+      "seconds": 0.1232970999999452,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 19,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 444,
+      "seconds": 0.10068209999963074,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 20,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 452,
+      "seconds": 0.12488189999976385,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "conversation-12"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 21,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 457,
+      "seconds": 0.13296360000003915,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 22,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 443,
+      "seconds": 0.11567890000014813,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 23,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 450,
+      "seconds": 0.10368669999979829,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 24,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 464,
+      "seconds": 0.13818209999999453,
+      "output": {
+        "tool": "get_job",
+        "arguments": {
+          "job_id": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 25,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 461,
+      "seconds": 0.12912240000014208,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 26,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 449,
+      "seconds": 0.13129109999999855,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 27,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 450,
+      "seconds": 0.13634909999973388,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 28,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 458,
+      "seconds": 0.14694350000036138,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "thread-12"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 29,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 463,
+      "seconds": 0.1321648000002824,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 30,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 449,
+      "seconds": 0.11444800000026589,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 31,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 456,
+      "seconds": 0.10000070000023698,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 32,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 458,
+      "seconds": 0.13674600000013015,
+      "output": {
+        "tool": "get_job",
+        "arguments": {
+          "job_id": "demo-ml-0001"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 33,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 455,
+      "seconds": 0.12984910000022865,
+      "output": {
+        "tool": "get_client_history",
+        "arguments": {
+          "client_id": "client-ml-1"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 34,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 443,
+      "seconds": 0.13742320000028485,
+      "output": {
+        "tool": "get_connects_balance",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 35,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 444,
+      "seconds": 0.10353370000029827,
+      "output": {
+        "tool": "search_jobs",
+        "arguments": {
+          "query": "Python"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 36,
+      "selection_correct": true,
+      "arguments_correct": false,
+      "tokens": 452,
+      "seconds": 0.11855719999994108,
+      "output": {
+        "tool": "list_messages",
+        "arguments": {
+          "conversation_id": "conversation-12"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 37,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 457,
+      "seconds": 0.1327857999999651,
+      "output": {
+        "tool": "get_case_study",
+        "arguments": {
+          "id": "ml-project-00-case_study"
+        }
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 38,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 443,
+      "seconds": 0.1088462000002437,
+      "output": {
+        "tool": "list_skills",
+        "arguments": {}
+      }
+    },
+    {
+      "design": "rewritten",
+      "task_id": 39,
+      "selection_correct": true,
+      "arguments_correct": true,
+      "tokens": 450,
+      "seconds": 0.10119209999993473,
+      "output": {
+        "tool": "free_slots",
+        "arguments": {
+          "days": 3
+        }
+      }
+    }
+  ],
+  "limitations": [
+    "Synthetic repeated tasks; limited linguistic diversity",
+    "JSON tool selection, not native tool-call execution; actual schemas are separately tested through MCP"
+  ]
+}

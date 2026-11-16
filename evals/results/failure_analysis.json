@@ -1,0 +1,725 @@
+{
+  "failures": [
+    {
+      "job_id": "dev-ml-0000",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=8",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0000",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0000",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0001",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0001",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0001",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0002",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0002",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=3",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0002",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0003",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=3",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0003",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0003",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0004",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=6",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0004",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0004",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=3",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0005",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0005",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=6",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0005",
+      "architecture": "single_react",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0006",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0006",
+      "architecture": "single_react",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0006",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0007",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0007",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0007",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0008",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=6",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0008",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0008",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0009",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0009",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0009",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=3",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0010",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0010",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0010",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0011",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0011",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0011",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0012",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0012",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=3",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0012",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0013",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0014",
+      "architecture": "single_react",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0014",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0014",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0015",
+      "architecture": "single_react",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0015",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0015",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0016",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0016",
+      "architecture": "single_react",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0001",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0001",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0001",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0002",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0002",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0002",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0003",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0003",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0003",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0004",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0004",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0004",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0005",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0005",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0005",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0006",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0006",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0006",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0007",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0007",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0007",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0008",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0008",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0008",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0009",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=2",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0009",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=5",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0009",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0010",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0010",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0010",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0012",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=3",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0012",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0012",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0013",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=False, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0014",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0014",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0014",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0015",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0015",
+      "architecture": "prebuilt_supervisor",
+      "category": "wrong_decision",
+      "observed": "gold_bid=True, predicted_bid=False, rejected_claims=0",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-data-0015",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-ml-0016",
+      "architecture": "prebuilt_supervisor",
+      "category": "unverified_claim",
+      "observed": "gold_bid=True, predicted_bid=True, rejected_claims=1",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    },
+    {
+      "job_id": "dev-web-0016",
+      "architecture": "prebuilt_supervisor",
+      "category": "tool_or_structured_output",
+      "observed": "unhandled errors in a TaskGroup (1 sub-exception)",
+      "source": "architectures.json",
+      "fix": "Explicit outer schema fixed integration errors; output-length/model failures remain counted. Conservative verification and deterministic risk/fit address unsafe drafts, with human review still required."
+    }
+  ],
+  "note": "Actual failed synthetic dev executions, not invented cases; source rows retain text/errors."
+}

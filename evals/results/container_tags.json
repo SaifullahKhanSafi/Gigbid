@@ -1,0 +1,14 @@
+[
+  {
+    "image": "qdrant/qdrant:v1.16.0",
+    "http_status": 200
+  },
+  {
+    "image": "ollama/ollama:0.40.13",
+    "http_status": 200
+  },
+  {
+    "image": "arizephoenix/phoenix:version-12.13.0",
+    "http_status": 200
+  }
+]

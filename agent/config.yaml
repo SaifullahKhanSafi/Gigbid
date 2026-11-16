@@ -1,0 +1,58 @@
+marketplace:
+  mode: local_sim
+  requests_per_minute: 18
+  schedule_minutes: 240
+models:
+  profile: open
+  profiles:
+    open:
+      provider: ollama
+      router: qwen2.5:1.5b
+      writer: qwen2.5:7b-instruct
+      critic: qwen2.5:7b-instruct
+      liaison: qwen2.5:7b-instruct
+    open_small:
+      provider: ollama
+      router: qwen2.5:0.5b
+      writer: qwen2.5:0.5b
+      critic: qwen2.5:0.5b
+      liaison: qwen2.5:0.5b
+    paid:
+      enabled: false
+    comparison:
+      provider: ollama
+      router: qwen2.5:1.5b
+      writer: qwen2.5:1.5b
+      critic: qwen2.5:1.5b
+      liaison: qwen2.5:1.5b
+  nodes:
+    scout: router
+    analyst: router
+    risk: router
+    fit: router
+    pricing: router
+    writer: writer
+    critic: critic
+    liaison: liaison
+  embeddings: sentence-transformers/all-MiniLM-L6-v2
+  reranker: cross-encoder/ms-marco-MiniLM-L6-v2
+rag:
+  variant: V1
+  chunk_words: 110
+  overlap_words: 20
+  corrective_threshold: 0.28
+  top_k: 5
+budgets:
+  max_graph_steps: 40
+  max_revisions: 2
+  max_tokens_per_job: 12000
+  p95_job_seconds: 90
+  p95_proposal_seconds: 120
+  api_usd_per_proposal: 0
+thresholds:
+  minimum_fit: 0.45
+  maximum_risk: 0.7
+memory:
+  style_min_confirmations: 3
+  outcome_min_observations: 5
+  outcome_min_reply_rate: 0.4

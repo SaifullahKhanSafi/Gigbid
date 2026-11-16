@@ -1,0 +1,32 @@
+{
+  "generated_at": "2026-11-16T14:33:36.056124+00:00",
+  "python_tests": {
+    "passed": 28,
+    "failures": 0,
+    "exit_code": 0,
+    "source": "python-tests.xml"
+  },
+  "browser_tests": {
+    "startTime": "2026-11-16T14:31:55.213Z",
+    "duration": 44375.929000000004,
+    "expected": 6,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "frontend_build": {
+    "exit_code": 0
+  },
+  "ruff": {
+    "exit_code": 0
+  },
+  "uv_lock_check": {
+    "exit_code": 0
+  },
+  "docker_compose_config": {
+    "exit_code": 0,
+    "container_startup_verified": false
+  },
+  "official_gigsim": false,
+  "human_evaluation_completed": false
+}

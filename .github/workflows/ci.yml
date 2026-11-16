@@ -1,0 +1,25 @@
+name: test
+on: [pull_request, push]
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22', cache: npm, cache-dependency-path: apps/web/package-lock.json}
+      - run: pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cpu
+      - run: pip install '.[dev]'
+      - run: python -m scripts.seed_data
+      - run: python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')"
+      - run: python -m scripts.ci_guard
+      - run: ruff check .
+      - run: python -m pytest -q
+        env: {HF_HUB_OFFLINE: '0'}
+      - run: npm ci && npm run generate:api && npm run build && npx playwright install --with-deps chrome && npm run test:e2e
+        working-directory: apps/web
+        env: {HF_HUB_OFFLINE: '0', GIGBID_PYTHON: python}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: browser-report, path: apps/web/playwright-report}

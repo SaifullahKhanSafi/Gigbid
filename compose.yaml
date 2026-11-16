@@ -1,0 +1,3 @@
+name: gigbid
+include:
+  - ./infra/docker-compose.yml

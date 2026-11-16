@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-15T16:52:35.955860+00:00",
+  "dataset": "synthetic_dev; NOT official GigSim",
+  "hardware": {
+    "platform": "Windows-11-10.0.26200-SP0",
+    "torch": "2.6.0+cu124",
+    "cuda": true,
+    "gpu": "NVIDIA GeForce RTX 3070"
+  },
+  "status": "local rehearsal, not official November 2 update",
+  "before_connects": 10,
+  "after_connects": 12,
+  "validation_seconds": 0.005695299999388226,
+  "engineering_edit_time": null,
+  "production_source_files_changed": 0,
+  "configuration_diff": "--- local_policy.yaml\n\n+++ local_rehearsal.yaml\n\n@@ -1,4 +1,4 @@\n\n-connects_surcharge: 0\n+connects_surcharge: 2\n forbidden_patterns:\n - (?i)\\b(?:whatsapp|telegram|wire transfer|pay outside|off.platform payment)\\b\n - (?i)\\b(?:guarantee(?:d)? results|100% success|unpaid production)\\b\n@@ -14,4 +14,4 @@\n\n scam_patterns:\n - (?i)(?:telegram|whatsapp|wire transfer|crypto deposit|pay.{0,20}registration|unpaid\n   (?:test|trial)|free production)\n-version: local-demonstration-1\n+version: local-rehearsal-2",
+  "official_update_result": null
+}

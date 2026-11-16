@@ -1,0 +1,18 @@
+{
+  "video_seconds": 180.0,
+  "fps": 4,
+  "frames": 720,
+  "mode": {
+    "status": "ok",
+    "marketplace": "available",
+    "mode": "local_sim",
+    "model_mode": "ollama",
+    "official_assets": false
+  },
+  "run_ids": [
+    "58a55db22a2a4b6385faed795e1210f2",
+    "1e58629e42f84681a3e0b5902f35d51d",
+    "06e6197ef7914c26a45761ca4179322c"
+  ],
+  "recording": "Automated capture of real local UI/model executions, with labelled synthetic marketplace approval actions."
+}

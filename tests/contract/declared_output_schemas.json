@@ -1,0 +1,736 @@
+{
+  "portfolio.search_evidence": {
+    "$defs": {
+      "EvidenceOutput": {
+        "additionalProperties": true,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "persona": {
+            "title": "Persona",
+            "type": "string"
+          },
+          "type": {
+            "title": "Type",
+            "type": "string"
+          },
+          "text": {
+            "title": "Text",
+            "type": "string"
+          },
+          "source": {
+            "title": "Source",
+            "type": "string"
+          },
+          "date": {
+            "title": "Date",
+            "type": "string"
+          },
+          "project": {
+            "title": "Project",
+            "type": "string"
+          },
+          "skills": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Skills",
+            "type": "array"
+          },
+          "synthetic": {
+            "title": "Synthetic",
+            "type": "boolean"
+          },
+          "outcome": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "null"
+              }
+            ],
+            "default": null,
+            "title": "Outcome"
+          }
+        },
+        "required": [
+          "id",
+          "persona",
+          "type",
+          "text",
+          "source",
+          "date",
+          "project",
+          "skills",
+          "synthetic"
+        ],
+        "title": "EvidenceOutput",
+        "type": "object"
+      }
+    },
+    "additionalProperties": true,
+    "properties": {
+      "items": {
+        "items": {
+          "$ref": "#/$defs/EvidenceOutput"
+        },
+        "title": "Items",
+        "type": "array"
+      }
+    },
+    "required": [
+      "items"
+    ],
+    "title": "EvidenceSearchOutput",
+    "type": "object"
+  },
+  "portfolio.rank_team": {
+    "additionalProperties": true,
+    "properties": {
+      "selected_persona": {
+        "title": "Selected Persona",
+        "type": "string"
+      },
+      "fit": {
+        "additionalProperties": true,
+        "title": "Fit",
+        "type": "object"
+      },
+      "member_scores": {
+        "additionalProperties": {
+          "type": "number"
+        },
+        "title": "Member Scores",
+        "type": "object"
+      }
+    },
+    "required": [
+      "selected_persona",
+      "fit",
+      "member_scores"
+    ],
+    "title": "TeamRankOutput",
+    "type": "object"
+  },
+  "portfolio.get_case_study": {
+    "additionalProperties": true,
+    "properties": {
+      "id": {
+        "title": "Id",
+        "type": "string"
+      },
+      "persona": {
+        "title": "Persona",
+        "type": "string"
+      },
+      "type": {
+        "title": "Type",
+        "type": "string"
+      },
+      "text": {
+        "title": "Text",
+        "type": "string"
+      },
+      "source": {
+        "title": "Source",
+        "type": "string"
+      },
+      "date": {
+        "title": "Date",
+        "type": "string"
+      },
+      "project": {
+        "title": "Project",
+        "type": "string"
+      },
+      "skills": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Skills",
+        "type": "array"
+      },
+      "synthetic": {
+        "title": "Synthetic",
+        "type": "boolean"
+      },
+      "outcome": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Outcome"
+      }
+    },
+    "required": [
+      "id",
+      "persona",
+      "type",
+      "text",
+      "source",
+      "date",
+      "project",
+      "skills",
+      "synthetic"
+    ],
+    "title": "EvidenceOutput",
+    "type": "object"
+  },
+  "portfolio.list_skills": {
+    "additionalProperties": true,
+    "properties": {
+      "skills": {
+        "additionalProperties": {
+          "type": "integer"
+        },
+        "title": "Skills",
+        "type": "object"
+      }
+    },
+    "required": [
+      "skills"
+    ],
+    "title": "SkillsOutput",
+    "type": "object"
+  },
+  "marketplace.search_jobs": {
+    "$defs": {
+      "JobOutput": {
+        "additionalProperties": true,
+        "properties": {
+          "id": {
+            "title": "Id",
+            "type": "string"
+          },
+          "title": {
+            "title": "Title",
+            "type": "string"
+          },
+          "description": {
+            "title": "Description",
+            "type": "string"
+          },
+          "skills": {
+            "items": {
+              "type": "string"
+            },
+            "title": "Skills",
+            "type": "array"
+          },
+          "budget_min": {
+            "minimum": 0,
+            "title": "Budget Min",
+            "type": "number"
+          },
+          "budget_max": {
+            "minimum": 0,
+            "title": "Budget Max",
+            "type": "number"
+          }
+        },
+        "required": [
+          "id",
+          "title",
+          "description",
+          "skills",
+          "budget_min",
+          "budget_max"
+        ],
+        "title": "JobOutput",
+        "type": "object"
+      }
+    },
+    "additionalProperties": true,
+    "properties": {
+      "jobs": {
+        "items": {
+          "$ref": "#/$defs/JobOutput"
+        },
+        "title": "Jobs",
+        "type": "array"
+      }
+    },
+    "required": [
+      "jobs"
+    ],
+    "title": "JobsOutput",
+    "type": "object"
+  },
+  "marketplace.get_job": {
+    "additionalProperties": true,
+    "properties": {
+      "id": {
+        "title": "Id",
+        "type": "string"
+      },
+      "title": {
+        "title": "Title",
+        "type": "string"
+      },
+      "description": {
+        "title": "Description",
+        "type": "string"
+      },
+      "skills": {
+        "items": {
+          "type": "string"
+        },
+        "title": "Skills",
+        "type": "array"
+      },
+      "budget_min": {
+        "minimum": 0,
+        "title": "Budget Min",
+        "type": "number"
+      },
+      "budget_max": {
+        "minimum": 0,
+        "title": "Budget Max",
+        "type": "number"
+      }
+    },
+    "required": [
+      "id",
+      "title",
+      "description",
+      "skills",
+      "budget_min",
+      "budget_max"
+    ],
+    "title": "JobOutput",
+    "type": "object"
+  },
+  "marketplace.get_client_history": {
+    "additionalProperties": true,
+    "properties": {
+      "spend": {
+        "minimum": 0,
+        "title": "Spend",
+        "type": "number"
+      },
+      "rating": {
+        "maximum": 5,
+        "minimum": 0,
+        "title": "Rating",
+        "type": "number"
+      },
+      "hires": {
+        "minimum": 0,
+        "title": "Hires",
+        "type": "integer"
+      },
+      "verified": {
+        "title": "Verified",
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "spend",
+      "rating",
+      "hires",
+      "verified"
+    ],
+    "title": "HistoryOutput",
+    "type": "object"
+  },
+  "marketplace.get_connects_balance": {
+    "additionalProperties": true,
+    "properties": {
+      "balance": {
+        "minimum": 0,
+        "title": "Balance",
+        "type": "integer"
+      },
+      "spent": {
+        "default": 0,
+        "minimum": 0,
+        "title": "Spent",
+        "type": "integer"
+      }
+    },
+    "required": [
+      "balance"
+    ],
+    "title": "BalanceOutput",
+    "type": "object"
+  },
+  "marketplace.list_messages": {
+    "additionalProperties": true,
+    "properties": {
+      "messages": {
+        "items": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "title": "Messages",
+        "type": "array"
+      }
+    },
+    "required": [
+      "messages"
+    ],
+    "title": "MessagesOutput",
+    "type": "object"
+  },
+  "marketplace.create_proposal_draft": {
+    "additionalProperties": true,
+    "properties": {
+      "action": {
+        "title": "Action",
+        "type": "string"
+      },
+      "dry_run": {
+        "default": false,
+        "title": "Dry Run",
+        "type": "boolean"
+      },
+      "connects_cost": {
+        "anyOf": [
+          {
+            "minimum": 0,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Connects Cost"
+      },
+      "connects_spent": {
+        "default": 0,
+        "minimum": 0,
+        "title": "Connects Spent",
+        "type": "integer"
+      },
+      "payload_hash": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload Hash"
+      },
+      "payload": {
+        "anyOf": [
+          {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload"
+      },
+      "id": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Id"
+      },
+      "status": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Status"
+      }
+    },
+    "required": [
+      "action"
+    ],
+    "title": "WriteOutput",
+    "type": "object"
+  },
+  "marketplace.submit_proposal": {
+    "additionalProperties": true,
+    "properties": {
+      "action": {
+        "title": "Action",
+        "type": "string"
+      },
+      "dry_run": {
+        "default": false,
+        "title": "Dry Run",
+        "type": "boolean"
+      },
+      "connects_cost": {
+        "anyOf": [
+          {
+            "minimum": 0,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Connects Cost"
+      },
+      "connects_spent": {
+        "default": 0,
+        "minimum": 0,
+        "title": "Connects Spent",
+        "type": "integer"
+      },
+      "payload_hash": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload Hash"
+      },
+      "payload": {
+        "anyOf": [
+          {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload"
+      },
+      "id": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Id"
+      },
+      "status": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Status"
+      }
+    },
+    "required": [
+      "action"
+    ],
+    "title": "WriteOutput",
+    "type": "object"
+  },
+  "marketplace.send_message": {
+    "additionalProperties": true,
+    "properties": {
+      "action": {
+        "title": "Action",
+        "type": "string"
+      },
+      "dry_run": {
+        "default": false,
+        "title": "Dry Run",
+        "type": "boolean"
+      },
+      "connects_cost": {
+        "anyOf": [
+          {
+            "minimum": 0,
+            "type": "integer"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Connects Cost"
+      },
+      "connects_spent": {
+        "default": 0,
+        "minimum": 0,
+        "title": "Connects Spent",
+        "type": "integer"
+      },
+      "payload_hash": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload Hash"
+      },
+      "payload": {
+        "anyOf": [
+          {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload"
+      },
+      "id": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Id"
+      },
+      "status": {
+        "anyOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Status"
+      }
+    },
+    "required": [
+      "action"
+    ],
+    "title": "WriteOutput",
+    "type": "object"
+  },
+  "workspace.free_slots": {
+    "additionalProperties": true,
+    "properties": {
+      "slots": {
+        "items": {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        "title": "Slots",
+        "type": "array"
+      },
+      "synthetic": {
+        "title": "Synthetic",
+        "type": "boolean"
+      },
+      "timezone": {
+        "title": "Timezone",
+        "type": "string"
+      }
+    },
+    "required": [
+      "slots",
+      "synthetic",
+      "timezone"
+    ],
+    "title": "SlotsOutput",
+    "type": "object"
+  },
+  "workspace.create_interview_hold": {
+    "additionalProperties": true,
+    "properties": {
+      "payload_hash": {
+        "title": "Payload Hash",
+        "type": "string"
+      },
+      "dry_run": {
+        "default": false,
+        "title": "Dry Run",
+        "type": "boolean"
+      },
+      "payload": {
+        "anyOf": [
+          {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload"
+      }
+    },
+    "required": [
+      "payload_hash"
+    ],
+    "title": "WorkspaceDraftOutput",
+    "type": "object"
+  },
+  "workspace.create_email_draft": {
+    "additionalProperties": true,
+    "properties": {
+      "payload_hash": {
+        "title": "Payload Hash",
+        "type": "string"
+      },
+      "dry_run": {
+        "default": false,
+        "title": "Dry Run",
+        "type": "boolean"
+      },
+      "payload": {
+        "anyOf": [
+          {
+            "additionalProperties": true,
+            "type": "object"
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "default": null,
+        "title": "Payload"
+      }
+    },
+    "required": [
+      "payload_hash"
+    ],
+    "title": "WorkspaceDraftOutput",
+    "type": "object"
+  }
+}

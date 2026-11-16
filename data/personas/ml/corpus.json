@@ -1,0 +1,4797 @@
+[
+  {
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-00-case_study",
+    "type": "case_study",
+    "title": "Support knowledge assistant",
+    "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-00-case_study",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-00-readme",
+    "type": "readme",
+    "title": "Support knowledge assistant",
+    "text": "# Support knowledge assistant\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-00-readme",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-00-code",
+    "type": "code",
+    "title": "Support knowledge assistant",
+    "text": "# Support knowledge assistant\n# Verified synthetic implementation outline: retrieval over help-center documents with citations\n# Dependencies: Python, RAG, FastAPI\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-00-code",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-00-review",
+    "type": "review",
+    "title": "Support knowledge assistant",
+    "text": "Fictional client review for Support knowledge assistant: delivery included documented tests for retrieval over help-center documents with citations. Skills observed: Python, RAG, FastAPI.",
+    "source": "synthetic://ml-project-00-review",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-01-case_study",
+    "type": "case_study",
+    "title": "Image defect inspector",
+    "text": "Image defect inspector. Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-01-case_study",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-01-readme",
+    "type": "readme",
+    "title": "Image defect inspector",
+    "text": "# Image defect inspector\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-01-readme",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-01-code",
+    "type": "code",
+    "title": "Image defect inspector",
+    "text": "# Image defect inspector\n# Verified synthetic implementation outline: classification of factory defects with a held-out validation set\n# Dependencies: PyTorch, computer vision, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-01-code",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-01-review",
+    "type": "review",
+    "title": "Image defect inspector",
+    "text": "Fictional client review for Image defect inspector: delivery included documented tests for classification of factory defects with a held-out validation set. Skills observed: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml-project-01-review",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-02-case_study",
+    "type": "case_study",
+    "title": "Demand forecaster",
+    "text": "Demand forecaster. Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-02-case_study",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-02-readme",
+    "type": "readme",
+    "title": "Demand forecaster",
+    "text": "# Demand forecaster\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-02-readme",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-02-code",
+    "type": "code",
+    "title": "Demand forecaster",
+    "text": "# Demand forecaster\n# Verified synthetic implementation outline: rolling forecasts with backtesting and seasonal features\n# Dependencies: Python, time series, pandas\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-02-code",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-02-review",
+    "type": "review",
+    "title": "Demand forecaster",
+    "text": "Fictional client review for Demand forecaster: delivery included documented tests for rolling forecasts with backtesting and seasonal features. Skills observed: Python, time series, pandas.",
+    "source": "synthetic://ml-project-02-review",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-03-case_study",
+    "type": "case_study",
+    "title": "Semantic catalog search",
+    "text": "Semantic catalog search. Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-03-case_study",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-03-readme",
+    "type": "readme",
+    "title": "Semantic catalog search",
+    "text": "# Semantic catalog search\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-03-readme",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-03-code",
+    "type": "code",
+    "title": "Semantic catalog search",
+    "text": "# Semantic catalog search\n# Verified synthetic implementation outline: vector search with relevance tests and metadata filters\n# Dependencies: embeddings, Qdrant, FastAPI\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-03-code",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-03-review",
+    "type": "review",
+    "title": "Semantic catalog search",
+    "text": "Fictional client review for Semantic catalog search: delivery included documented tests for vector search with relevance tests and metadata filters. Skills observed: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml-project-03-review",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-04-case_study",
+    "type": "case_study",
+    "title": "Training pipeline",
+    "text": "Training pipeline. Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-04-case_study",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-04-readme",
+    "type": "readme",
+    "title": "Training pipeline",
+    "text": "# Training pipeline\nBuilt reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-04-readme",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-04-code",
+    "type": "code",
+    "title": "Training pipeline",
+    "text": "# Training pipeline\n# Verified synthetic implementation outline: reproducible experiments and model registry integration\n# Dependencies: MLflow, scikit-learn, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-04-code",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-04-review",
+    "type": "review",
+    "title": "Training pipeline",
+    "text": "Fictional client review for Training pipeline: delivery included documented tests for reproducible experiments and model registry integration. Skills observed: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml-project-04-review",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-05-case_study",
+    "type": "case_study",
+    "title": "Document extractor",
+    "text": "Document extractor. Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-05-case_study",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-05-readme",
+    "type": "readme",
+    "title": "Document extractor",
+    "text": "# Document extractor\nBuilt structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-05-readme",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-05-code",
+    "type": "code",
+    "title": "Document extractor",
+    "text": "# Document extractor\n# Verified synthetic implementation outline: structured extraction from invoices with field validation\n# Dependencies: OCR, Python, Pydantic\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-05-code",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-05-review",
+    "type": "review",
+    "title": "Document extractor",
+    "text": "Fictional client review for Document extractor: delivery included documented tests for structured extraction from invoices with field validation. Skills observed: OCR, Python, Pydantic.",
+    "source": "synthetic://ml-project-05-review",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-06-case_study",
+    "type": "case_study",
+    "title": "Model monitoring",
+    "text": "Model monitoring. Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-06-case_study",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-06-readme",
+    "type": "readme",
+    "title": "Model monitoring",
+    "text": "# Model monitoring\nBuilt drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-06-readme",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-06-code",
+    "type": "code",
+    "title": "Model monitoring",
+    "text": "# Model monitoring\n# Verified synthetic implementation outline: drift dashboards and alert thresholds\n# Dependencies: drift detection, Python, Prometheus\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-06-code",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-06-review",
+    "type": "review",
+    "title": "Model monitoring",
+    "text": "Fictional client review for Model monitoring: delivery included documented tests for drift dashboards and alert thresholds. Skills observed: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml-project-06-review",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-07-case_study",
+    "type": "case_study",
+    "title": "Text triage",
+    "text": "Text triage. Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-07-case_study",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-07-readme",
+    "type": "readme",
+    "title": "Text triage",
+    "text": "# Text triage\nBuilt ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-07-readme",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-07-code",
+    "type": "code",
+    "title": "Text triage",
+    "text": "# Text triage\n# Verified synthetic implementation outline: ticket routing with a confusion matrix and confidence threshold\n# Dependencies: NLP, transformers, Python\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-07-code",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-07-review",
+    "type": "review",
+    "title": "Text triage",
+    "text": "Fictional client review for Text triage: delivery included documented tests for ticket routing with a confusion matrix and confidence threshold. Skills observed: NLP, transformers, Python.",
+    "source": "synthetic://ml-project-07-review",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-08-case_study",
+    "type": "case_study",
+    "title": "Support knowledge assistant",
+    "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-08-case_study",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-08-readme",
+    "type": "readme",
+    "title": "Support knowledge assistant",
+    "text": "# Support knowledge assistant\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-08-readme",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-08-code",
+    "type": "code",
+    "title": "Support knowledge assistant",
+    "text": "# Support knowledge assistant\n# Verified synthetic implementation outline: retrieval over help-center documents with citations\n# Dependencies: Python, RAG, FastAPI\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-08-code",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-08-review",
+    "type": "review",
+    "title": "Support knowledge assistant",
+    "text": "Fictional client review for Support knowledge assistant: delivery included documented tests for retrieval over help-center documents with citations. Skills observed: Python, RAG, FastAPI.",
+    "source": "synthetic://ml-project-08-review",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-09-case_study",
+    "type": "case_study",
+    "title": "Image defect inspector",
+    "text": "Image defect inspector. Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-09-case_study",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-09-readme",
+    "type": "readme",
+    "title": "Image defect inspector",
+    "text": "# Image defect inspector\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-09-readme",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-09-code",
+    "type": "code",
+    "title": "Image defect inspector",
+    "text": "# Image defect inspector\n# Verified synthetic implementation outline: classification of factory defects with a held-out validation set\n# Dependencies: PyTorch, computer vision, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-09-code",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-09-review",
+    "type": "review",
+    "title": "Image defect inspector",
+    "text": "Fictional client review for Image defect inspector: delivery included documented tests for classification of factory defects with a held-out validation set. Skills observed: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml-project-09-review",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-10-case_study",
+    "type": "case_study",
+    "title": "Demand forecaster",
+    "text": "Demand forecaster. Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-10-case_study",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-10-readme",
+    "type": "readme",
+    "title": "Demand forecaster",
+    "text": "# Demand forecaster\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-10-readme",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-10-code",
+    "type": "code",
+    "title": "Demand forecaster",
+    "text": "# Demand forecaster\n# Verified synthetic implementation outline: rolling forecasts with backtesting and seasonal features\n# Dependencies: Python, time series, pandas\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-10-code",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-10-review",
+    "type": "review",
+    "title": "Demand forecaster",
+    "text": "Fictional client review for Demand forecaster: delivery included documented tests for rolling forecasts with backtesting and seasonal features. Skills observed: Python, time series, pandas.",
+    "source": "synthetic://ml-project-10-review",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-11-case_study",
+    "type": "case_study",
+    "title": "Semantic catalog search",
+    "text": "Semantic catalog search. Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-11-case_study",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-11-readme",
+    "type": "readme",
+    "title": "Semantic catalog search",
+    "text": "# Semantic catalog search\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-11-readme",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-11-code",
+    "type": "code",
+    "title": "Semantic catalog search",
+    "text": "# Semantic catalog search\n# Verified synthetic implementation outline: vector search with relevance tests and metadata filters\n# Dependencies: embeddings, Qdrant, FastAPI\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-11-code",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-11-review",
+    "type": "review",
+    "title": "Semantic catalog search",
+    "text": "Fictional client review for Semantic catalog search: delivery included documented tests for vector search with relevance tests and metadata filters. Skills observed: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml-project-11-review",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-12-case_study",
+    "type": "case_study",
+    "title": "Training pipeline",
+    "text": "Training pipeline. Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-12-case_study",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-12-readme",
+    "type": "readme",
+    "title": "Training pipeline",
+    "text": "# Training pipeline\nBuilt reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-12-readme",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-12-code",
+    "type": "code",
+    "title": "Training pipeline",
+    "text": "# Training pipeline\n# Verified synthetic implementation outline: reproducible experiments and model registry integration\n# Dependencies: MLflow, scikit-learn, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-12-code",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-15",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-12-review",
+    "type": "review",
+    "title": "Training pipeline",
+    "text": "Fictional client review for Training pipeline: delivery included documented tests for reproducible experiments and model registry integration. Skills observed: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml-project-12-review",
+    "approved_claims": [
+      "Built reproducible experiments and model registry integration using MLflow, scikit-learn, Docker for a fictional finance client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-13-case_study",
+    "type": "case_study",
+    "title": "Document extractor",
+    "text": "Document extractor. Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-13-case_study",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-13-readme",
+    "type": "readme",
+    "title": "Document extractor",
+    "text": "# Document extractor\nBuilt structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-13-readme",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-13-code",
+    "type": "code",
+    "title": "Document extractor",
+    "text": "# Document extractor\n# Verified synthetic implementation outline: structured extraction from invoices with field validation\n# Dependencies: OCR, Python, Pydantic\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-13-code",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-15",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-13-review",
+    "type": "review",
+    "title": "Document extractor",
+    "text": "Fictional client review for Document extractor: delivery included documented tests for structured extraction from invoices with field validation. Skills observed: OCR, Python, Pydantic.",
+    "source": "synthetic://ml-project-13-review",
+    "approved_claims": [
+      "Built structured extraction from invoices with field validation using OCR, Python, Pydantic for a fictional logistics client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-14-case_study",
+    "type": "case_study",
+    "title": "Model monitoring",
+    "text": "Model monitoring. Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-14-case_study",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-14-readme",
+    "type": "readme",
+    "title": "Model monitoring",
+    "text": "# Model monitoring\nBuilt drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-14-readme",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-14-code",
+    "type": "code",
+    "title": "Model monitoring",
+    "text": "# Model monitoring\n# Verified synthetic implementation outline: drift dashboards and alert thresholds\n# Dependencies: drift detection, Python, Prometheus\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-14-code",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-14-review",
+    "type": "review",
+    "title": "Model monitoring",
+    "text": "Fictional client review for Model monitoring: delivery included documented tests for drift dashboards and alert thresholds. Skills observed: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml-project-14-review",
+    "approved_claims": [
+      "Built drift dashboards and alert thresholds using drift detection, Python, Prometheus for a fictional healthcare client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-15-case_study",
+    "type": "case_study",
+    "title": "Text triage",
+    "text": "Text triage. Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-15-case_study",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-15-readme",
+    "type": "readme",
+    "title": "Text triage",
+    "text": "# Text triage\nBuilt ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-15-readme",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-15-code",
+    "type": "code",
+    "title": "Text triage",
+    "text": "# Text triage\n# Verified synthetic implementation outline: ticket routing with a confusion matrix and confidence threshold\n# Dependencies: NLP, transformers, Python\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-15-code",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-15-review",
+    "type": "review",
+    "title": "Text triage",
+    "text": "Fictional client review for Text triage: delivery included documented tests for ticket routing with a confusion matrix and confidence threshold. Skills observed: NLP, transformers, Python.",
+    "source": "synthetic://ml-project-15-review",
+    "approved_claims": [
+      "Built ticket routing with a confusion matrix and confidence threshold using NLP, transformers, Python for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-16-case_study",
+    "type": "case_study",
+    "title": "Support knowledge assistant",
+    "text": "Support knowledge assistant. Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-16-case_study",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-16-readme",
+    "type": "readme",
+    "title": "Support knowledge assistant",
+    "text": "# Support knowledge assistant\nBuilt retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-16-readme",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-16-code",
+    "type": "code",
+    "title": "Support knowledge assistant",
+    "text": "# Support knowledge assistant\n# Verified synthetic implementation outline: retrieval over help-center documents with citations\n# Dependencies: Python, RAG, FastAPI\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-16-code",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-16-review",
+    "type": "review",
+    "title": "Support knowledge assistant",
+    "text": "Fictional client review for Support knowledge assistant: delivery included documented tests for retrieval over help-center documents with citations. Skills observed: Python, RAG, FastAPI.",
+    "source": "synthetic://ml-project-16-review",
+    "approved_claims": [
+      "Built retrieval over help-center documents with citations using Python, RAG, FastAPI for a fictional support client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-17-case_study",
+    "type": "case_study",
+    "title": "Image defect inspector",
+    "text": "Image defect inspector. Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-17-case_study",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-17-readme",
+    "type": "readme",
+    "title": "Image defect inspector",
+    "text": "# Image defect inspector\nBuilt classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-17-readme",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-17-code",
+    "type": "code",
+    "title": "Image defect inspector",
+    "text": "# Image defect inspector\n# Verified synthetic implementation outline: classification of factory defects with a held-out validation set\n# Dependencies: PyTorch, computer vision, Docker\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-17-code",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-17-review",
+    "type": "review",
+    "title": "Image defect inspector",
+    "text": "Fictional client review for Image defect inspector: delivery included documented tests for classification of factory defects with a held-out validation set. Skills observed: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml-project-17-review",
+    "approved_claims": [
+      "Built classification of factory defects with a held-out validation set using PyTorch, computer vision, Docker for a fictional manufacturing client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-18-case_study",
+    "type": "case_study",
+    "title": "Demand forecaster",
+    "text": "Demand forecaster. Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-18-case_study",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-18-readme",
+    "type": "readme",
+    "title": "Demand forecaster",
+    "text": "# Demand forecaster\nBuilt rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-18-readme",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-18-code",
+    "type": "code",
+    "title": "Demand forecaster",
+    "text": "# Demand forecaster\n# Verified synthetic implementation outline: rolling forecasts with backtesting and seasonal features\n# Dependencies: Python, time series, pandas\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-18-code",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-18-review",
+    "type": "review",
+    "title": "Demand forecaster",
+    "text": "Fictional client review for Demand forecaster: delivery included documented tests for rolling forecasts with backtesting and seasonal features. Skills observed: Python, time series, pandas.",
+    "source": "synthetic://ml-project-18-review",
+    "approved_claims": [
+      "Built rolling forecasts with backtesting and seasonal features using Python, time series, pandas for a fictional retail client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-19-case_study",
+    "type": "case_study",
+    "title": "Semantic catalog search",
+    "text": "Semantic catalog search. Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client. Scope included requirements review, implementation, tests and a handover document. No production revenue or accuracy claim was measured.",
+    "source": "synthetic://ml-project-19-case_study",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-19-readme",
+    "type": "readme",
+    "title": "Semantic catalog search",
+    "text": "# Semantic catalog search\nBuilt vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client.\nRun tests before deployment. Configuration uses environment variables.",
+    "source": "synthetic://ml-project-19-readme",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-19-code",
+    "type": "code",
+    "title": "Semantic catalog search",
+    "text": "# Semantic catalog search\n# Verified synthetic implementation outline: vector search with relevance tests and metadata filters\n# Dependencies: embeddings, Qdrant, FastAPI\ndef validate_input(record):\n    return bool(record)",
+    "source": "synthetic://ml-project-19-code",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-15",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "GigBid seed_data.py; fictional freelancer and client",
+    "outcome": null,
+    "id": "ml-project-19-review",
+    "type": "review",
+    "title": "Semantic catalog search",
+    "text": "Fictional client review for Semantic catalog search: delivery included documented tests for vector search with relevance tests and metadata filters. Skills observed: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml-project-19-review",
+    "approved_claims": [
+      "Built vector search with relevance tests and metadata filters using embeddings, Qdrant, FastAPI for a fictional commerce client."
+    ]
+  },
+  {
+    "id": "ml-proposal-000",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-01",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/0",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-001",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-02",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/1",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-002",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-03",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/2",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-003",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-04",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/3",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-004",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-05",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/4",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-005",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-06",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/5",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-006",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-07",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/6",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-007",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-08",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/7",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-008",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-09",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/8",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-009",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-10",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/9",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-010",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-11",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/10",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-011",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-12",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/11",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-012",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-13",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/12",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-013",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-14",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/13",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-014",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-15",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/14",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-015",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-16",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/15",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-016",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-17",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/16",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-017",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-18",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/17",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-018",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-19",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/18",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-019",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-20",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/19",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-020",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-21",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/20",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-021",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-22",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/21",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-022",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-23",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/22",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-023",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-24",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/23",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-024",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-25",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/24",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-025",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-26",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/25",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-026",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-27",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/26",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-027",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-01",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/27",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-028",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-02",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/28",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-029",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-03",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/29",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-030",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-04",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/30",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-031",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-05",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/31",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-032",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-09-06",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/32",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-033",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-10-07",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/33",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-034",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-11-08",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/34",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-035",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-12-09",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/35",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-036",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-10",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/36",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-037",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-11",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/37",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-038",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-12",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/38",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-039",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-13",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/39",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-040",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-14",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/40",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-041",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/41",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-042",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-16",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/42",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-043",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-17",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/43",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-044",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-09-18",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/44",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-045",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-10-19",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/45",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-046",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-11-20",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/46",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-047",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-12-21",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/47",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-048",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-22",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/48",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-049",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-23",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/49",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-050",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-24",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/50",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-051",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-25",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/51",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-052",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-26",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/52",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-053",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-27",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/53",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-054",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-01",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/54",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-055",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-02",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/55",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-056",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-03",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/56",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-057",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-04",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/57",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-058",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-05",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/58",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-059",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-06",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/59",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-060",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-07",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/60",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-061",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-08",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/61",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-062",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-09",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/62",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-063",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-10",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/63",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-064",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-11",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/64",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-065",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-12",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/65",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-066",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-13",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/66",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-067",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-14",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/67",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-068",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/68",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-069",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-16",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/69",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-070",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-17",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/70",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-071",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-18",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/71",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-072",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-19",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/72",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-073",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-20",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/73",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-074",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-21",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/74",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-075",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-22",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/75",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-076",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-23",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/76",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-077",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-24",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/77",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-078",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-25",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/78",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-079",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-26",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/79",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-080",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-27",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/80",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-081",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-01",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/81",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-082",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-02",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/82",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-083",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-03",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/83",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-084",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-04",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/84",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-085",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-05",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/85",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-086",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-06",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/86",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-087",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-07",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/87",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-088",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-08",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/88",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-089",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-09",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/89",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-090",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-10",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/90",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-091",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-11",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/91",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-092",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-09-12",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/92",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-093",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-10-13",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/93",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-094",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-11-14",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/94",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-095",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-12-15",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/95",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-096",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-16",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/96",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-097",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-17",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/97",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-098",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-18",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/98",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-099",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-19",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/99",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-100",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-20",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/100",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-101",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-21",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/101",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-102",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-22",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/102",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-103",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-23",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/103",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-104",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-09-24",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/104",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-105",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-10-25",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/105",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-106",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-11-26",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/106",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-107",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-12-27",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/107",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-108",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-01",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/108",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-109",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-02",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/109",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-110",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-03",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/110",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-111",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-04",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/111",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-112",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-05",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/112",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-113",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-06",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/113",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-114",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-07",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/114",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-115",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-08",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/115",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-116",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-09",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/116",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-117",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-10",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/117",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-118",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-11",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/118",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-119",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-12",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/119",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-120",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-01-13",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/120",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-121",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-02-14",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/121",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-122",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-03-15",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/122",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-123",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-04-16",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/123",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-124",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-05-17",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/124",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-125",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-06-18",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/125",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-126",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-07-19",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/126",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-127",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-08-20",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/127",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-128",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-21",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/128",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-129",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-22",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/129",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-130",
+    "persona": "ml",
+    "project": "ml-project-10",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-23",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/130",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-131",
+    "persona": "ml",
+    "project": "ml-project-11",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-24",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/131",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-132",
+    "persona": "ml",
+    "project": "ml-project-12",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-25",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/132",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-133",
+    "persona": "ml",
+    "project": "ml-project-13",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-26",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/133",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-134",
+    "persona": "ml",
+    "project": "ml-project-14",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-27",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/134",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-135",
+    "persona": "ml",
+    "project": "ml-project-15",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-01",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "won",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/135",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-136",
+    "persona": "ml",
+    "project": "ml-project-16",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-02",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/136",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-137",
+    "persona": "ml",
+    "project": "ml-project-17",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-03",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/137",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-138",
+    "persona": "ml",
+    "project": "ml-project-18",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-07-04",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/138",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-139",
+    "persona": "ml",
+    "project": "ml-project-19",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-08-05",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/139",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-140",
+    "persona": "ml",
+    "project": "ml-project-00",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-09-06",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/140",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-141",
+    "persona": "ml",
+    "project": "ml-project-01",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-10-07",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/141",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-142",
+    "persona": "ml",
+    "project": "ml-project-02",
+    "skills": [
+      "Python",
+      "time series",
+      "pandas"
+    ],
+    "date": "2025-11-08",
+    "industry": "retail",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Demand forecaster",
+    "text": "I can plan rolling forecasts with backtesting and seasonal features. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, time series, pandas.",
+    "source": "synthetic://ml/proposal/142",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-143",
+    "persona": "ml",
+    "project": "ml-project-03",
+    "skills": [
+      "embeddings",
+      "Qdrant",
+      "FastAPI"
+    ],
+    "date": "2025-12-09",
+    "industry": "commerce",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Semantic catalog search",
+    "text": "I can plan vector search with relevance tests and metadata filters. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: embeddings, Qdrant, FastAPI.",
+    "source": "synthetic://ml/proposal/143",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-144",
+    "persona": "ml",
+    "project": "ml-project-04",
+    "skills": [
+      "MLflow",
+      "scikit-learn",
+      "Docker"
+    ],
+    "date": "2025-01-10",
+    "industry": "finance",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Training pipeline",
+    "text": "I can plan reproducible experiments and model registry integration. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: MLflow, scikit-learn, Docker.",
+    "source": "synthetic://ml/proposal/144",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-145",
+    "persona": "ml",
+    "project": "ml-project-05",
+    "skills": [
+      "OCR",
+      "Python",
+      "Pydantic"
+    ],
+    "date": "2025-02-11",
+    "industry": "logistics",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Document extractor",
+    "text": "I can plan structured extraction from invoices with field validation. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: OCR, Python, Pydantic.",
+    "source": "synthetic://ml/proposal/145",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-146",
+    "persona": "ml",
+    "project": "ml-project-06",
+    "skills": [
+      "drift detection",
+      "Python",
+      "Prometheus"
+    ],
+    "date": "2025-03-12",
+    "industry": "healthcare",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Model monitoring",
+    "text": "I can plan drift dashboards and alert thresholds. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: drift detection, Python, Prometheus.",
+    "source": "synthetic://ml/proposal/146",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-147",
+    "persona": "ml",
+    "project": "ml-project-07",
+    "skills": [
+      "NLP",
+      "transformers",
+      "Python"
+    ],
+    "date": "2025-04-13",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "ignored",
+    "type": "proposal",
+    "title": "Text triage",
+    "text": "I can plan ticket routing with a confusion matrix and confidence threshold. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: NLP, transformers, Python.",
+    "source": "synthetic://ml/proposal/147",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-148",
+    "persona": "ml",
+    "project": "ml-project-08",
+    "skills": [
+      "Python",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-05-14",
+    "industry": "support",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Support knowledge assistant",
+    "text": "I can plan retrieval over help-center documents with citations. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: Python, RAG, FastAPI.",
+    "source": "synthetic://ml/proposal/148",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-proposal-149",
+    "persona": "ml",
+    "project": "ml-project-09",
+    "skills": [
+      "PyTorch",
+      "computer vision",
+      "Docker"
+    ],
+    "date": "2025-06-15",
+    "industry": "manufacturing",
+    "synthetic": true,
+    "provenance": "Synthetic independent outcome draw; NOT a real success label",
+    "outcome": "replied",
+    "type": "proposal",
+    "title": "Image defect inspector",
+    "text": "I can plan classification of factory defects with a held-out validation set. Proposed approach: confirm inputs, implement a small vertical slice, evaluate against agreed checks, and document the handover. Tools: PyTorch, computer vision, Docker.",
+    "source": "synthetic://ml/proposal/149",
+    "approved_claims": []
+  },
+  {
+    "id": "ml-cv",
+    "persona": "ml",
+    "project": "ml-profile",
+    "skills": [
+      "Docker",
+      "FastAPI",
+      "MLflow",
+      "NLP",
+      "OCR",
+      "Prometheus",
+      "PyTorch",
+      "Pydantic",
+      "Python",
+      "Qdrant",
+      "RAG",
+      "computer vision",
+      "drift detection",
+      "embeddings",
+      "pandas",
+      "scikit-learn",
+      "time series",
+      "transformers"
+    ],
+    "date": "2026-01-01",
+    "industry": "general",
+    "synthetic": true,
+    "provenance": "Fictional CV",
+    "outcome": null,
+    "type": "cv",
+    "title": "ML synthetic CV",
+    "text": "Fictional ml freelancer. Refer to individual case studies for specific work. No real person is represented.",
+    "source": "synthetic://ml/cv",
+    "approved_claims": []
+  }
+]
